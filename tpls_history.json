@@ -1,0 +1,41 @@
+{
+  "version":"20210916",
+  "har": {
+    "不移之火": {
+      "name": "不移之火",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/%E4%B8%8D%E7%A7%BB%E4%B9%8B%E7%81%AB.har",
+      "update": false,
+      "comments": "登录后首页cookie<br>https://www.byzhihuo.com/",
+      "filename": "不移之火.har",
+      "content": "",
+      "date": "2021-09-16 10:00:00",
+      "version":"20210916",
+      "commenturl":""
+    },
+    "element3ds": {
+      "name": "element3ds",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/element3ds.har",
+      "update": false,
+      "comments": "登录后首页cookie<br>https://www.element3ds.com/",
+      "filename": "element3ds.har",
+      "content": "",
+      "date": "2021-09-16 10:00:00",
+      "version":"20210916",
+      "commenturl":""
+    },
+    "人人字幕组": {
+      "name": "人人字幕组",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/element3ds.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>DOMAIN：网站域名【http://www.yysub.net/】",
+      "filename": "人人字幕组.har",
+      "content": "",
+      "date": "2021-09-16 10:00:00",
+      "version":"20210916",
+      "commenturl":""
+    }
+  }
+}
