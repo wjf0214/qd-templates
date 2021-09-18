@@ -28,7 +28,7 @@
     "人人字幕组": {
       "name": "人人字幕组",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/element3ds.har",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/%E4%BA%BA%E4%BA%BA%E5%AD%97%E5%B9%95%E7%BB%84.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>DOMAIN：网站域名【http://www.yysub.net/】",
       "filename": "人人字幕组.har",
@@ -37,13 +37,13 @@
       "version":"20210916",
       "commenturl":""
     },
-    "chinafix": {
-      "name": "chinafix",
+    "迅维网": {
+      "name": "迅维网",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/chinafix.har",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/%E8%BF%85%E7%BB%B4%E7%BD%91.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://www.chinafix.com",
-      "filename": "chinafix.har",
+      "filename": "迅维网.har",
       "content": "",
       "date": "2021-09-16 10:00:00",
       "version":"20210916",
@@ -138,7 +138,7 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/hao4k.har",
       "update": false,
-      "comments": "账号如果是中文请先去【http://tool.chinaz.com/tools/urlencode.aspx】选择gb2312进行UrlEncode编码后填入。<br>username:账号<br>password:密码<br>https://www.hao4k.cn/member.php",
+      "comments": "账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>username:账号<br>password:密码<br>https://www.hao4k.cn/member.php",
       "filename": "hao4k.har",
       "content": "",
       "date": "2021-09-16 10:00:00",
@@ -191,6 +191,54 @@
       "content": "",
       "date": "2021-09-16 10:00:00",
       "version":"20210916",
+      "commenturl":""
+    },
+    "网易云游戏": {
+      "name": "网易云游戏",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/%E7%BD%91%E6%98%93%E4%BA%91%E6%B8%B8%E6%88%8F.har",
+      "update": false,
+      "comments": "登录后首页cookie<br>https://cg.163.com/",
+      "filename": "网易云游戏.har",
+      "content": "",
+      "date": "2021-09-18 10:00:00",
+      "version":"20210918",
+      "commenturl":""
+    },
+    "咿哩莎白": {
+      "name": "咿哩莎白",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/%E5%92%BF%E5%93%A9%E8%8E%8E%E7%99%BD.har",
+      "update": false,
+      "comments": "homeaction和cks 打开首页即可获取 https://www.elisa.la/wp-admin/admin-ajax.php?action=<br>https://www.elisa.la/",
+      "filename": "咿哩莎白.har",
+      "content": "",
+      "date": "2021-09-18 10:00:00",
+      "version":"20210918",
+      "commenturl":""
+    },
+    "致美化": {
+      "name": "致美化",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/%E8%87%B4%E7%BE%8E%E5%8C%96.har",
+      "update": false,
+      "comments": "user:账号<br>pass:密码<br>https://zhutix.com",
+      "filename": "致美化.har",
+      "content": "",
+      "date": "2021-09-18 10:00:00",
+      "version":"20210918",
+      "commenturl":""
+    },
+    "时光相册": {
+      "name": "时光相册",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/%E6%97%B6%E5%85%89%E7%9B%B8%E5%86%8C.har",
+      "update": false,
+      "comments": "phone:账号<br>password:密码<br>手机号密码 请抓登陆包查看 手机号里包括区号 86啥的 密码为加密后的密码<br>https://www.everphoto.cn/",
+      "filename": "时光相册.har",
+      "content": "",
+      "date": "2021-09-18 10:00:00",
+      "version":"20210918",
       "commenturl":""
     }
   }
