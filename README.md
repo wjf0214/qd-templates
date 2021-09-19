@@ -1,5 +1,17 @@
-# 整理qiandao可用的har
+# 整理qiandao可用的har模板
 
+[![visitors](https://visitor-badge.vercel.app/p/qd-templates)](https://github.com/wjf0214/qd-templates) ![GitHub last commit](https://img.shields.io/github/last-commit/wjf0214/qd-templates.svg?style=popout-square)
+
+### 简介
+
+> 项目基于开源的签到框架站使用
+[源码](https://github.com/binux/qiandao) 最初版本。
+[强化版](https://github.com/AragonSnow/qiandao)  作者已划水。
+[二次强化版](https://github.com/a76yyyy/qiandao)  二次强化版，现持续更新中。
+现模板基于 [二次强化版](https://github.com/a76yyyy/qiandao) 框架使用。
+具体使用方式请自行学习。
+
+### 网站
 > 已支持的网站
 
 网站名称 | 链接 | 说明
@@ -32,3 +44,4 @@ level-plus | [level-plus.har](https://github.com/wjf0214/qd-templates/blob/maste
 VCB-Studio分享论坛 | [VCB-Studio分享论坛.har](https://github.com/wjf0214/qd-templates/blob/master/VCB-Studio%E5%88%86%E4%BA%AB%E8%AE%BA%E5%9D%9B.har) | 登录后首页cookie<br>https://bbs.acgrip.com
 一酷C4D | [一酷C4D.har](https://github.com/wjf0214/qd-templates/blob/master/%E4%B8%80%E9%85%B7C4D.har) | 登录后首页cookie<br>https://c4dco.com
 SolidWorks机械工程师网 | [SolidWorks机械工程师网.har](https://github.com/wjf0214/qd-templates/blob/master/SolidWorks%E6%9C%BA%E6%A2%B0%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%BD%91.har) | 账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>username:账号<br>password:密码<br>https://www.swbbsc.com/
+HDarea高清视界 | [HDarea高清视界.har](https://github.com/wjf0214/qd-templates/blob/master/HDarea%E9%AB%98%E6%B8%85%E8%A7%86%E7%95%8C.har) | 登录后首页cookie<br>https://www.hdarea.co/

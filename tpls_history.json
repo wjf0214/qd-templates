@@ -336,6 +336,18 @@
       "date": "2021-09-19 10:00:00",
       "version":"20210919",
       "commenturl":""
+    },
+    "HDarea高清视界": {
+      "name": "HDarea高清视界",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/HDarea%E9%AB%98%E6%B8%85%E8%A7%86%E7%95%8C.har",
+      "update": false,
+      "comments": "登录后首页cookie<br>https://www.hdarea.co/",
+      "filename": "HDarea高清视界.har",
+      "content": "",
+      "date": "2021-09-20 10:00:00",
+      "version":"20210920",
+      "commenturl":""
     }
   }
 }
