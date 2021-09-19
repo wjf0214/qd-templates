@@ -27,3 +27,8 @@ hao4k | [hao4k.har](https://github.com/wjf0214/qd-templates/blob/master/hao4k.ha
 书香门第 | [书香门第.har](https://github.com/wjf0214/qd-templates/blob/master/%E4%B9%A6%E9%A6%99%E9%97%A8%E7%AC%AC.har) | account:账号<br>password:密码<br>登陆账号密码(只支持字母+数字组合账号)<br>http://www.txtnovel.top
 漫画补档(账号密码版) | [漫画补档(账号密码版).har](https://github.com/wjf0214/qd-templates/blob/master/%E6%BC%AB%E7%94%BB%E8%A1%A5%E6%A1%A3(%E8%B4%A6%E5%8F%B7%E5%AF%86%E7%A0%81%E7%89%88).har) | 账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>user:账号<br>pwd:密码<br>https://www.manhuabudang.com
 bigfun | [bigfun.har](https://github.com/wjf0214/qd-templates/blob/master/bigfun.har) | 登录后首页cookie<br>https://www.bigfun.cn
+hostloc主机论坛 | [hostloc主机论坛.har](https://github.com/wjf0214/qd-templates/blob/master/hostloc%E4%B8%BB%E6%9C%BA%E8%AE%BA%E5%9D%9B.har) | 登录后首页cookie<br>https://hostloc.com
+level-plus | [level-plus.har](https://github.com/wjf0214/qd-templates/blob/master/level-plus.har) | 登录后首页cookie和UA<br>https://www.level-plus.net
+VCB-Studio分享论坛 | [VCB-Studio分享论坛.har](https://github.com/wjf0214/qd-templates/blob/master/VCB-Studio%E5%88%86%E4%BA%AB%E8%AE%BA%E5%9D%9B.har) | 登录后首页cookie<br>https://bbs.acgrip.com
+一酷C4D | [一酷C4D.har](https://github.com/wjf0214/qd-templates/blob/master/%E4%B8%80%E9%85%B7C4D.har) | 登录后首页cookie<br>https://c4dco.com
+SolidWorks机械工程师网 | [SolidWorks机械工程师网.har](https://github.com/wjf0214/qd-templates/blob/master/SolidWorks%E6%9C%BA%E6%A2%B0%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%BD%91.har) | 账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>username:账号<br>password:密码<br>https://www.swbbsc.com/
