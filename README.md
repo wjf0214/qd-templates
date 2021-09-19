@@ -24,3 +24,6 @@ hao4k | [hao4k.har](https://github.com/wjf0214/qd-templates/blob/master/hao4k.ha
 咿哩莎白 | [咿哩莎白.har](https://github.com/wjf0214/qd-templates/blob/master/%E5%92%BF%E5%93%A9%E8%8E%8E%E7%99%BD.har) | homeaction和cks 打开首页即可获取 https://www.elisa.la/wp-admin/admin-ajax.php?action=  <br>https://www.elisa.la/
 致美化 | [致美化.har](https://github.com/wjf0214/qd-templates/blob/master/%E8%87%B4%E7%BE%8E%E5%8C%96.har) | user:账号<br>pass:密码<br>https://zhutix.com
 时光相册 | [时光相册.har](https://github.com/wjf0214/qd-templates/blob/master/%E6%97%B6%E5%85%89%E7%9B%B8%E5%86%8C.har) | phone:账号<br>password:密码<br>手机号密码 请抓登陆包查看 手机号里包括区号 86啥的 密码为加密后的密码<br>https://www.everphoto.cn/
+书香门第 | [书香门第.har](https://github.com/wjf0214/qd-templates/blob/master/%E4%B9%A6%E9%A6%99%E9%97%A8%E7%AC%AC.har) | account:账号<br>password:密码<br>登陆账号密码(只支持字母+数字组合账号)<br>http://www.txtnovel.top
+漫画补档(账号密码版) | [漫画补档(账号密码版).har](https://github.com/wjf0214/qd-templates/blob/master/%E6%BC%AB%E7%94%BB%E8%A1%A5%E6%A1%A3(%E8%B4%A6%E5%8F%B7%E5%AF%86%E7%A0%81%E7%89%88).har) | 账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>user:账号<br>pwd:密码<br>https://www.manhuabudang.com
+bigfun | [bigfun.har](https://github.com/wjf0214/qd-templates/blob/master/bigfun.har) | 登录后首页cookie<br>https://www.bigfun.cn

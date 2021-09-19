@@ -240,6 +240,42 @@
       "date": "2021-09-18 10:00:00",
       "version":"20210918",
       "commenturl":""
+    },
+    "书香门第": {
+      "name": "书香门第",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/%E4%B9%A6%E9%A6%99%E9%97%A8%E7%AC%AC.har",
+      "update": false,
+      "comments": "account:账号<br>password:密码<br>登陆账号密码(只支持字母+数字组合账号)<br>http://www.txtnovel.top",
+      "filename": "书香门第.har",
+      "content": "",
+      "date": "2021-09-19 10:00:00",
+      "version":"20210919",
+      "commenturl":""
+    },
+    "漫画补档(账号密码版)": {
+      "name": "漫画补档(账号密码版)",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/%E6%BC%AB%E7%94%BB%E8%A1%A5%E6%A1%A3(%E8%B4%A6%E5%8F%B7%E5%AF%86%E7%A0%81%E7%89%88).har",
+      "update": false,
+      "comments": "账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>user:账号<br>pwd:密码<br>https://www.manhuabudang.com",
+      "filename": "漫画补档(账号密码版).har",
+      "content": "",
+      "date": "2021-09-19 10:00:00",
+      "version":"20210919",
+      "commenturl":""
+    },
+    "bigfun": {
+      "name": "bigfun",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/bigfun.har",
+      "update": false,
+      "comments": "登录后首页cookie<br>https://www.bigfun.cn",
+      "filename": "bigfun.har",
+      "content": "",
+      "date": "2021-09-19 10:00:00",
+      "version":"20210919",
+      "commenturl":""
     }
   }
 }
