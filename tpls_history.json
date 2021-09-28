@@ -372,6 +372,18 @@
       "date": "2021-09-21 10:00:00",
       "version":"20210921",
       "commenturl":""
+    },
+    "精易论坛": {
+      "name": "精易论坛",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/精易论坛.har",
+      "update": false,
+      "comments": "登录后首页cookie<br>https://bbs.125.la/",
+      "filename": "精易论坛.har",
+      "content": "",
+      "date": "2021-09-28 17:00:00",
+      "version":"20210928",
+      "commenturl":""
     }
   }
 }
