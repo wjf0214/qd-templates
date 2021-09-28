@@ -408,6 +408,18 @@
       "date": "2021-09-28 20:00:00",
       "version":"20210928",
       "commenturl":""
+    },
+    "粤梦缘": {
+      "name": "粤梦缘",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/粤梦缘.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://www.dranime.net/",
+      "filename": "粤梦缘.har",
+      "content": "",
+      "date": "2021-09-28 23:00:00",
+      "version":"20210928",
+      "commenturl":""
     }
   }
 }

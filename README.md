@@ -50,4 +50,4 @@ HDarea高清视界 | [HDarea高清视界.har](https://github.com/wjf0214/qd-temp
 精易论坛 | [精易论坛.har](https://github.com/wjf0214/qd-templates/blob/master/精易论坛.har) | 登录后首页cookie<br>https://bbs.125.la/
 晋江小说 | [晋江小说.har](https://github.com/wjf0214/qd-templates/blob/master/晋江小说.har) | 登录后首页cookie<br>https://m.jjwxc.net/
 看雪安全论坛 | [看雪安全论坛.har](https://github.com/wjf0214/qd-templates/blob/master/看雪安全论坛.har) | 登录后首页cookie<br>https://bbs.pediy.com/
-
+粤梦缘 | [粤梦缘.har](https://github.com/wjf0214/qd-templates/blob/master/粤梦缘.har) | username:账号<br>password:密码<br>https://www.dranime.net/
