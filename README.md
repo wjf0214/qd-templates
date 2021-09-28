@@ -48,3 +48,6 @@ HDarea高清视界 | [HDarea高清视界.har](https://github.com/wjf0214/qd-temp
 经管之家 | [经管之家.har](https://github.com/wjf0214/qd-templates/blob/master/经管之家.har) | 登录后首页cookie<br>https://bbs.pinggu.org/
 香网小说 | [香网小说.har](https://github.com/wjf0214/qd-templates/blob/master/香网小说.har) | 登录后首页cookie<br>https://m.xiang5.com/
 精易论坛 | [精易论坛.har](https://github.com/wjf0214/qd-templates/blob/master/精易论坛.har) | 登录后首页cookie<br>https://bbs.125.la/
+晋江小说 | [晋江小说.har](https://github.com/wjf0214/qd-templates/blob/master/晋江小说.har) | 登录后首页cookie<br>https://m.jjwxc.net/
+看雪安全论坛 | [看雪安全论坛.har](https://github.com/wjf0214/qd-templates/blob/master/看雪安全论坛.har) | 登录后首页cookie<br>https://bbs.pediy.com/
+

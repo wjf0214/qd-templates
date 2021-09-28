@@ -384,6 +384,30 @@
       "date": "2021-09-28 17:00:00",
       "version":"20210928",
       "commenturl":""
+    },
+    "晋江小说": {
+      "name": "晋江小说",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/晋江小说.har",
+      "update": false,
+      "comments": "登录后首页cookie<br>https://m.jjwxc.net/",
+      "filename": "晋江小说.har",
+      "content": "",
+      "date": "2021-09-28 20:00:00",
+      "version":"20210928",
+      "commenturl":""
+    },
+    "看雪安全论坛": {
+      "name": "看雪安全论坛",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/看雪安全论坛.har",
+      "update": false,
+      "comments": "登录后首页cookie<br>https://bbs.pediy.com/",
+      "filename": "看雪安全论坛.har",
+      "content": "",
+      "date": "2021-09-28 20:00:00",
+      "version":"20210928",
+      "commenturl":""
     }
   }
 }
