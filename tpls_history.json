@@ -86,7 +86,7 @@
       "commenturl":""
     },
     "koolshare": {
-      "name": "koolshare",
+      "name": "koolshare[已关站不可用]",
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/koolshare.har",
       "update": false,
@@ -102,11 +102,11 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/卡饭.har",
       "update": false,
-      "comments": "登录后首页cookie<br>https://bbs.kafan.cn/",
+      "comments": "账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>username:账号<br>password:密码<br>https://bbs.kafan.cn/",
       "filename": "卡饭.har",
       "content": "",
-      "date": "2021-09-16 10:00:00",
-      "version":"20210916",
+      "date": "2021-11-01 17:00:00",
+      "version":"20211101",
       "commenturl":""
     },
     "魅族社区": {
@@ -138,11 +138,11 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/hao4k.har",
       "update": false,
-      "comments": "账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>username:账号<br>password:密码<br>https://www.hao4k.cn/member.php",
+      "comments": "username:账号<br>password:密码<br>https://www.hao4k.cn/",
       "filename": "hao4k.har",
       "content": "",
-      "date": "2021-09-16 10:00:00",
-      "version":"20210916",
+      "date": "2021-11-09 20:00:00",
+      "version":"20211109",
       "commenturl":""
     },
     "几鸡": {
@@ -189,8 +189,8 @@
       "comments": "登录后首页cookie<br>https://www.lkong.com/",
       "filename": "龙的天空.har",
       "content": "",
-      "date": "2021-09-16 10:00:00",
-      "version":"20210916",
+      "date": "2021-10-18 10:00:00",
+      "version":"20211018",
       "commenturl":""
     },
     "网易云游戏": {
@@ -205,16 +205,16 @@
       "version":"20210918",
       "commenturl":""
     },
-    "咿哩莎白": {
-      "name": "咿哩莎白",
+    "E次元": {
+      "name": "E次元",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/咿哩莎白.har",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/E次元.har",
       "update": false,
-      "comments": "homeaction和cks 打开首页即可获取 https://www.elisa.la/wp-admin/admin-ajax.php?action=<br>https://www.elisa.la/",
-      "filename": "咿哩莎白.har",
+      "comments": "homeaction和cks 打开首页即可获取 https://www.evacg.cc/wp-admin/admin-ajax.php?action=<br>https://www.evacg.cc/",
+      "filename": "E次元.har",
       "content": "",
-      "date": "2021-09-18 10:00:00",
-      "version":"20210918",
+      "date": "2021-10-20 10:00:00",
+      "version":"20211020",
       "commenturl":""
     },
     "致美化": {
@@ -237,8 +237,8 @@
       "comments": "phone:账号<br>password:密码<br>手机号密码 请抓登陆包查看 手机号里包括区号 86啥的 密码为加密后的密码<br>https://www.everphoto.cn/",
       "filename": "时光相册.har",
       "content": "",
-      "date": "2021-09-18 10:00:00",
-      "version":"20210918",
+      "date": "2021-10-18 10:00:00",
+      "version":"20211018",
       "commenturl":""
     },
     "书香门第": {
@@ -313,7 +313,7 @@
       "version":"20210919",
       "commenturl":""
     },
-    "": {
+    "一酷C4D": {
       "name": "一酷C4D",
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/一酷C4D.har",
@@ -321,8 +321,8 @@
       "comments": "登录后首页cookie<br>https://c4dco.com",
       "filename": "一酷C4D.har",
       "content": "",
-      "date": "2021-09-19 10:00:00",
-      "version":"20210919",
+      "date": "2021-10-08 10:00:00",
+      "version":"20211008",
       "commenturl":""
     },
     "SolidWorks机械工程师网": {
@@ -419,6 +419,186 @@
       "content": "",
       "date": "2021-09-28 23:00:00",
       "version":"20210928",
+      "commenturl":""
+    },
+    "人人素材": {
+      "name": "人人素材",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/人人素材.har",
+      "update": false,
+      "comments": "username:账号,手机号<br>password:密码<br>https://www.rrcg.cn/",
+      "filename": "人人素材.har",
+      "content": "",
+      "date": "2021-11-09 20:00:00",
+      "version":"20211109",
+      "commenturl":""
+    },
+    "幕后Muhou": {
+      "name": "幕后Muhou",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/幕后Muhou.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://muhou.net/",
+      "filename": "幕后Muhou.har",
+      "content": "",
+      "date": "2021-09-29 12:30:00",
+      "version":"20210929",
+      "commenturl":""
+    },
+    "飞客茶馆": {
+      "name": "飞客茶馆",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/飞客茶馆.har",
+      "update": false,
+      "comments": "登录后首页cookie<br>https://www.flyert.com/",
+      "filename": "飞客茶馆.har",
+      "content": "",
+      "date": "2021-09-30 00:00:00",
+      "version":"20210930",
+      "commenturl":""
+    },
+    "萌幻之乡": {
+      "name": "萌幻之乡",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/萌幻之乡.har",
+      "update": false,
+      "comments": "登录后首页cookie<br>https://www.hmoe11.net/",
+      "filename": "萌幻之乡.har",
+      "content": "",
+      "date": "2021-10-19 14:00:00",
+      "version":"20211019",
+      "commenturl":""
+    },
+    "v2ex": {
+      "name": "v2ex",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/v2ex.har",
+      "update": false,
+      "comments": "登录后首页cookie<br>https://www.v2ex.com/",
+      "filename": "v2ex.har",
+      "content": "",
+      "date": "2021-09-30 00:00:00",
+      "version":"20210930",
+      "commenturl":""
+    },
+    "好家伙机场": {
+      "name": "好家伙机场",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/好家伙机场.har",
+      "update": false,
+      "comments": "email:邮箱<br>passwd:密码<br>https://haojiahuo.live/",
+      "filename": "好家伙机场.har",
+      "content": "",
+      "date": "2021-10-02 13:00:00",
+      "version":"20211002",
+      "commenturl":""
+    },
+    "后期菌资源村": {
+      "name": "后期菌资源村",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/后期菌资源村.har",
+      "update": false,
+      "comments": "username:手机号<br>password:密码<br>http://www.houqijun.vip/",
+      "filename": "后期菌资源村.har",
+      "content": "",
+      "date": "2021-10-06 17:40:00",
+      "version":"20211006",
+      "commenturl":""
+    },
+    "中国原创音乐基地5SING": {
+      "name": "中国原创音乐基地5SING",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/中国原创音乐基地5SING.har",
+      "update": false,
+      "comments": "登录后首页cookie,ck有效期一周<br>http://5sing.kugou.com/",
+      "filename": "中国原创音乐基地5SING.har",
+      "content": "",
+      "date": "2021-10-06 17:40:00",
+      "version":"20211006",
+      "commenturl":""
+    },
+    "91wii核心玩家的集中营": {
+      "name": "91wii核心玩家的集中营",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/91wii核心玩家的集中营.har",
+      "update": false,
+      "comments": "登录后首页cookie,sum默认填0<br>https://www.91wii.com/",
+      "filename": "91wii核心玩家的集中营.har",
+      "content": "",
+      "date": "2021-10-11 00:00:00",
+      "version":"20211011",
+      "commenturl":""
+    },
+    "189天翼云(账号密码版)": {
+      "name": "189天翼云(账号密码版)",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/189天翼云(账号密码版).har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://cloud.189.cn/",
+      "filename": "189天翼云(账号密码版).har",
+      "content": "",
+      "date": "2021-10-13 15:00:00",
+      "version":"20211013",
+      "commenturl":""
+    },
+    "绅士领域": {
+      "name": "绅士领域",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/绅士领域.har",
+      "update": false,
+      "comments": "uid:个人uid可APP抓签到包看到",
+      "filename": "绅士领域.har",
+      "content": "",
+      "date": "2021-10-31 14:00:00",
+      "version":"20211031",
+      "commenturl":""
+    },
+    "手电大家谈": {
+      "name": "手电大家谈",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/手电大家谈.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://www.shoudian.org/",
+      "filename": "手电大家谈.har",
+      "content": "",
+      "date": "2021-11-03 22:00:00",
+      "version":"20211103",
+      "commenturl":""
+    },
+    "次元狗": {
+      "name": "次元狗",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/次元狗.har",
+      "update": false,
+      "comments": "登录后首页cookie<br>https://www.acgndog.com/",
+      "filename": "次元狗.har",
+      "content": "",
+      "date": "2021-11-09 00:00:00",
+      "version":"20211109",
+      "commenturl":""
+    },
+    "阅次元论坛": {
+      "name": "阅次元论坛",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/阅次元论坛.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://www.abooky.com/",
+      "filename": "阅次元论坛.har",
+      "content": "",
+      "date": "2021-11-09 00:00:00",
+      "version":"20211109",
+      "commenturl":""
+    },
+    "科技玩家": {
+      "name": "科技玩家",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/科技玩家.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://www.kejiwanjia.com/",
+      "filename": "科技玩家.har",
+      "content": "",
+      "date": "2021-11-09 00:00:00",
+      "version":"20211109",
       "commenturl":""
     }
   }
