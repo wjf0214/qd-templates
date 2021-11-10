@@ -600,6 +600,18 @@
       "date": "2021-11-09 00:00:00",
       "version":"20211109",
       "commenturl":""
+    },
+    "QooApp": {
+      "name": "科技玩家",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/QooApp.har",
+      "update": false,
+      "comments": "token:下载App抓包cookie,找到请求头部 x-user-token 的值",
+      "filename": "QooApp.har",
+      "content": "",
+      "date": "2021-11-10 12:00:00",
+      "version":"20211110",
+      "commenturl":""
     }
   }
 }
