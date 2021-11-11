@@ -612,6 +612,18 @@
       "date": "2021-11-10 12:00:00",
       "version":"20211110",
       "commenturl":""
+    },
+    "KDays论坛": {
+      "name": "KDays论坛",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/KDays论坛.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://uc.kdays.net/<br>论坛签到暂时调整，只是登录",
+      "filename": "KDays论坛.har",
+      "content": "",
+      "date": "2021-11-11 23:00:00",
+      "version":"20211111",
+      "commenturl":""
     }
   }
 }
