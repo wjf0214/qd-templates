@@ -71,3 +71,4 @@ v2ex | [v2ex.har](https://github.com/wjf0214/qd-templates/blob/master/v2ex.har) 
 科技玩家 | [科技玩家.har](https://github.com/wjf0214/qd-templates/blob/master/科技玩家.har) | username:账号<br>password:密码<br>https://www.kejiwanjia.com/
 QooApp | [QooApp.har](https://github.com/wjf0214/qd-templates/blob/master/QooApp.har) | token:下载App抓包cookie,找到请求头部 x-user-token 的值
 KDays论坛 | [KDays论坛.har](https://github.com/wjf0214/qd-templates/blob/master/KDays论坛.har) | username:账号<br>password:密码<br>https://uc.kdays.net/<br>论坛签到暂时调整，只是登录
+HiFiNi | [HiFiNi.har](https://github.com/wjf0214/qd-templates/blob/master/HiFiNi.har) | 登录后首页cookie<br>https://www.hifini.com/

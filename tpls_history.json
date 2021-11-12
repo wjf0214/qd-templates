@@ -138,11 +138,11 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/hao4k.har",
       "update": false,
-      "comments": "username:账号<br>password:密码<br>https://www.hao4k.cn/",
+      "comments": "账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>username:账号<br>password:密码<br>https://www.hao4k.cn/",
       "filename": "hao4k.har",
       "content": "",
-      "date": "2021-11-09 20:00:00",
-      "version":"20211109",
+      "date": "2021-11-12 10:00:00",
+      "version":"20211112",
       "commenturl":""
     },
     "几鸡": {
@@ -623,6 +623,18 @@
       "content": "",
       "date": "2021-11-11 23:00:00",
       "version":"20211111",
+      "commenturl":""
+    },
+    "HiFiNi": {
+      "name": "HiFiNi",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/HiFiNi.har",
+      "update": false,
+      "comments": "登录后首页cookie<br>https://www.hifini.com/",
+      "filename": "HiFiNi.har",
+      "content": "",
+      "date": "2021-11-12 10:00:00",
+      "version":"20211112",
       "commenturl":""
     }
   }
