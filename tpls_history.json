@@ -450,11 +450,11 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/飞客茶馆.har",
       "update": false,
-      "comments": "登录后首页cookie<br>https://www.flyert.com/",
+      "comments": "username:账号,手机号<br>password:密码<br>https://www.flyert.com/<br>由于网站登录授权特殊,授权次数不固定。框架不好判断，请求暂定2次，超过2次。可能登录不成功。多试几次便可",
       "filename": "飞客茶馆.har",
       "content": "",
-      "date": "2021-09-30 00:00:00",
-      "version":"20210930",
+      "date": "2021-11-12 12:00:00",
+      "version":"20211112",
       "commenturl":""
     },
     "萌幻之乡": {
