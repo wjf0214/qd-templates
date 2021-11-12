@@ -636,6 +636,18 @@
       "date": "2021-11-12 10:00:00",
       "version":"20211112",
       "commenturl":""
+    },
+    "一加社区": {
+      "name": "一加社区",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/一加社区.har",
+      "update": false,
+      "comments": "登录后首页cookie<br>https://www.oneplusbbs.com/",
+      "filename": "一加社区.har",
+      "content": "",
+      "date": "2021-11-12 15:00:00",
+      "version":"20211112",
+      "commenturl":""
     }
   }
 }
