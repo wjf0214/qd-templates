@@ -73,3 +73,4 @@ QooApp | [QooApp.har](https://github.com/wjf0214/qd-templates/blob/master/QooApp
 KDays论坛 | [KDays论坛.har](https://github.com/wjf0214/qd-templates/blob/master/KDays论坛.har) | username:账号<br>password:密码<br>https://uc.kdays.net/<br>论坛签到暂时调整，只是登录
 HiFiNi | [HiFiNi.har](https://github.com/wjf0214/qd-templates/blob/master/HiFiNi.har) | 登录后首页cookie<br>https://www.hifini.com/
 一加社区 | [一加社区.har](https://github.com/wjf0214/qd-templates/blob/master/一加社区.har) | 登录后首页cookie<br>https://www.oneplusbbs.com/
+吾爱破解 | [吾爱破解.har](https://github.com/wjf0214/qd-templates/blob/master/吾爱破解.har) | 登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br>https://www.52pojie.cn/
