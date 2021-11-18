@@ -522,11 +522,11 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/91wii核心玩家的集中营.har",
       "update": false,
-      "comments": "登录后首页cookie,sum默认填0<br>https://www.91wii.com/",
+      "comments": "登录后首页cookie<br>https://www.91wii.com/",
       "filename": "91wii核心玩家的集中营.har",
       "content": "",
-      "date": "2021-10-17 00:00:00",
-      "version":"20211017",
+      "date": "2021-11-18 20:00:00",
+      "version":"20211118",
       "commenturl":""
     },
     "189天翼云(账号密码版)": {
