@@ -434,15 +434,15 @@
       "commenturl":""
     },
     "幕后Muhou": {
-      "name": "幕后Muhou【已失效】",
+      "name": "幕后Muhou",
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/幕后Muhou.har",
       "update": false,
-      "comments": "【网站移除签到，已失效】username:账号<br>password:密码<br>https://muhou.net/",
+      "comments": "username:账号<br>password:密码<br>https://muhou.net/",
       "filename": "幕后Muhou.har",
       "content": "",
-      "date": "2021-09-29 12:30:00",
-      "version":"20210929",
+      "date": "2021-11-18 17:30:00",
+      "version":"20211118",
       "commenturl":""
     },
     "飞客茶馆": {
