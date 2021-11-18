@@ -434,11 +434,11 @@
       "commenturl":""
     },
     "幕后Muhou": {
-      "name": "幕后Muhou",
+      "name": "幕后Muhou【已失效】",
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/幕后Muhou.har",
       "update": false,
-      "comments": "username:账号<br>password:密码<br>https://muhou.net/",
+      "comments": "【网站移除签到，已失效】username:账号<br>password:密码<br>https://muhou.net/",
       "filename": "幕后Muhou.har",
       "content": "",
       "date": "2021-09-29 12:30:00",
@@ -657,8 +657,8 @@
       "comments": "登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br>https://www.52pojie.cn/",
       "filename": "吾爱破解.har",
       "content": "",
-      "date": "2021-11-17 20:00:00",
-      "version":"20211117",
+      "date": "2021-11-18 10:00:00",
+      "version":"20211118",
       "commenturl":""
     }
   }
