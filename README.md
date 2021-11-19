@@ -78,3 +78,4 @@ MZFastCloud | [MZFastCloud.har](https://github.com/wjf0214/qd-templates/blob/mas
 Fa米家 | [Fa米家.har](https://github.com/wjf0214/qd-templates/blob/master/Fa米家.har) | 抓包 APP 的请求中的 headers 信息,提取 token、deviceId、blackBox 即可<br>APP自行商店下载
 王者营地 | [王者营地.har](https://github.com/wjf0214/qd-templates/blob/master/王者营地.har) | 抓包 APP 中域名为 https://ssl.kohsocialapp.qq.com 请求内容的全部参数<br>APP自行商店下载
 ZNDS智能电视网 | [ZNDS智能电视网.har](https://github.com/wjf0214/qd-templates/blob/master/ZNDS智能电视网.har) | username:账号<br>password:密码<br>https://www.znds.com/
+花火学园 | [花火学园.har](https://github.com/wjf0214/qd-templates/blob/master/花火学园.har) | username:账号<br>password:密码<br>https://www.sayhuahuo.com/
