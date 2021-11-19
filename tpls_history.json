@@ -720,6 +720,18 @@
       "date": "2021-11-19 15:00:00",
       "version":"20211119",
       "commenturl":""
+    },
+    "轻之文库": {
+      "name": "轻之文库",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/轻之文库.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://www.linovel.net/",
+      "filename": "轻之文库.har",
+      "content": "",
+      "date": "2021-11-19 17:00:00",
+      "version":"20211119",
+      "commenturl":""
     }
   }
 }
