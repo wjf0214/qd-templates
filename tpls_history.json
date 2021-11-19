@@ -696,6 +696,18 @@
       "date": "2021-11-19 12:00:00",
       "version":"20211119",
       "commenturl":""
+    },
+    "ZNDS智能电视网": {
+      "name": "ZNDS智能电视网",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/ZNDS智能电视网.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://www.znds.com/",
+      "filename": "ZNDS智能电视网.har",
+      "content": "",
+      "date": "2021-11-19 14:00:00",
+      "version":"20211119",
+      "commenturl":""
     }
   }
 }

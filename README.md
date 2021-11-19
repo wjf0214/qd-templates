@@ -30,7 +30,7 @@ koolshare[已关站不可用] | [koolshare.har](https://github.com/wjf0214/qd-te
 卡饭 | [卡饭.har](https://github.com/wjf0214/qd-templates/blob/master/卡饭.har) | 登录后首页cookie<br>https://bbs.kafan.cn/
 魅族社区 | [魅族社区.har](https://github.com/wjf0214/qd-templates/blob/master/魅族社区.har) | 登录后首页cookie<br>https://bbs.meizu.cn/
 杉果 | [杉果.har](https://github.com/wjf0214/qd-templates/blob/master/杉果.har) | username:账号<br>password:密码<br>https://sonkwo.com/
-hao4k | [hao4k.har](https://github.com/wjf0214/qd-templates/blob/master/hao4k.har) | 账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>username:账号<br>password:密码<br>https://www.hao4k.cn/member.php
+hao4k | [hao4k.har](https://github.com/wjf0214/qd-templates/blob/master/hao4k.har) | 登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br>https://www.hao4k.cn/
 几鸡 | [几鸡.har](https://github.com/wjf0214/qd-templates/blob/master/几鸡.har) | username:账号<br>password:密码<br>domain：网站域名
 猫耳FM-每日鱼干 | [猫耳FM-每日鱼干.har](https://github.com/wjf0214/qd-templates/blob/master/猫耳FM-每日鱼干.har) | 登录后首页cookie<br>https://www.missevan.com
 什么值得买7合一 | [什么值得买7合一.har](https://github.com/wjf0214/qd-templates/blob/master/什么值得买7合一.har) | 登录后首页cookie<br>https://smzdm.com
@@ -77,3 +77,4 @@ HiFiNi | [HiFiNi.har](https://github.com/wjf0214/qd-templates/blob/master/HiFiNi
 MZFastCloud | [MZFastCloud.har](https://github.com/wjf0214/qd-templates/blob/master/MZFastCloud.har) | username:账号<br>password:密码<br>https://www.mzfast.xyz/
 Fa米家 | [Fa米家.har](https://github.com/wjf0214/qd-templates/blob/master/Fa米家.har) | 抓包 APP 的请求中的 headers 信息,提取 token、deviceId、blackBox 即可<br>APP自行商店下载
 王者营地 | [王者营地.har](https://github.com/wjf0214/qd-templates/blob/master/王者营地.har) | 抓包 APP 中域名为 https://ssl.kohsocialapp.qq.com 请求内容的全部参数<br>APP自行商店下载
+ZNDS智能电视网 | [ZNDS智能电视网.har](https://github.com/wjf0214/qd-templates/blob/master/ZNDS智能电视网.har) | username:账号<br>password:密码<br>https://www.znds.com/
