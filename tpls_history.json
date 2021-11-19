@@ -672,6 +672,18 @@
       "date": "2021-11-18 20:00:00",
       "version":"20211118",
       "commenturl":""
+    },
+    "Fa米家": {
+      "name": "Fa米家",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/Fa米家.har",
+      "update": false,
+      "comments": "抓包 APP 的请求中的 headers 信息,提取 token、deviceId、blackBox 即可<br>APP自行商店下载",
+      "filename": "Fa米家.har",
+      "content": "",
+      "date": "2021-11-19 12:00:00",
+      "version":"20211119",
+      "commenturl":""
     }
   }
 }

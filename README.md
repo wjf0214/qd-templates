@@ -75,3 +75,4 @@ HiFiNi | [HiFiNi.har](https://github.com/wjf0214/qd-templates/blob/master/HiFiNi
 一加社区 | [一加社区.har](https://github.com/wjf0214/qd-templates/blob/master/一加社区.har) | 登录后首页cookie<br>https://www.oneplusbbs.com/
 吾爱破解 | [吾爱破解.har](https://github.com/wjf0214/qd-templates/blob/master/吾爱破解.har) | 登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br>https://www.52pojie.cn/
 MZFastCloud | [MZFastCloud.har](https://github.com/wjf0214/qd-templates/blob/master/MZFastCloud.har) | username:账号<br>password:密码<br>https://www.mzfast.xyz/
+Fa米家 | [Fa米家.har](https://github.com/wjf0214/qd-templates/blob/master/Fa米家.har) | 抓包 APP 的请求中的 headers 信息,提取 token、deviceId、blackBox 即可<br>APP自行商店下载
