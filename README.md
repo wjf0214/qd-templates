@@ -80,7 +80,7 @@ HiFiNi | [HiFiNi.har](https://github.com/wjf0214/qd-templates/blob/master/HiFiNi
 一加社区 | [一加社区.har](https://github.com/wjf0214/qd-templates/blob/master/一加社区.har) | Web | 登录后首页cookie<br>https://www.oneplusbbs.com/
 吾爱破解 | [吾爱破解.har](https://github.com/wjf0214/qd-templates/blob/master/吾爱破解.har) | Web | 登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br>https://www.52pojie.cn/
 MZFastCloud | [MZFastCloud.har](https://github.com/wjf0214/qd-templates/blob/master/MZFastCloud.har) | Web | username:账号<br>password:密码<br>https://www.mzfast.xyz/
-Fa米家 | [Fa米家.har](https://github.com/wjf0214/qd-templates/blob/master/Fa米家.har) | App | 抓包 APP 的请求中的 headers 信息,提取 token、deviceId、blackBox 即可<br>APP自行商店下载
+Fa米家 | [Fa米家.har](https://github.com/wjf0214/qd-templates/blob/master/Fa米家.har) | App | 抓包 APP 的请求中的 headers 信息,提取 token、deviceId、blackBox 即可,fmVersion,os,User-Agent等参数可以根据自身情况自行更改模板。<br>应用单点登录限制，换设备登录后，之前登录状态参数失效
 王者营地 | [王者营地.har](https://github.com/wjf0214/qd-templates/blob/master/王者营地.har) | App | 抓包 APP 中域名为 https://ssl.kohsocialapp.qq.com 请求内容的全部参数<br>APP自行商店下载
 ZNDS智能电视网 | [ZNDS智能电视网.har](https://github.com/wjf0214/qd-templates/blob/master/ZNDS智能电视网.har) | Web | username:账号<br>password:密码<br>https://www.znds.com/
 花火学园 | [花火学园.har](https://github.com/wjf0214/qd-templates/blob/master/花火学园.har) | Web | username:账号<br>password:密码<br>https://www.sayhuahuo.com/

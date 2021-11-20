@@ -666,7 +666,7 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/Fa米家.har",
       "update": false,
-      "comments": "抓包 APP 的请求中的 headers 信息,提取 token、deviceId、blackBox 即可<br>APP自行商店下载",
+      "comments": "抓包 APP 的请求中的 headers 信息,提取 token、deviceId、blackBox 即可,fmVersion,os,User-Agent等参数可以根据自身情况自行更改模板。<br>应用单点登录限制，换设备登录后，之前登录状态参数失效",
       "filename": "Fa米家.har",
       "content": "",
       "date": "2021-11-19 12:00:00",
