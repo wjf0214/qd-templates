@@ -3,19 +3,25 @@
 [![visitors](https://visitor-badge.vercel.app/p/qd-templates)](https://github.com/wjf0214/qd-templates) 
 ![GitHub last commit](https://img.shields.io/github/last-commit/wjf0214/qd-templates.svg?style=popout-square)
 
-### 简介
+### 🏠简介
 
-> 项目基于开源的签到框架站使用
-[源码](https://github.com/binux/qiandao) 最初版本。
-[强化版](https://github.com/AragonSnow/qiandao)  作者已划水。
-[二次强化版](https://github.com/a76yyyy/qiandao)  二次强化版，现持续更新中。
-现模板基于 [二次强化版](https://github.com/a76yyyy/qiandao) 框架使用。
-具体使用方式请自行学习。
-> 
-> 及个别模板不兼容其他版本框架。如有不兼容请使用 [二次强化版](https://github.com/a76yyyy/qiandao) 。
+> 项目基于开源的签到框架站使用, 发布者在此发布模板仅供示范, 使用公共模板产生的任何问题需自行承担!
 
-### 网站
-> 已支持的网站
+- [binux/qiandao](https://github.com/binux/qiandao) 最初版本框架，已停止维护。
+
+- [qiandao-today/qiandao](https://github.com/qiandao-today/qiandao)  最新版框架，现持续更新中。
+
+- 现模板基于 [最新版框架](https://github.com/qiandao-today/qiandao) 使用, 具体使用方式请自行学习。
+
+> 极个别模板不兼容 [旧版本](ttps://github.com/binux/qiandao) 框架, 如有不兼容请使用 [最新版](https://github.com/qiandao-today/qiandao) 。 具体使用方式请自行学习。
+
+
+### 📃免责声明
+
+本项目为学习交流的开源非营利项目，仅作为程序员之间相互学习交流之用，使用需严格遵守开源许可协议。严禁用于商业用途，禁止使用本项目进行任何盈利活动。对一切非法使用所产生的后果，我们概不负责。本项目对您如有困扰请联系我们删除。
+
+### 🌐网站
+> 已支持的网站模板
 
 网站名称 | 链接 | 说明
 --- | --- | ---
@@ -26,7 +32,6 @@ element3ds | [不移之火.har](https://github.com/wjf0214/qd-templates/blob/mas
 科学刀论坛 | [科学刀论坛.har](https://github.com/wjf0214/qd-templates/blob/master/科学刀论坛.har) | 登录后首页cookie<br>https://www.kxdao.net/
 科学刀在线时间 | [科学刀在线时间.har](https://github.com/wjf0214/qd-templates/blob/master/科学刀在线时间.har) | 登录后首页cookie<br>https://www.kxdao.net/
 chiphell | [chiphell.har](https://github.com/wjf0214/qd-templates/blob/master/chiphell.har) | 登录后首页cookie<br>https://www.chiphell.com
-koolshare[已关站不可用] | [koolshare.har](https://github.com/wjf0214/qd-templates/blob/master/koolshare.har) | 登录后首页cookie<br>https://koolshare.cn
 卡饭 | [卡饭.har](https://github.com/wjf0214/qd-templates/blob/master/卡饭.har) | 登录后首页cookie<br>https://bbs.kafan.cn/
 魅族社区 | [魅族社区.har](https://github.com/wjf0214/qd-templates/blob/master/魅族社区.har) | 登录后首页cookie<br>https://bbs.meizu.cn/
 杉果 | [杉果.har](https://github.com/wjf0214/qd-templates/blob/master/杉果.har) | username:账号<br>password:密码<br>https://sonkwo.com/

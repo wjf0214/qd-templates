@@ -85,18 +85,6 @@
       "version":"20210916",
       "commenturl":""
     },
-    "koolshare": {
-      "name": "koolshare[已关站不可用]",
-      "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/koolshare.har",
-      "update": false,
-      "comments": "登录后首页cookie<br>https://koolshare.cn",
-      "filename": "koolshare.har",
-      "content": "",
-      "date": "2021-09-16 10:00:00",
-      "version":"20210916",
-      "commenturl":""
-    },
     "卡饭": {
       "name": "卡饭",
       "author": "wjf0214",
