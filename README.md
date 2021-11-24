@@ -85,3 +85,4 @@ Fa米家 | [Fa米家.har](https://github.com/wjf0214/qd-templates/blob/master/Fa
 ZNDS智能电视网 | [ZNDS智能电视网.har](https://github.com/wjf0214/qd-templates/blob/master/ZNDS智能电视网.har) | Web | username:账号<br>password:密码<br>https://www.znds.com/
 花火学园 | [花火学园.har](https://github.com/wjf0214/qd-templates/blob/master/花火学园.har) | Web | username:账号<br>password:密码<br>https://www.sayhuahuo.com/
 轻之文库 | [轻之文库.har](https://github.com/wjf0214/qd-templates/blob/master/轻之文库.har) | Web | username:账号<br>password:密码<br>https://www.linovel.net/
+中国汉化论坛 | [中国汉化论坛.har](https://github.com/wjf0214/qd-templates/blob/master/中国汉化论坛.har) | Web | 账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>username:账号<br>password:密码<br>http://h.shanse8.com/
