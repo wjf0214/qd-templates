@@ -86,3 +86,4 @@ ZNDS智能电视网 | [ZNDS智能电视网.har](https://github.com/wjf0214/qd-te
 花火学园 | [花火学园.har](https://github.com/wjf0214/qd-templates/blob/master/花火学园.har) | Web | username:账号<br>password:密码<br>https://www.sayhuahuo.com/
 轻之文库 | [轻之文库.har](https://github.com/wjf0214/qd-templates/blob/master/轻之文库.har) | Web | username:账号<br>password:密码<br>https://www.linovel.net/
 中国汉化论坛 | [中国汉化论坛.har](https://github.com/wjf0214/qd-templates/blob/master/中国汉化论坛.har) | Web | 账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。 <br>username:账号<br>password:密码<br>questionId对应值：<br>-1.自定义问题<br>1.我爸爸的出生地<br>2.我妈妈的出生地<br>3.我的小学校名<br>4.我的中学校名<br>5.我最喜欢的运动<br>6.我最喜欢的歌曲<br>7.我最喜欢的电影<br>8.我最喜欢的颜色<br>customquest：自定义问题，如是中文同账号转换处理。<br>answer:问题答案，如是中文同账号转换处理。<br>没有密保安全问题，questionId,customquest,answer不填为空。<br>http://h.shanse8.com/
+道客巴巴 | [道客巴巴.har](https://github.com/wjf0214/qd-templates/blob/master/道客巴巴.har) | Web | username:账号<br>password:密码<br>https://www.doc88.com/
