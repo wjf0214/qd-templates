@@ -67,7 +67,7 @@ v2ex | [v2ex.har](https://github.com/wjf0214/qd-templates/blob/master/v2ex.har) 
 好家伙机场 | [好家伙机场.har](https://github.com/wjf0214/qd-templates/blob/master/好家伙机场.har) | Web | email:邮箱<br>passwd:密码<br>https://haojiahuo.live/
 后期菌资源村 | [后期菌资源村.har](https://github.com/wjf0214/qd-templates/blob/master/后期菌资源村.har) | Web | username:手机号<br>password:密码<br>http://www.houqijun.vip/
 中国原创音乐基地5SING | [中国原创音乐基地5SING.har](https://github.com/wjf0214/qd-templates/blob/master/中国原创音乐基地5SING.har) | Web | 登录后首页cookie,ck有效期一周<br>http://5sing.kugou.com/
-91wii核心玩家的集中营 | [91wii核心玩家的集中营.har](https://github.com/wjf0214/qd-templates/blob/master/91wii核心玩家的集中营.har) | Web | 登录后首页cookie<br>F12后,删除 XnMp_2132_visitcode 这个cookie，刷新页面。页面出现加法验证码页面，复制此时的cookie。请选中复制,不要右键复制值。<br>https://www.91wii.com/
+91tvg主机玩家的营地 | [91tvg主机玩家的营地.har](https://github.com/wjf0214/qd-templates/blob/master/91tvg主机玩家的营地.har) | Web | 登录后首页cookie<br>https://www.91tvg.com/
 189天翼云(账号密码版) | [189天翼云(账号密码版).har](https://github.com/wjf0214/qd-templates/blob/master/189天翼云(账号密码版).har) | Web | username:账号<br>password:密码<br>https://cloud.189.cn/
 绅士领域 | [绅士领域.har](https://github.com/wjf0214/qd-templates/blob/master/绅士领域.har) | App | uid:个人uid可APP抓签到包看到
 手电大家谈 | [手电大家谈.har](https://github.com/wjf0214/qd-templates/blob/master/手电大家谈.har) | Web | username:账号<br>password:密码<br>https://www.shoudian.org/
