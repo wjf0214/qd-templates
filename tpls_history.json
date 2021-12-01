@@ -756,6 +756,18 @@
       "date": "2021-11-30 15:00:00",
       "version":"20211130",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/65"
+    },
+    "爱玩网络": {
+      "name": "爱玩网络",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/爱玩网络.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://wngamebox.cn/",
+      "filename": "爱玩网络.har",
+      "content": "",
+      "date": "2021-12-01 11:10:00",
+      "version": "20211201",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/66"
     }
   }
 }
