@@ -1,9 +1,15 @@
 # 整理 qiandao 框架可用的 Har 模板
 
-[![visitors](https://visitor-badge.vercel.app/p/qd-templates)](https://github.com/wjf0214/qd-templates) 
-![GitHub last commit](https://img.shields.io/github/last-commit/wjf0214/qd-templates.svg?style=popout-square)
+[![](https://img.shields.io/badge/Author-wjf0214-blueviolet "作者")](https://github.com/wjf0214/ )
+![](https://img.shields.io/badge/dynamic/json?label=GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dwjf0214&labelColor=282c34&color=181717&logo=github&longCache=true "关注数量")
+![](https://img.shields.io/github/stars/wjf0214/qd-templates.svg?style=plastic&logo=appveyor "Star数量")
+![](https://img.shields.io/github/forks/wjf0214/qd-templates.svg?style=plastic&logo=stackshare "Fork数量")
+![](https://img.shields.io/github/contributors/wjf0214/qd-templates "贡献者")
+![](https://img.shields.io/github/repo-size/wjf0214/qd-templates?style=flat&label=files&color=cf8ef4&labelColor=373e4dl "文件大小")
+[![visitors](https://visitor-badge.vercel.app/p/qd-templates)](https://github.com/wjf0214/qd-templates "访问次数") 
+![GitHub last commit](https://img.shields.io/github/last-commit/wjf0214/qd-templates.svg?style=float "最后提交时间")
 
-### 🏠简介
+## 🏠简介
 
 > 项目基于开源的签到框架站使用, 发布者在此发布模板仅供示范, 使用公共模板产生的任何问题需自行承担!
 
@@ -16,11 +22,11 @@
 > 极个别模板不兼容 [旧版本](ttps://github.com/binux/qiandao) 框架, 如有不兼容请使用 [最新版](https://github.com/qiandao-today/qiandao) 。 具体使用方式请自行学习。
 
 
-### 📃免责声明
+## 📃免责声明
 
 本项目为学习交流的开源非营利项目，仅作为程序员之间相互学习交流之用，使用需严格遵守开源许可协议。严禁用于商业用途，禁止使用本项目进行任何盈利活动。对一切非法使用所产生的后果，我们概不负责。本项目对您如有困扰请联系我们删除。
 
-### 🏁模板
+## 🏁模板
 > 已支持的网站或者APP模板
 
 网站名称 | 链接 | 类型 | 说明
