@@ -45,7 +45,7 @@ E次元 | [E次元.har](https://github.com/wjf0214/qd-templates/blob/master/E次
 致美化 | [致美化.har](https://github.com/wjf0214/qd-templates/blob/master/致美化.har) | Web | user:账号<br>pass:密码<br>https://zhutix.com
 时光相册 | [时光相册.har](https://github.com/wjf0214/qd-templates/blob/master/时光相册.har) | Web | phone:账号<br>password:密码<br>手机号密码 请抓登陆包查看 手机号里包括区号 86啥的 密码为加密后的密码<br>https://www.everphoto.cn/
 书香门第 | [书香门第.har](https://github.com/wjf0214/qd-templates/blob/master/书香门第.har) | Web | account:账号<br>password:密码<br>登陆账号密码(只支持字母+数字组合账号)<br>http://www.txtnovel.top
-漫画补档(账号密码版) | [漫画补档(账号密码版).har](https://github.com/wjf0214/qd-templates/blob/master/漫画补档(账号密码版).har) | Web | 账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>user:账号<br>pwd:密码<br>https://www.manhuabudang.com
+漫画补档(账号密码版) | [漫画补档(账号密码版).har](https://github.com/wjf0214/qd-templates/blob/master/漫画补档(账号密码版).har) | Web | username:账号<br>password:密码<br>https://www.manhuabudang.com
 bigfun | [bigfun.har](https://github.com/wjf0214/qd-templates/blob/master/bigfun.har) | Web | 登录后首页cookie<br>https://www.bigfun.cn
 hostloc主机论坛 | [hostloc主机论坛.har](https://github.com/wjf0214/qd-templates/blob/master/hostloc主机论坛.har) | Web | 登录后首页cookie<br>https://hostloc.com
 level-plus | [level-plus.har](https://github.com/wjf0214/qd-templates/blob/master/level-plus.har) | Web | 登录后首页cookie和UA<br>https://www.level-plus.net
