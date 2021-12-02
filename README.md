@@ -51,7 +51,7 @@ hostloc主机论坛 | [hostloc主机论坛.har](https://github.com/wjf0214/qd-te
 level-plus | [level-plus.har](https://github.com/wjf0214/qd-templates/blob/master/level-plus.har) | Web | 登录后首页cookie和UA<br>https://www.level-plus.net
 VCB-Studio分享论坛 | [VCB-Studio分享论坛.har](https://github.com/wjf0214/qd-templates/blob/master/VCB-Studio分享论坛.har) | Web | 登录后首页cookie<br>https://bbs.acgrip.com
 一酷C4D | [一酷C4D.har](https://github.com/wjf0214/qd-templates/blob/master/一酷C4D.har) | Web | 登录后首页cookie<br>https://c4dco.com
-SolidWorks机械工程师网 | [SolidWorks机械工程师网.har](https://github.com/wjf0214/qd-templates/blob/master/SolidWorks机械工程师网.har) | Web | 账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>username:账号<br>password:密码<br>https://www.swbbsc.com/
+SolidWorks机械工程师网 | [SolidWorks机械工程师网.har](https://github.com/wjf0214/qd-templates/blob/master/SolidWorks机械工程师网.har) | Web | username:账号<br>password:密码<br>https://www.swbbsc.com/
 HDarea高清视界 | [HDarea高清视界.har](https://github.com/wjf0214/qd-templates/blob/master/HDarea高清视界.har) | Web | 登录后首页cookie<br>https://www.hdarea.co/
 经管之家 | [经管之家.har](https://github.com/wjf0214/qd-templates/blob/master/经管之家.har) | Web | 登录后首页cookie<br>https://bbs.pinggu.org/
 香网小说 | [香网小说.har](https://github.com/wjf0214/qd-templates/blob/master/香网小说.har) | Web | 登录后首页cookie<br>https://m.xiang5.com/
