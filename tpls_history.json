@@ -450,11 +450,11 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/萌幻之乡.har",
       "update": false,
-      "comments": "登录后首页cookie<br>https://www.hmoe11.net/",
+      "comments": "username:账号<br>password:密码<br>https://www.hmoe11.net/",
       "filename": "萌幻之乡.har",
       "content": "",
-      "date": "2021-10-19 14:00:00",
-      "version":"20211019",
+      "date": "2021-12-03 10:40:00",
+      "version":"20211203",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/40"
     },
     "v2ex": {
