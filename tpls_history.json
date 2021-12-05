@@ -733,18 +733,6 @@
       "version":"20211203",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/63"
     },
-    "道客巴巴": {
-      "name": "道客巴巴",
-      "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/道客巴巴.har",
-      "update": false,
-      "comments": "username:账号<br>password:密码<br>https://www.doc88.com/",
-      "filename": "道客巴巴.har",
-      "content": "",
-      "date": "2021-11-29 12:20:00",
-      "version":"20211129",
-      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/64"
-    },
     "学破解论坛": {
       "name": "学破解论坛",
       "author": "wjf0214",
