@@ -47,7 +47,7 @@
 | 什么值得买7合一 | [什么值得买7合一.har](https://github.com/wjf0214/qd-templates/blob/master/什么值得买7合一.har) | Web | 登录后首页cookie<br><https://smzdm.com> |
 | 龙的天空 | [龙的天空.har](https://github.com/wjf0214/qd-templates/blob/master/龙的天空.har) | Web | 登录后首页cookie<br><https://www.lkong.com/> |
 | 网易云游戏 | [网易云游戏.har](https://github.com/wjf0214/qd-templates/blob/master/网易云游戏.har) | Web | 登录后首页cookie<br><https://cg.163.com/> |
-| E次元 | [E次元.har](https://github.com/wjf0214/qd-templates/blob/master/E次元.har) | Web | homeaction和cks 打开首页即可获取 <https://www.evacg.cc/wp-admin/admin-ajax.php?action>=<br><https://www.evacg.cc/> |
+| E次元 | [E次元.har](https://github.com/wjf0214/qd-templates/blob/master/E次元.har) | Web | homeaction和cks 打开首页即可获取 <https://www.evacg.cc/wp-admin/admin-ajax.php?action=><br><https://www.evacg.cc/> |
 | 致美化 | [致美化.har](https://github.com/wjf0214/qd-templates/blob/master/致美化.har) | Web | user:账号<br>pass:密码<br><https://zhutix.com> |
 | 时光相册 | [时光相册.har](https://github.com/wjf0214/qd-templates/blob/master/时光相册.har) | Web | phone:账号<br>password:密码<br>手机号密码 请抓登陆包查看 手机号里包括区号 86啥的 密码为加密后的密码<br><https://www.everphoto.cn/> |
 | 书香门第 | [书香门第.har](https://github.com/wjf0214/qd-templates/blob/master/书香门第.har) | Web | account:账号<br>password:密码<br>登陆账号密码(只支持字母+数字组合账号)<br><http://www.txtnovel.top> |
