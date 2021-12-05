@@ -1,13 +1,13 @@
 # 整理 qiandao 框架可用的 Har 模板
 
-[![](https://img.shields.io/badge/Author-wjf0214-blueviolet "作者")](https://github.com/wjf0214/ )
-![](https://img.shields.io/badge/dynamic/json?label=GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dwjf0214&labelColor=282c34&color=181717&logo=github&longCache=true "关注数量")
-![](https://img.shields.io/github/stars/wjf0214/qd-templates.svg?style=flat&&logo=appveyor "Star数量")
-![](https://img.shields.io/github/forks/wjf0214/qd-templates.svg?style=flat&&logo=stackshare "Fork数量")
-![](https://img.shields.io/github/contributors/wjf0214/qd-templates "贡献者")
-![](https://img.shields.io/github/repo-size/wjf0214/qd-templates?style=flat&label=files&color=cf8ef4&labelColor=373e4dl "文件大小")
-[![visitors](https://visitor-badge.vercel.app/p/qd-templates)](https://github.com/wjf0214/qd-templates "访问次数")
-![GitHub last commit](https://img.shields.io/github/last-commit/wjf0214/qd-templates.svg?style=float "最后提交时间")
+[![作者](https://img.shields.io/badge/Author-wjf0214-blueviolet)](https://github.com/wjf0214/ )
+![关注数量](https://img.shields.io/badge/dynamic/json?label=GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dwjf0214&labelColor=282c34&color=181717&logo=github&longCache=true)
+![Star数量](https://img.shields.io/github/stars/wjf0214/qd-templates.svg?style=flat&&logo=appveyor)
+![Fork数量](https://img.shields.io/github/forks/wjf0214/qd-templates.svg?style=flat&&logo=stackshare)
+![贡献者](https://img.shields.io/github/contributors/wjf0214/qd-templates)
+![文件大小](https://img.shields.io/github/repo-size/wjf0214/qd-templates?style=flat&label=files&color=cf8ef4&labelColor=373e4dl)
+[![访问次数](https://visitor-badge.vercel.app/p/qd-templates)](https://github.com/wjf0214/qd-templates)
+![最后提交时间](https://img.shields.io/github/last-commit/wjf0214/qd-templates.svg?style=float)
 
 ## 🏠简介
 
