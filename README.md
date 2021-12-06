@@ -95,3 +95,4 @@
 | 学破解论坛 | [学破解论坛.har](https://github.com/wjf0214/qd-templates/blob/master/学破解论坛.har) | Web | username:账号<br>password:密码<br><https://www.xuepojie.com/> |
 | 爱玩网络 | [爱玩网络.har](https://github.com/wjf0214/qd-templates/blob/master/爱玩网络.har) | Web | username:账号<br>password:密码<br><https://wngamebox.cn/> |
 | switch520 | [switch520.har](https://github.com/wjf0214/qd-templates/blob/master/switch520.har) | Web | username:账号<br>password:密码<br><https://switch520.com> |
+| 远景论坛(账号版) | [远景论坛(账号版).har](https://github.com/wjf0214/qd-templates/blob/master/远景论坛(账号版).har) | Web | username:账号<br>password:密码<br><https://bbs.pcbeta.com/> |
