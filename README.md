@@ -54,7 +54,7 @@
 | 漫画补档(账号密码版) | [漫画补档(账号密码版).har](https://github.com/wjf0214/qd-templates/blob/master/漫画补档(账号密码版).har) | Web | username:账号<br>password:密码<br><https://www.manhuabudang.com> |
 | bigfun | [bigfun.har](https://github.com/wjf0214/qd-templates/blob/master/bigfun.har) | Web | 登录后首页cookie<br><https://www.bigfun.cn> |
 | hostloc主机论坛 | [hostloc主机论坛.har](https://github.com/wjf0214/qd-templates/blob/master/hostloc主机论坛.har) | Web | 登录后首页cookie<br><https://hostloc.com> |
-| level-plus | [level-plus.har](https://github.com/wjf0214/qd-templates/blob/master/level-plus.har) | Web | 登录后首页cookie和UA<br><https://www.level-plus.net> |
+| south-plus | [south-plus.har](https://github.com/wjf0214/qd-templates/blob/master/south-plus.har) | Web | 登录后首页cookie和UA<br>domain:为网站域名，如【https://www.south-plus.net/】,https和后面的'/'都要有<br><https://www.south-plus.net> |
 | VCB-Studio分享论坛 | [VCB-Studio分享论坛.har](https://github.com/wjf0214/qd-templates/blob/master/VCB-Studio分享论坛.har) | Web | 登录后首页cookie<br><https://bbs.acgrip.com> |
 | 一酷C4D | [一酷C4D.har](https://github.com/wjf0214/qd-templates/blob/master/一酷C4D.har) | Web | 登录后首页cookie<br><https://c4dco.com> |
 | SolidWorks机械工程师网 | [SolidWorks机械工程师网.har](https://github.com/wjf0214/qd-templates/blob/master/SolidWorks机械工程师网.har) | Web | username:账号<br>password:密码<br><https://www.swbbsc.com/> |
