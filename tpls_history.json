@@ -780,6 +780,18 @@
       "date": "2021-12-06 22:30:00",
       "version": "20211206",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/68"
+    },
+    "联想智选": {
+      "name": "联想智选",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/联想智选.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>baseinfo:APP抓包 api.club.lenovo.cn 域名下的任意请求，header里面去找。可以为空，有默认值。但推荐抓取。",
+      "filename": "联想智选.har",
+      "content": "",
+      "date": "2021-12-07 12:20:00",
+      "version": "20211207",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/69"
     }
   }
 }
