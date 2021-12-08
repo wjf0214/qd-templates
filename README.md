@@ -97,4 +97,4 @@
 | switch520 | [switch520.har](https://github.com/wjf0214/qd-templates/blob/master/switch520.har) | Web | username:账号<br>password:密码<br><https://switch520.com> |
 | 远景论坛(账号版) | [远景论坛(账号版).har](https://github.com/wjf0214/qd-templates/blob/master/远景论坛(账号版).har) | Web | username:账号<br>password:密码<br><https://bbs.pcbeta.com/> |
 | 联想智选 | [联想智选.har](https://github.com/wjf0214/qd-templates/blob/master/联想智选.har) | App | username:账号<br>password:密码<br>baseinfo:APP抓包 api.club.lenovo.cn 域名下的任意请求，header里面去找。可以为空，有默认值。但推荐抓取。 |
-| 小米运动 | [小米运动.har](https://github.com/wjf0214/qd-templates/blob/master/小米运动.har) | App | username:账号<br>password:密码<br>步数默认为1w到2w之间随机，要想修改区间请到模板第5个请求【生成运动步数】这里，修改里面【random(最小值,最大值，0)】 |
+| 小米运动 | [小米运动.har](https://github.com/wjf0214/qd-templates/blob/master/小米运动.har) | App | username:账号<br>password:密码<br>min_step:最小步数<br>max_step:最大步数<br>步数在最大最小值之间取值，不填默认为1w到2w之间随机 |
