@@ -828,6 +828,18 @@
       "date": "2021-12-17 17:00:00",
       "version": "20211217",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/72"
+    },
+    "万由论坛": {
+      "name": "万由论坛",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/万由论坛.har",
+      "update": false,
+      "comments": "username:手机号<br>password:密码<br>https://www.u-share.cn/forum.php",
+      "filename": "万由论坛.har",
+      "content": "",
+      "date": "2021-12-17 19:30:00",
+      "version": "20211217",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/73"
     }
   }
 }

@@ -100,3 +100,4 @@
 | 小米运动 | [小米运动.har](https://github.com/wjf0214/qd-templates/blob/master/小米运动.har) | App | username:账号<br>password:密码<br>min_step:最小步数<br>max_step:最大步数<br>步数在最大最小值之间取值，不填默认为1w到2w之间随机 |
 | 阡陌居 | [阡陌居.har](https://github.com/wjf0214/qd-templates/blob/master/阡陌居.har) | Web | 登录后首页cookie<br><http://www.1000qm.vip/> |
 | 魔兽大数据 | [魔兽大数据.har](https://github.com/wjf0214/qd-templates/blob/master/魔兽大数据.har) | Web | 登录后首页cookie<br><http://bj.wowdata.top/> |
+| 万由论坛 | [万由论坛.har](https://github.com/wjf0214/qd-templates/blob/master/万由论坛.har) | Web | username:手机号<br>password:密码<br><https://www.u-share.cn/forum.php> |
