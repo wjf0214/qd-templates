@@ -101,3 +101,4 @@
 | 阡陌居 | [阡陌居.har](https://github.com/wjf0214/qd-templates/blob/master/阡陌居.har) | Web | 登录后首页cookie<br><http://www.1000qm.vip/> |
 | 魔兽大数据 | [魔兽大数据.har](https://github.com/wjf0214/qd-templates/blob/master/魔兽大数据.har) | Web | 登录后首页cookie<br><http://bj.wowdata.top/> |
 | 万由论坛 | [万由论坛.har](https://github.com/wjf0214/qd-templates/blob/master/万由论坛.har) | Web | username:手机号<br>password:密码<br><https://www.u-share.cn/forum.php> |
+| 龙de船人 | [龙de船人.har](https://github.com/wjf0214/qd-templates/blob/master/龙de船人.har) | Web | 登录后首页cookie<br><https://www.imarine.cn/> |
