@@ -876,6 +876,18 @@
       "date": "2021-12-28 14:20:00",
       "version": "20211228",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/76"
+    },
+    "萌盘总动员": {
+      "name": "萌盘总动员",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/萌盘总动员.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>http://bdarea.net/",
+      "filename": "萌盘总动员.har",
+      "content": "",
+      "date": "2021-12-30 14:00:00",
+      "version": "20211230",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/77"
     }
   }
 }
