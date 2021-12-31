@@ -906,7 +906,7 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/学犀牛中文网.har",
       "update": false,
-      "comments": "登录后首页cookie<br>https://www.xuexiniu.com/",
+      "comments": "登录后首页cookie，不要右键复制值，请选中后复制<br>https://www.xuexiniu.com/",
       "filename": "学犀牛中文网.har",
       "content": "",
       "date": "2021-12-31 15:00:00",

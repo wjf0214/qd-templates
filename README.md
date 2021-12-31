@@ -106,4 +106,4 @@
 | SSPANEL机场通用签到 | [SSPANEL机场通用签到.har](https://github.com/wjf0214/qd-templates/blob/master/SSPANEL机场通用签到.har) | Web | domain:域名,如【https://xxx.com】,后面不带'/'<br>username:账号<br>password:密码 |
 | 萌盘总动员 | [萌盘总动员.har](https://github.com/wjf0214/qd-templates/blob/master/萌盘总动员.har) | Web | username:账号<br>password:密码<br><http://bdarea.net/> |
 | 98堂 | [98堂.har](https://github.com/wjf0214/qd-templates/blob/master/98堂.har) | Web | username:账号<br>password:密码<br><https://wetytrytuyu.net/> |
-| 学犀牛中文网 | [学犀牛中文网.har](https://github.com/wjf0214/qd-templates/blob/master/学犀牛中文网.har) | Web | 登录后首页cookie<br><https://www.xuexiniu.com/> |
+| 学犀牛中文网 | [学犀牛中文网.har](https://github.com/wjf0214/qd-templates/blob/master/学犀牛中文网.har) | Web | 登录后首页cookie，不要右键复制值，请选中后复制<br><https://www.xuexiniu.com/> |
