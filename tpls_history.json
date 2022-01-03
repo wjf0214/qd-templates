@@ -936,6 +936,18 @@
       "date": "2022-01-03 10:00:00",
       "version": "20220103",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/81"
+    },
+    "武聆音雄配乐网": {
+      "name": "武聆音雄配乐网",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/武聆音雄配乐网.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>message:签到回复帖子的语句，默认为'每日签到~'<br>https://www.wlyxmusic.net/",
+      "filename": "武聆音雄配乐网.har",
+      "content": "",
+      "date": "2022-01-03 10:00:00",
+      "version": "20220103",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/82"
     }
   }
 }
