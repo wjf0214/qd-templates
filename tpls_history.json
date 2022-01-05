@@ -960,6 +960,18 @@
       "date": "2022-01-03 14:00:00",
       "version": "20220103",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/83"
+    },
+    "野火论坛": {
+      "name": "野火论坛",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/野火论坛.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>http://www.proewildfire.cn/",
+      "filename": "野火论坛.har",
+      "content": "",
+      "date": "2022-01-05 21:00:00",
+      "version": "20220105",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/84"
     }
   }
 }

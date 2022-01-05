@@ -111,3 +111,4 @@
 | 捌零发烧音乐网 | [捌零发烧音乐网.har](https://github.com/wjf0214/qd-templates/blob/master/捌零发烧音乐网.har) | Web | 登录后首页cookie<br><https://hifi.juyincar.com/> |
 | 武聆音雄配乐网 | [武聆音雄配乐网.har](https://github.com/wjf0214/qd-templates/blob/master/武聆音雄配乐网.har) | Web | username:账号<br>password:密码<br>message:签到回复帖子的语句，默认为'每日签到~'<br><https://www.wlyxmusic.net/> |
 | 56brand我来网 | [56brand我来网.har](https://github.com/wjf0214/qd-templates/blob/master/56brand我来网.har) | Web | username:账号<br>password:密码<br><http://www.56brand.com/> |
+| 野火论坛 | [野火论坛.har](https://github.com/wjf0214/qd-templates/blob/master/野火论坛.har) | Web | username:账号<br>password:密码<br><http://www.proewildfire.cn/> |
