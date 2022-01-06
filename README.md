@@ -114,3 +114,4 @@
 | 野火论坛 | [野火论坛.har](https://github.com/wjf0214/qd-templates/blob/master/野火论坛.har) | Web | username:账号<br>password:密码<br><http://www.proewildfire.cn/> |
 | 3D溜溜网 | [3D溜溜网.har](https://github.com/wjf0214/qd-templates/blob/master/3D溜溜网.har) | Web | 登录后首页cookie<br><https://user.3d66.com/> |
 | 宽带技术网 | [宽带技术网.har](https://github.com/wjf0214/qd-templates/blob/master/宽带技术网.har) | Web | 登录后首页cookie<br><http://www.chinadsl.net/> |
+| 摩登犀牛 | [摩登犀牛.har](https://github.com/wjf0214/qd-templates/blob/master/摩登犀牛.har) | Web | username:账号<br>password:密码<br><http://bbs.rhino3d.us/> |

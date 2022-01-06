@@ -996,6 +996,18 @@
       "date": "2022-01-06 19:30:00",
       "version": "20220106",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/86"
+    },
+    "摩登犀牛": {
+      "name": "摩登犀牛",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/摩登犀牛.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>http://bbs.rhino3d.us/",
+      "filename": "摩登犀牛.har",
+      "content": "",
+      "date": "2022-01-06 19:30:00",
+      "version": "20220106",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/87"
     }
   }
 }
