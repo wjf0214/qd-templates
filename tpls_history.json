@@ -1008,6 +1008,18 @@
       "date": "2022-01-06 19:30:00",
       "version": "20220106",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/87"
+    },
+    "Goldroom黄金屋": {
+      "name": "Goldroom黄金屋",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/Goldroom黄金屋.har",
+      "update": false,
+      "comments": "登录后首页cookie<br>http://goldroom.top/",
+      "filename": "Goldroom黄金屋.har",
+      "content": "",
+      "date": "2022-01-11 17:10:00",
+      "version": "20220111",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/88"
     }
   }
 }
