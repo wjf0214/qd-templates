@@ -116,3 +116,4 @@
 | 宽带技术网 | [宽带技术网.har](https://github.com/wjf0214/qd-templates/blob/master/宽带技术网.har) | Web | 登录后首页cookie<br><http://www.chinadsl.net/> |
 | 摩登犀牛 | [摩登犀牛.har](https://github.com/wjf0214/qd-templates/blob/master/摩登犀牛.har) | Web | username:账号<br>password:密码<br><http://bbs.rhino3d.us/> |
 | Goldroom黄金屋 | [Goldroom黄金屋.har](https://github.com/wjf0214/qd-templates/blob/master/Goldroom黄金屋.har) | Web | 登录后首页cookie<br><http://goldroom.top/> |
+| 河洛网 | [河洛网.har](https://github.com/wjf0214/qd-templates/blob/master/河洛网.har) | Web | username:账号<br>password:密码<br><https://www.horou.com/> |
