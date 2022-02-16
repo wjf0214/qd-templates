@@ -1080,6 +1080,18 @@
       "date": "2022-02-16 17:10:00",
       "version": "20220216",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/94"
+    },
+    "52asus": {
+      "name": "52asus",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/52asus.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://www.52asus.com/",
+      "filename": "52asus.har",
+      "content": "",
+      "date": "2022-02-16 19:10:00",
+      "version": "20220216",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/95"
     }
   }
 }

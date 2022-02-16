@@ -121,3 +121,4 @@
 | 小云社区 | [小云社区.har](https://github.com/wjf0214/qd-templates/blob/master/小云社区.har) | Web | username:账号<br>password:密码<br><https://www.xiaoyunbbs.cn/> |
 | 我爱迅雷 | [我爱迅雷.har](https://github.com/wjf0214/qd-templates/blob/master/我爱迅雷.har) | Web | username:账号<br>password:密码<br><https://www.96yuedu.com/> |
 | geekhub | [geekhub.har](https://github.com/wjf0214/qd-templates/blob/master/geekhub.har) | Web | username:账号<br>password:密码<br><https://www.geekhub.com/> |
+| 52asus | [52asus.har](https://github.com/wjf0214/qd-templates/blob/master/52asus.har) | Web | username:账号<br>password:密码<br><https://www.52asus.com/> |
