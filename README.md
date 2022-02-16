@@ -119,3 +119,4 @@
 | 河洛网 | [河洛网.har](https://github.com/wjf0214/qd-templates/blob/master/河洛网.har) | Web | username:账号<br>password:密码<br><https://www.horou.com/> |
 | 落叶次元 | [落叶次元.har](https://github.com/wjf0214/qd-templates/blob/master/落叶次元.har) | Web | username:邮箱<br>password:密码<br><https://www.lyocy.com/> |
 | 小云社区 | [小云社区.har](https://github.com/wjf0214/qd-templates/blob/master/小云社区.har) | Web | username:邮箱<br>password:密码<br><https://www.xiaoyunbbs.cn/> |
+| 我爱迅雷 | [我爱迅雷.har](https://github.com/wjf0214/qd-templates/blob/master/我爱迅雷.har) | Web | username:邮箱<br>password:密码<br><https://www.96yuedu.com/> |

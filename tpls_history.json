@@ -1056,6 +1056,18 @@
       "date": "2022-02-16 15:40:00",
       "version": "20220216",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/92"
+    },
+    "我爱迅雷": {
+      "name": "我爱迅雷",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/我爱迅雷.har",
+      "update": false,
+      "comments": "username:邮箱<br>password:密码<br>https://www.96yuedu.com/",
+      "filename": "我爱迅雷.har",
+      "content": "",
+      "date": "2022-02-16 16:10:00",
+      "version": "20220216",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/93"
     }
   }
 }
