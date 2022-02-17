@@ -124,3 +124,4 @@
 | 52asus | [52asus.har](https://github.com/wjf0214/qd-templates/blob/master/52asus.har) | Web | username:账号<br>password:密码<br><https://www.52asus.com/> |
 | eatASMR | [eatASMR.har](https://github.com/wjf0214/qd-templates/blob/master/eatASMR.har) | Web | username:账号<br>password:密码<br><https://eatasmr.com/> |
 | 好书友 | [好书友.har](https://github.com/wjf0214/qd-templates/blob/master/好书友.har) | Web | username:账号<br>password:密码<br><https://www.58shuyou.com/> |
+| 腾龙工作室 | [腾龙工作室.har](https://github.com/wjf0214/qd-templates/blob/master/腾龙工作室.har) | Web | username:邮箱<br>password:密码<br><https://www.tenlonstudio.com/> |

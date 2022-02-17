@@ -1116,6 +1116,18 @@
       "date": "2022-02-17 10:40:00",
       "version": "20220217",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/97"
+    },
+    "腾龙工作室": {
+      "name": "腾龙工作室",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/腾龙工作室.har",
+      "update": false,
+      "comments": "username:邮箱<br>password:密码<br>https://www.tenlonstudio.com/",
+      "filename": "腾龙工作室.har",
+      "content": "",
+      "date": "2022-02-17 11:10:00",
+      "version": "20220217",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/98"
     }
   }
 }
