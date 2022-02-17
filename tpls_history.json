@@ -1092,6 +1092,18 @@
       "date": "2022-02-16 19:10:00",
       "version": "20220216",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/95"
+    },
+    "eatASMR": {
+      "name": "eatASMR",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/eatASMR.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://eatasmr.com/",
+      "filename": "eatASMR.har",
+      "content": "",
+      "date": "2022-02-17 10:10:00",
+      "version": "20220217",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/96"
     }
   }
 }
