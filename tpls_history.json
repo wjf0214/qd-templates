@@ -1140,6 +1140,18 @@
       "date": "2022-02-18 15:40:00",
       "version": "20220218",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/99"
+    },
+    "蓝光演唱会": {
+      "name": "蓝光演唱会",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/蓝光演唱会.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://www.lgych.com/",
+      "filename": "蓝光演唱会.har",
+      "content": "",
+      "date": "2022-02-18 17:40:00",
+      "version": "20220218",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/100"
     }
   }
 }
