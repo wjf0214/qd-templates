@@ -128,3 +128,4 @@
 | 腾龙工作室 | [腾龙工作室.har](https://github.com/wjf0214/qd-templates/blob/master/腾龙工作室.har) | Web | username:邮箱<br>password:密码<br><https://www.tenlonstudio.com/> |
 | keyshot产品渲染俱乐部 | [keyshot产品渲染俱乐部.har](https://github.com/wjf0214/qd-templates/blob/master/keyshot产品渲染俱乐部.har) | Web | 登录后首页cookie<br><https://keyshot.pro/> |
 | 蓝光演唱会 | [蓝光演唱会.har](https://github.com/wjf0214/qd-templates/blob/master/蓝光演唱会.har) | Web | username:账号<br>password:密码<br><https://www.lgych.com/> |
+| 原盘天堂 | [原盘天堂.har](https://github.com/wjf0214/qd-templates/blob/master/原盘天堂.har) | Web | username:账号<br>password:密码<br><https://4k3dyptt.com/> |
