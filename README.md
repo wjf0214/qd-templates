@@ -21,6 +21,10 @@
 
 > 极个别模板不兼容 [旧版本](ttps://github.com/binux/qiandao) 框架, 如有不兼容请使用 [最新版](https://github.com/qiandao-today/qiandao) 。 具体使用方式请自行学习。
 
+## 🖥️星图
+
+[![Stargazers over time](https://starchart.cc/wjf0214/qd-templates.svg)](https://starchart.cc/wjf0214/qd-templates)
+
 ## 📃免责声明
 
 本项目为学习交流的开源非营利项目，仅作为程序员之间相互学习交流之用，使用需严格遵守开源许可协议。严禁用于商业用途，禁止使用本项目进行任何盈利活动。对一切非法使用所产生的后果，我们概不负责。本项目对您如有困扰请联系我们删除。
@@ -130,3 +134,17 @@
 | 蓝光演唱会 | [蓝光演唱会.har](https://github.com/wjf0214/qd-templates/blob/master/蓝光演唱会.har) | Web | username:账号<br>password:密码<br><https://www.lgych.com/> |
 | 原盘天堂 | [原盘天堂.har](https://github.com/wjf0214/qd-templates/blob/master/原盘天堂.har) | Web | username:账号<br>password:密码<br><https://4k3dyptt.com/> |
 | tool.lu在线工具 | [tool.lu在线工具.har](https://github.com/wjf0214/qd-templates/blob/master/tool.lu在线工具.har) | Web | 登录后<https://id.tool.lu/profile>页面cookie<br>password:密码<br><https://tool.lu/> |
+
+## 项目相关
+
+* [qiandao](https://github.com/qiandao-today/qiandao)
+* [templates](https://github.com/qiandao-today/templates)
+* [Github](https://github.com/)
+
+## 致谢
+
+感谢 `JetBrains` 提供优秀的IDE。
+
+<a href="https://www.jetbrains.com/?from=qd-templates" target="_blank">
+<img src="https://tva1.sinaimg.cn/large/008eGmZEly1gov9g3tzrnj30u00wj0tn.jpg" width="150"/>
+</a>
