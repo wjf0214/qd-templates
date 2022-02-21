@@ -1164,6 +1164,18 @@
       "date": "2022-02-19 22:30:00",
       "version": "20220219",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/101"
+    },
+    "tool.lu在线工具": {
+      "name": "tool.lu在线工具",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/tool.lu在线工具.har",
+      "update": false,
+      "comments": "登录后[https://id.tool.lu/profile]页面cookie<br>https://tool.lu/",
+      "filename": "tool.lu在线工具.har",
+      "content": "",
+      "date": "2022-02-21 10:00:00",
+      "version": "20220221",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/102"
     }
   }
 }
