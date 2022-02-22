@@ -137,6 +137,7 @@
 | WhereMyLife | [WhereMyLife.har](https://github.com/wjf0214/qd-templates/blob/master/WhereMyLife.har) | Web | username:邮箱<br>password:密码<br><https://wheremylife.cn/> |
 | Gogo次元 | [Gogo次元.har](https://github.com/wjf0214/qd-templates/blob/master/Gogo次元.har) | Web | username:账号<br>password:密码<br><https://gogoacg.ws/> |
 | blue高清公馆 | [blue高清公馆.har](https://github.com/wjf0214/qd-templates/blob/master/blue高清公馆.har) | Web | username:账号<br>password:密码<br><https://www.bluegq.com/> |
+| 国配影迷社区 | [国配影迷社区.har](https://github.com/wjf0214/qd-templates/blob/master/国配影迷社区.har) | Web | 登录后首页cookie<br><https://club.ccmnn.com/> |
 
 ## 项目相关
 
