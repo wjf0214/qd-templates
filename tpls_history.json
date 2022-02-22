@@ -1188,6 +1188,18 @@
       "date": "2022-02-22 10:40:00",
       "version": "20220222",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/103"
+    },
+    "Gogo次元": {
+      "name": "Gogo次元",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/Gogo次元.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://gogoacg.ws/",
+      "filename": "Gogo次元.har",
+      "content": "",
+      "date": "2022-02-22 15:00:00",
+      "version": "20220222",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/104"
     }
   }
 }

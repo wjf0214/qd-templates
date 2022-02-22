@@ -135,6 +135,7 @@
 | 原盘天堂 | [原盘天堂.har](https://github.com/wjf0214/qd-templates/blob/master/原盘天堂.har) | Web | username:账号<br>password:密码<br><https://4k3dyptt.com/> |
 | tool.lu在线工具 | [tool.lu在线工具.har](https://github.com/wjf0214/qd-templates/blob/master/tool.lu在线工具.har) | Web | 登录后<https://id.tool.lu/profile>页面cookie<br><https://tool.lu/> |
 | WhereMyLife | [WhereMyLife.har](https://github.com/wjf0214/qd-templates/blob/master/WhereMyLife.har) | Web | username:邮箱<br>password:密码<br><https://wheremylife.cn/> |
+| Gogo次元 | [Gogo次元.har](https://github.com/wjf0214/qd-templates/blob/master/Gogo次元.har) | Web | username:账号<br>password:密码<br><https://gogoacg.ws/> |
 
 ## 项目相关
 
