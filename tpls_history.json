@@ -1200,6 +1200,18 @@
       "date": "2022-02-22 15:00:00",
       "version": "20220222",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/104"
+    },
+    "blue高清公馆": {
+      "name": "blue高清公馆",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/blue高清公馆.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://www.bluegq.com/",
+      "filename": "blue高清公馆.har",
+      "content": "",
+      "date": "2022-02-22 20:00:00",
+      "version": "20220222",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/105"
     }
   }
 }
