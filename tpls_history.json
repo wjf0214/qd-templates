@@ -1224,6 +1224,18 @@
       "date": "2022-02-22 21:00:00",
       "version": "20220222",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/106"
+    },
+    "爱好论坛-每日打卡": {
+      "name": "爱好论坛-每日打卡",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/爱好论坛-每日打卡.har",
+      "update": false,
+      "comments": "Cookies:登录后首页cookie<br>num为数字，对应值及意思为：<br>1.早上8-9点之间打卡。<br>2.下午13-14点直接打卡<br>3.晚上18-19点直接打卡<br>4.每月全勤大于60次打卡<br>建议前3个设置为每天对应的时间执行，每月的可以设置为cron方式执行，如【0 9 28-31 * *】<br>https://www.aihao.cc/",
+      "filename": "爱好论坛-每日打卡.har",
+      "content": "",
+      "date": "2022-02-22 21:10:00",
+      "version": "20220222",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/107"
     }
   }
 }

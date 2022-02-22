@@ -138,6 +138,7 @@
 | Gogo次元 | [Gogo次元.har](https://github.com/wjf0214/qd-templates/blob/master/Gogo次元.har) | Web | username:账号<br>password:密码<br><https://gogoacg.ws/> |
 | blue高清公馆 | [blue高清公馆.har](https://github.com/wjf0214/qd-templates/blob/master/blue高清公馆.har) | Web | username:账号<br>password:密码<br><https://www.bluegq.com/> |
 | 国配影迷社区 | [国配影迷社区.har](https://github.com/wjf0214/qd-templates/blob/master/国配影迷社区.har) | Web | 登录后首页cookie<br><https://club.ccmnn.com/> |
+| 爱好论坛-每日打卡 | [爱好论坛-每日打卡.har](https://github.com/wjf0214/qd-templates/blob/master/爱好论坛-每日打卡.har) | Web | Cookies:登录后首页cookie<br>num为数字，对应值及意思为：<br>1.早上8-9点之间打卡。<br>2.下午13-14点直接打卡<br>3.晚上18-19点直接打卡<br>4.每月全勤大于60次打卡<br>建议前3个设置为每天对应的时间执行，每月的可以设置为cron方式执行，如【0 9 28-31 * *】<br><https://www.aihao.cc/> |
 
 ## 项目相关
 
@@ -150,5 +151,5 @@
 感谢 `JetBrains` 提供优秀的IDE。
 
 <a href="https://www.jetbrains.com/?from=qd-templates" target="_blank">
-<img src="https://tva1.sinaimg.cn/large/008eGmZEly1gov9g3tzrnj30u00wj0tn.jpg" width="150"/>
+	<img src="https://tva1.sinaimg.cn/large/008eGmZEly1gov9g3tzrnj30u00wj0tn.jpg" width="150" alt="JetBrains"/>
 </a>
