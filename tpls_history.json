@@ -1236,6 +1236,18 @@
       "date": "2022-02-22 21:10:00",
       "version": "20220222",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/107"
+    },
+    "33IQ": {
+      "name": "33IQ",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/33IQ.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://www.33iq.com/",
+      "filename": "33IQ.har",
+      "content": "",
+      "date": "2022-02-25 12:00:00",
+      "version": "20220225",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/108"
     }
   }
 }
