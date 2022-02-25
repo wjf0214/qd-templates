@@ -21,6 +21,12 @@
 
 > 极个别模板不兼容 [旧版本](ttps://github.com/binux/qiandao) 框架, 如有不兼容请使用 [最新版](https://github.com/qiandao-today/qiandao) 。 具体使用方式请自行学习。
 
+## 👤游客访问
+
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/qd-templates/count.svg"  alt="qd-templates"/>
+ </p>
+
 ## 🖥️星图
 
 [![Stargazers over time](https://starchart.cc/wjf0214/qd-templates.svg)](https://starchart.cc/wjf0214/qd-templates)
