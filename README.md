@@ -148,6 +148,7 @@
 | 33IQ | [33IQ.har](https://github.com/wjf0214/qd-templates/blob/master/33IQ.har) | Web | username:账号<br>password:密码<br><https://www.33iq.com/> |
 | 飘云阁 | [飘云阁.har](https://github.com/wjf0214/qd-templates/blob/master/飘云阁.har) | Web | username:账号<br>password:密码<br><https://www.chinapyg.com/> |
 | zodgame | [zodgame.har](https://github.com/wjf0214/qd-templates/blob/master/zodgame.har) | Web | Cookies:登录后首页cookie<br>ua：user-agent对应的值<br>网站开启了cf五秒盾，对ck和ua有要求，需要抓框架对应ip的ck和ua。<br><https://zodgame.xyz/> |
+| 书法江湖 | [书法江湖.har](https://github.com/wjf0214/qd-templates/blob/master/书法江湖.har) | Web | username:账号<br>password:密码<br><https://www.shufajianghu.com/> |
 
 ## 项目相关
 
