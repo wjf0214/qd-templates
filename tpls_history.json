@@ -1260,6 +1260,18 @@
       "date": "2022-02-25 15:20:00",
       "version": "20220225",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/109"
+    },
+    "zodgame": {
+      "name": "zodgame",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/zodgame.har",
+      "update": false,
+      "comments": "Cookies:登录后首页cookie<br>ua：user-agent对应的值<br>网站开启了cf五秒盾，对ck和ua有要求，需要抓框架对应ip的ck和ua。<br>https://zodgame.xyz/",
+      "filename": "zodgame.har",
+      "content": "",
+      "date": "2022-02-26 11:20:00",
+      "version": "20220226",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/110"
     }
   }
 }
