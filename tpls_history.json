@@ -1296,6 +1296,18 @@
       "date": "2022-02-27 18:20:00",
       "version": "20220227",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/112"
+    },
+    "爱上ASMR": {
+      "name": "爱上ASMR",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/爱上ASMR.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://www.aisasmr.com/",
+      "filename": "爱上ASMR.har",
+      "content": "",
+      "date": "2022-03-01 00:20:00",
+      "version": "20220301",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/113"
     }
   }
 }
