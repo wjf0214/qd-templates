@@ -45,7 +45,7 @@
 | 不移之火 | [不移之火.har](https://github.com/wjf0214/qd-templates/blob/master/不移之火.har) | Web | 登录后首页cookie<br><https://www.byzhihuo.com/> |
 | element3ds | [element3ds.har](https://github.com/wjf0214/qd-templates/blob/master/element3ds.har) | Web | 登录后首页cookie<br><https://www.element3ds.com/> |
 | 人人字幕组 | [人人字幕组.har](https://github.com/wjf0214/qd-templates/blob/master/人人字幕组.har) | Web | username:账号<br>password:密码<br>DOMAIN：网站域名【<https://www.yysub.net/>】 |
-| 迅维网 | [迅维网.har](https://github.com/wjf0214/qd-templates/blob/master/迅维网.har) | Web | 登录后首页cookie<br><https://www.chinafix.com> |
+| 迅维网 | [迅维网.har](https://github.com/wjf0214/qd-templates/blob/master/迅维网.har) | Web | username:账号<br>password:密码<br><https://www.chinafix.com> |
 | 科学刀论坛 | [科学刀论坛.har](https://github.com/wjf0214/qd-templates/blob/master/科学刀论坛.har) | Web | 登录后首页cookie<br><https://www.kxdao.net/> |
 | 科学刀在线时间 | [科学刀在线时间.har](https://github.com/wjf0214/qd-templates/blob/master/科学刀在线时间.har) | Web | 登录后首页cookie<br><https://www.kxdao.net/> |
 | chiphell | [chiphell.har](https://github.com/wjf0214/qd-templates/blob/master/chiphell.har) | Web | 登录后首页cookie<br><https://www.chiphell.com> |
