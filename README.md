@@ -153,6 +153,7 @@
 | 爱上ASMR | [爱上ASMR.har](https://github.com/wjf0214/qd-templates/blob/master/爱上ASMR.har) | Web | username:账号<br>password:密码<br><https://www.aisasmr.com/> |
 | GLaDOS | [GLaDOS.har](https://github.com/wjf0214/qd-templates/blob/master/GLaDOS.har) | Web | Cookies:登录后首页cookie<br><https://glados.rocks/> |
 | 数码之家 | [数码之家.har](https://github.com/wjf0214/qd-templates/blob/master/数码之家.har) | Web | username:账号<br>password:密码<br><https://www.mydigit.cn/> |
+| 鱼塘热榜 | [鱼塘热榜.har](https://github.com/wjf0214/qd-templates/blob/master/鱼塘热榜.har) | Web | username:邮箱<br>password:密码<br><https://mo.fish/> |
 
 ## 项目相关
 
