@@ -1356,6 +1356,18 @@
       "date": "2022-03-08 21:00:00",
       "version": "20220308",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/55"
+    },
+    "Pico社区": {
+      "name": "Pico社区",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/Pico社区.har",
+      "update": false,
+      "comments": "Cookies:登录后首页cookie<br>https://bbs.picovr.com/",
+      "filename": "Pico社区.har",
+      "content": "",
+      "date": "2022-03-10 00:00:00",
+      "version": "20220310",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/117"
     }
   }
 }
