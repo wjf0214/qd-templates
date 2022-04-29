@@ -97,6 +97,18 @@
       "version": "20220311",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/10"
     },
+    "卡饭(Cookie版)": {
+      "name": "卡饭(Cookie版)",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/卡饭(Cookie版).har",
+      "update": false,
+      "comments": "登录后首页cookie<br>https://bbs.kafan.cn/",
+      "filename": "卡饭(Cookie版).har",
+      "content": "",
+      "date": "2022-04-29 10:10:00",
+      "version": "20220429",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/10"
+    },
     "魅族社区": {
       "name": "魅族社区",
       "author": "wjf0214",
