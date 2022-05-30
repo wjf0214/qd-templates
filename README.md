@@ -158,6 +158,7 @@
 | 一加社区抽奖 | [一加社区抽奖.har](https://github.com/wjf0214/qd-templates/blob/master/一加社区抽奖.har) | Web | 抽奖一次消耗10加油。可以根据自身情况设置定时执行次数。<br>Cookies:登录后首页cookie<br><https://www.oneplusbbs.com/> |
 | Pico社区 | [Pico社区.har](https://github.com/wjf0214/qd-templates/blob/master/Pico社区.har) | Web | Cookies:登录后首页cookie<br><https://bbs.picovr.com/> |
 | 苹果团 | [苹果团.har](https://github.com/wjf0214/qd-templates/blob/master/苹果团.har) | Web | Cookies:登录后首页cookie<br><https://appletuan.com/> |
+| 游戏大桶 | [游戏大桶.har](https://github.com/wjf0214/qd-templates/blob/master/游戏大桶.har) | Web | username:邮箱<br>password:密码<br><https://gamekegs.com/> |
 
 ## 项目相关
 
