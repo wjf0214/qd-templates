@@ -1380,6 +1380,18 @@
       "date": "2022-03-11 10:00:00",
       "version": "20220311",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/117"
+    },
+    "苹果团": {
+      "name": "苹果团",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/苹果团.har",
+      "update": false,
+      "comments": "Cookies:登录后首页cookie<br>https://appletuan.com/",
+      "filename": "苹果团.har",
+      "content": "",
+      "date": "2022-05-30 14:40:00",
+      "version": "20220530",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/118"
     }
   }
 }
