@@ -1428,6 +1428,18 @@
       "date": "2022-06-13 14:30:00",
       "version": "20220613",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/122"
+    },
+    "糖果VR资源网": {
+      "name": "糖果VR资源网",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/糖果VR资源网.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://www.tangguo2.com/forum.php",
+      "filename": "糖果VR资源网.har",
+      "content": "",
+      "date": "2022-06-13 16:00:00",
+      "version": "20220613",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/123"
     }
   }
 }
