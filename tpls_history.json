@@ -1440,6 +1440,18 @@
       "date": "2022-06-13 16:00:00",
       "version": "20220613",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/123"
+    },
+    "MC百科": {
+      "name": "MC百科",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/MC百科.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://center.mcmod.cn/",
+      "filename": "MC百科.har",
+      "content": "",
+      "date": "2022-06-13 16:30:00",
+      "version": "20220613",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/124"
     }
   }
 }
