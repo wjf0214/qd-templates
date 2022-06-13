@@ -1416,6 +1416,18 @@
       "date": "2022-06-13 14:15:00",
       "version": "20220613",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/121"
+    },
+    "修图匠人": {
+      "name": "修图匠人",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/修图匠人.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://www.tsliuyu.com/",
+      "filename": "修图匠人.har",
+      "content": "",
+      "date": "2022-06-13 14:30:00",
+      "version": "20220613",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/122"
     }
   }
 }

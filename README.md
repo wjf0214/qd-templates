@@ -160,6 +160,7 @@
 | 苹果团 | [苹果团.har](https://github.com/wjf0214/qd-templates/blob/master/苹果团.har) | Web | Cookies:登录后首页cookie<br><https://appletuan.com/> |
 | 游戏大桶 | [游戏大桶.har](https://github.com/wjf0214/qd-templates/blob/master/游戏大桶.har) | Web | username:邮箱<br>password:密码<br><https://gamekegs.com/> |
 | 紫猫学院社区 | [紫猫学院社区.har](https://github.com/wjf0214/qd-templates/blob/master/紫猫学院社区.har) | Web | Cookies:登录后首页cookie<br><https://zimaoxy.com/b/> |
+| 修图匠人 | [修图匠人.har](https://github.com/wjf0214/qd-templates/blob/master/修图匠人.har) | Web | username:账号<br>password:密码<br><https://www.tsliuyu.com/> |
 
 ## 项目相关
 
