@@ -210,7 +210,7 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/E次元.har",
       "update": false,
-      "comments": "homeaction和cks 打开首页即可获取 https://www.ecy.top/wp-admin/admin-ajax.php?action=<br>https://www.ecy.top/",
+      "comments": "domain:为网站域名，如【https://www.acge.me/】,https和后面的'/'都要有<br/>homeaction和cks 打开首页即可获取 https://www.acge.me/wp-admin/admin-ajax.php?action=<br>https://www.acge.me/",
       "filename": "E次元.har",
       "content": "",
       "date": "2022-06-03 22:00:00",
