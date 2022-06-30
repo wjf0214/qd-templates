@@ -1476,6 +1476,18 @@
       "date": "2022-06-30 15:15:00",
       "version": "20220630",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/126"
+    },
+    "攻城狮论坛": {
+      "name": "攻城狮论坛",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/攻城狮论坛.har",
+      "update": false,
+      "comments": "Cookies:登录后首页cookie<br>http://bbs.vlan5.com/",
+      "filename": "攻城狮论坛.har",
+      "content": "",
+      "date": "2022-06-30 16:00:00",
+      "version": "20220630",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/127"
     }
   }
 }

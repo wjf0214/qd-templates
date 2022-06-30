@@ -165,6 +165,7 @@
 | MC百科 | [MC百科.har](https://github.com/wjf0214/qd-templates/blob/master/MC百科.har) | Web | username:账号<br>password:密码<br><https://center.mcmod.cn/> |
 | 全球VPS交流社区 | [全球VPS交流社区.har](https://github.com/wjf0214/qd-templates/blob/master/全球VPS交流社区.har) | Web | Cookies:登录后首页cookie<br><https://www.qqvps.com/fourm> |
 | 鸿鹄论坛 | [鸿鹄论坛.har](https://github.com/wjf0214/qd-templates/blob/master/鸿鹄论坛.har) | Web | Cookies:登录后首页cookie<br><https://bbs.hh010.com/> |
+| 攻城狮论坛 | [攻城狮论坛.har](https://github.com/wjf0214/qd-templates/blob/master/攻城狮论坛.har) | Web | Cookies:登录后首页cookie<br><http://bbs.vlan5.com/> |
 
 ## 项目相关
 
