@@ -166,6 +166,7 @@
 | 全球VPS交流社区 | [全球VPS交流社区.har](https://github.com/wjf0214/qd-templates/blob/master/全球VPS交流社区.har) | Web | Cookies:登录后首页cookie<br><https://www.qqvps.com/fourm> |
 | 鸿鹄论坛 | [鸿鹄论坛.har](https://github.com/wjf0214/qd-templates/blob/master/鸿鹄论坛.har) | Web | Cookies:登录后首页cookie<br><https://bbs.hh010.com/> |
 | 攻城狮论坛 | [攻城狮论坛.har](https://github.com/wjf0214/qd-templates/blob/master/攻城狮论坛.har) | Web | Cookies:登录后首页cookie<br><http://bbs.vlan5.com/> |
+| 4k时光 | [4k时光.har](https://github.com/wjf0214/qd-templates/blob/master/4k时光.har) | Web | Cookies:登录后首页cookie<br><https://www.4ksg.com/> |
 
 ## 项目相关
 

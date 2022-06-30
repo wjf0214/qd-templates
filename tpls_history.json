@@ -1488,6 +1488,18 @@
       "date": "2022-06-30 16:00:00",
       "version": "20220630",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/127"
+    },
+    "4k时光": {
+      "name": "4k时光",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/4k时光.har",
+      "update": false,
+      "comments": "Cookies:登录后首页cookie<br>https://www.4ksg.com/",
+      "filename": "4k时光.har",
+      "content": "",
+      "date": "2022-06-30 16:20:00",
+      "version": "20220630",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/128"
     }
   }
 }
