@@ -163,6 +163,7 @@
 | 修图匠人 | [修图匠人.har](https://github.com/wjf0214/qd-templates/blob/master/修图匠人.har) | Web | username:账号<br>password:密码<br><https://www.tsliuyu.com/> |
 | 糖果VR资源网 | [糖果VR资源网.har](https://github.com/wjf0214/qd-templates/blob/master/糖果VR资源网.har) | Web | username:账号<br>password:密码<br><https://www.tangguo2.com/forum.php> |
 | MC百科 | [MC百科.har](https://github.com/wjf0214/qd-templates/blob/master/MC百科.har) | Web | username:账号<br>password:密码<br><https://center.mcmod.cn/> |
+| 全球VPS交流社区 | [全球VPS交流社区.har](https://github.com/wjf0214/qd-templates/blob/master/全球VPS交流社区.har) | Web | Cookies:登录后首页cookie<br><https://www.qqvps.com/fourm> |
 
 ## 项目相关
 
