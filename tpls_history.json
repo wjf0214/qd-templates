@@ -66,7 +66,7 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/科学刀在线时间.har",
       "update": false,
-      "comments": "登录后首页cookie<br>https://www.k7d.com/",
+      "comments": "domain:为网站域名，如【https://www.kxdao.net/】,https和后面的'/'都要有<br>Cookie:登录后首页cookie<br>https://www.kxdao.net/",
       "filename": "科学刀在线时间.har",
       "content": "",
       "date": "2022-04-24 13:40:00",

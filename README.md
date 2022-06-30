@@ -47,7 +47,7 @@
 | 人人字幕组 | [人人字幕组.har](https://github.com/wjf0214/qd-templates/blob/master/人人字幕组.har) | Web | username:账号<br>password:密码<br>DOMAIN：网站域名【<https://www.yysub.net/>】 |
 | 迅维网 | [迅维网.har](https://github.com/wjf0214/qd-templates/blob/master/迅维网.har) | Web | username:账号<br>password:密码<br><https://www.chinafix.com> |
 | 科学刀论坛 | [科学刀论坛.har](https://github.com/wjf0214/qd-templates/blob/master/科学刀论坛.har) | Web | 登录后首页cookie<br><https://www.kxdao.net/> |
-| 科学刀在线时间 | [科学刀在线时间.har](https://github.com/wjf0214/qd-templates/blob/master/科学刀在线时间.har) | Web | 登录后首页cookie<br><https://www.kxdao.net/> |
+| 科学刀在线时间 | [科学刀在线时间.har](https://github.com/wjf0214/qd-templates/blob/master/科学刀在线时间.har) | Web | domain:为网站域名，如【<https://www.kxdao.net/>】,https和后面的'/'都要有<br>Cookie:登录后首页cookie<br><https://www.kxdao.net/> |
 | chiphell | [chiphell.har](https://github.com/wjf0214/qd-templates/blob/master/chiphell.har) | Web | 登录后首页cookie<br><https://www.chiphell.com> |
 | 卡饭 | [卡饭.har](https://github.com/wjf0214/qd-templates/blob/master/卡饭.har) | Web | username:账号<br>password:密码<br><https://bbs.kafan.cn/> |
 | 卡饭(Cookie版) | [卡饭(Cookie版).har](https://github.com/wjf0214/qd-templates/blob/master/卡饭(Cookie版).har) | Web | 登录后首页cookie<br><https://bbs.kafan.cn/> |
@@ -59,14 +59,14 @@
 | 什么值得买7合一 | [什么值得买7合一.har](https://github.com/wjf0214/qd-templates/blob/master/什么值得买7合一.har) | Web | 登录后首页cookie<br><https://smzdm.com> |
 | 龙的天空 | [龙的天空.har](https://github.com/wjf0214/qd-templates/blob/master/龙的天空.har) | Web | 登录后首页cookie<br><https://www.lkong.com/> |
 | 网易云游戏 | [网易云游戏.har](https://github.com/wjf0214/qd-templates/blob/master/网易云游戏.har) | Web | 登录后首页cookie<br><https://cg.163.com/> |
-| E次元 | [E次元.har](https://github.com/wjf0214/qd-templates/blob/master/E次元.har) | Web | domain:为网站域名，如【https://www.acge.me/】,https和后面的'/'都要有<br/>homeaction和cks 打开首页即可获取 <https://www.acge.me/wp-admin/admin-ajax.php?action=><br><https://www.acge.me/> |
+| E次元 | [E次元.har](https://github.com/wjf0214/qd-templates/blob/master/E次元.har) | Web | domain:为网站域名，如【<https://www.acge.me/>】,https和后面的'/'都要有<br/>homeaction和cks 打开首页即可获取 <https://www.acge.me/wp-admin/admin-ajax.php?action=><br><https://www.acge.me/> |
 | 致美化 | [致美化.har](https://github.com/wjf0214/qd-templates/blob/master/致美化.har) | Web | user:账号<br>pass:密码<br><https://zhutix.com> |
 | 时光相册 | [时光相册.har](https://github.com/wjf0214/qd-templates/blob/master/时光相册.har) | Web | phone:账号<br>password:密码<br>手机号密码 请抓登陆包查看 手机号里包括区号 86啥的 密码为加密后的密码<br><https://www.everphoto.cn/> |
 | 书香门第 | [书香门第.har](https://github.com/wjf0214/qd-templates/blob/master/书香门第.har) | Web | account:账号<br>password:密码<br>登陆账号密码(只支持字母+数字组合账号)<br><http://www.txtnovel.top> |
 | 漫画补档(账号密码版) | [漫画补档(账号密码版).har](https://github.com/wjf0214/qd-templates/blob/master/漫画补档(账号密码版).har) | Web | username:账号<br>password:密码<br><https://www.manhuabudang.com> |
 | bigfun | [bigfun.har](https://github.com/wjf0214/qd-templates/blob/master/bigfun.har) | Web | 登录后首页cookie<br><https://www.bigfun.cn> |
 | hostloc主机论坛 | [hostloc主机论坛.har](https://github.com/wjf0214/qd-templates/blob/master/hostloc主机论坛.har) | Web | 登录后首页cookie<br><https://hostloc.com> |
-| south-plus | [south-plus.har](https://github.com/wjf0214/qd-templates/blob/master/south-plus.har) | Web | 登录后首页cookie和UA<br>domain:为网站域名，如【https://www.south-plus.net/】,https和后面的'/'都要有<br><https://www.south-plus.net> |
+| south-plus | [south-plus.har](https://github.com/wjf0214/qd-templates/blob/master/south-plus.har) | Web | 登录后首页cookie和UA<br>domain:为网站域名，如【<https://www.south-plus.net/>】,https和后面的'/'都要有<br><https://www.south-plus.net> |
 | VCB-Studio分享论坛 | [VCB-Studio分享论坛.har](https://github.com/wjf0214/qd-templates/blob/master/VCB-Studio分享论坛.har) | Web | 登录后首页cookie<br><https://bbs.acgrip.com> |
 | 一酷C4D | [一酷C4D.har](https://github.com/wjf0214/qd-templates/blob/master/一酷C4D.har) | Web | 登录后首页cookie<br><https://c4dco.com> |
 | SolidWorks机械工程师网 | [SolidWorks机械工程师网.har](https://github.com/wjf0214/qd-templates/blob/master/SolidWorks机械工程师网.har) | Web | username:账号<br>password:密码<br><https://www.swbbsc.com/> |
@@ -115,7 +115,7 @@
 | 万由论坛 | [万由论坛.har](https://github.com/wjf0214/qd-templates/blob/master/万由论坛.har) | Web | username:手机号<br>password:密码<br><https://www.u-share.cn/forum.php> |
 | 龙de船人 | [龙de船人.har](https://github.com/wjf0214/qd-templates/blob/master/龙de船人.har) | Web | 登录后首页cookie<br><https://www.imarine.cn/> |
 | 新赚吧 | [新赚吧.har](https://github.com/wjf0214/qd-templates/blob/master/新赚吧.har) | Web | username:账号<br>password:密码<br><https://v1.xianbao.net/> |
-| SSPANEL机场通用签到 | [SSPANEL机场通用签到.har](https://github.com/wjf0214/qd-templates/blob/master/SSPANEL机场通用签到.har) | Web | domain:域名,如【https://xxx.com】,后面不带'/'<br>username:账号<br>password:密码 |
+| SSPANEL机场通用签到 | [SSPANEL机场通用签到.har](https://github.com/wjf0214/qd-templates/blob/master/SSPANEL机场通用签到.har) | Web | domain:域名,如【<https://xxx.com>】,后面不带'/'<br>username:账号<br>password:密码 |
 | 萌盘总动员 | [萌盘总动员.har](https://github.com/wjf0214/qd-templates/blob/master/萌盘总动员.har) | Web | username:账号<br>password:密码<br><http://bdarea.net/> |
 | 98堂 | [98堂.har](https://github.com/wjf0214/qd-templates/blob/master/98堂.har) | Web | username:账号<br>password:密码<br><https://wetytrytuyu.net/> |
 | 学犀牛中文网 | [学犀牛中文网.har](https://github.com/wjf0214/qd-templates/blob/master/学犀牛中文网.har) | Web | 登录后首页cookie，不要右键复制值，请选中后复制<br><https://www.xuexiniu.com/> |
