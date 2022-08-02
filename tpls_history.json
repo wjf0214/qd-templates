@@ -690,11 +690,11 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/王者营地.har",
       "update": false,
-      "comments": "抓包 APP 中 ssl.kohsocialapp.qq.com/user/login 请求内容的“accessToken”和“openId”<br>抓包 APP 中 kohcamp.qq.com/operation/action/signin 请求内容的“sig”、“timestamp”、“msdkEncodeParam”和“msdkToken”<br>t：抓包的timestamp参数<br>APP自行商店下载",
+      "comments": "仅限QQ登录<br>抓包 APP 中 ssl.kohsocialapp.qq.com/user/login 请求内容的“accessToken”和“openId”<br>抓包 APP 中 kohcamp.qq.com/operation/action/signin 请求内容的“sig”、“timestamp”、“msdkEncodeParam”和“msdkToken”<br>t：抓包的timestamp参数<br>APP自行商店下载",
       "filename": "王者营地.har",
       "content": "",
-      "date": "2022-03-02 21:00:00",
-      "version":"20220302",
+      "date": "2022-08-02 16:40:00",
+      "version":"20220802",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/59"
     },
     "ZNDS智能电视网": {
