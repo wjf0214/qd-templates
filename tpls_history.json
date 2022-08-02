@@ -690,7 +690,7 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/王者营地.har",
       "update": false,
-      "comments": "抓包 APP 中域名为 https://ssl.kohsocialapp.qq.com 请求内容的全部参数<br>APP自行商店下载",
+      "comments": "抓包 APP 中 ssl.kohsocialapp.qq.com/user/login 请求内容的“accessToken”和“openId”<br>抓包 APP 中 kohcamp.qq.com/operation/action/signin 请求内容的“sig”、“timestamp”、“msdkEncodeParam”和“msdkToken”<br>t：抓包的timestamp参数<br>APP自行商店下载",
       "filename": "王者营地.har",
       "content": "",
       "date": "2022-03-02 21:00:00",
