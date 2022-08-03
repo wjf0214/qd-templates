@@ -49,7 +49,6 @@
 | 科学刀论坛 | [科学刀论坛.har](https://github.com/wjf0214/qd-templates/blob/master/科学刀论坛.har) | Web | domain:为网站域名，如【<https://www.kxdao.net/>】,https和后面的'/'都要有<br>Cookie:登录后首页cookie<br><https://www.kxdao.net/> |
 | 科学刀在线时间 | [科学刀在线时间.har](https://github.com/wjf0214/qd-templates/blob/master/科学刀在线时间.har) | Web | domain:为网站域名，如【<https://www.kxdao.net/>】,https和后面的'/'都要有<br>Cookie:登录后首页cookie<br><https://www.kxdao.net/> |
 | chiphell | [chiphell.har](https://github.com/wjf0214/qd-templates/blob/master/chiphell.har) | Web | 登录后首页cookie<br><https://www.chiphell.com> |
-| 卡饭 | [卡饭.har](https://github.com/wjf0214/qd-templates/blob/master/卡饭.har) | Web | username:账号<br>password:密码<br><https://bbs.kafan.cn/> |
 | 卡饭(Cookie版) | [卡饭(Cookie版).har](https://github.com/wjf0214/qd-templates/blob/master/卡饭(Cookie版).har) | Web | 登录后首页cookie<br><https://bbs.kafan.cn/> |
 | 魅族社区 | [魅族社区.har](https://github.com/wjf0214/qd-templates/blob/master/魅族社区.har) | Web | 登录后首页cookie<br><https://bbs.meizu.cn/> |
 | 杉果 | [杉果.har](https://github.com/wjf0214/qd-templates/blob/master/杉果.har) | Web | username:账号<br>password:密码<br><https://sonkwo.com/> |
@@ -127,7 +126,6 @@
 | 3D溜溜网 | [3D溜溜网.har](https://github.com/wjf0214/qd-templates/blob/master/3D溜溜网.har) | Web | 登录后首页cookie<br><https://user.3d66.com/> |
 | 宽带技术网 | [宽带技术网.har](https://github.com/wjf0214/qd-templates/blob/master/宽带技术网.har) | Web | 登录后首页cookie<br><http://www.chinadsl.net/> |
 | 摩登犀牛 | [摩登犀牛.har](https://github.com/wjf0214/qd-templates/blob/master/摩登犀牛.har) | Web | username:账号<br>password:密码<br><http://bbs.rhino3d.us/> |
-| Goldroom黄金屋 | [Goldroom黄金屋.har](https://github.com/wjf0214/qd-templates/blob/master/Goldroom黄金屋.har) | Web | 登录后首页cookie<br><http://goldroom.top/> |
 | 河洛网 | [河洛网.har](https://github.com/wjf0214/qd-templates/blob/master/河洛网.har) | Web | username:账号<br>password:密码<br><https://www.horou.com/> |
 | 落叶次元 | [落叶次元.har](https://github.com/wjf0214/qd-templates/blob/master/落叶次元.har) | Web | username:邮箱<br>password:密码<br><https://www.lyocy.com/> |
 | 小云社区 | [小云社区.har](https://github.com/wjf0214/qd-templates/blob/master/小云社区.har) | Web | username:账号<br>password:密码<br><https://www.xiaoyunbbs.cn/> |
@@ -135,14 +133,12 @@
 | geekhub | [geekhub.har](https://github.com/wjf0214/qd-templates/blob/master/geekhub.har) | Web | username:账号<br>password:密码<br><https://www.geekhub.com/> |
 | 52asus | [52asus.har](https://github.com/wjf0214/qd-templates/blob/master/52asus.har) | Web | username:账号<br>password:密码<br><https://www.52asus.com/> |
 | eatASMR | [eatASMR.har](https://github.com/wjf0214/qd-templates/blob/master/eatASMR.har) | Web | username:账号<br>password:密码<br><https://eatasmr.com/> |
-| 好书友 | [好书友.har](https://github.com/wjf0214/qd-templates/blob/master/好书友.har) | Web | username:账号<br>password:密码<br><https://www.58shuyou.com/> |
 | 腾龙工作室 | [腾龙工作室.har](https://github.com/wjf0214/qd-templates/blob/master/腾龙工作室.har) | Web | username:邮箱<br>password:密码<br><https://www.tenlonstudio.com/> |
 | keyshot产品渲染俱乐部 | [keyshot产品渲染俱乐部.har](https://github.com/wjf0214/qd-templates/blob/master/keyshot产品渲染俱乐部.har) | Web | 登录后首页cookie<br><https://keyshot.pro/> |
 | 蓝光演唱会 | [蓝光演唱会.har](https://github.com/wjf0214/qd-templates/blob/master/蓝光演唱会.har) | Web | username:账号<br>password:密码<br><https://www.lgych.com/> |
 | 原盘天堂 | [原盘天堂.har](https://github.com/wjf0214/qd-templates/blob/master/原盘天堂.har) | Web | username:账号<br>password:密码<br><https://4k3dyptt.com/> |
 | tool.lu在线工具 | [tool.lu在线工具.har](https://github.com/wjf0214/qd-templates/blob/master/tool.lu在线工具.har) | Web | 登录后<https://id.tool.lu/profile>页面cookie<br><https://tool.lu/> |
 | WhereMyLife | [WhereMyLife.har](https://github.com/wjf0214/qd-templates/blob/master/WhereMyLife.har) | Web | username:邮箱<br>password:密码<br><https://wheremylife.cn/> |
-| Gogo次元 | [Gogo次元.har](https://github.com/wjf0214/qd-templates/blob/master/Gogo次元.har) | Web | username:账号<br>password:密码<br><https://gogoacg.ws/> |
 | blue高清公馆 | [blue高清公馆.har](https://github.com/wjf0214/qd-templates/blob/master/blue高清公馆.har) | Web | username:账号<br>password:密码<br><https://www.bluegq.com/> |
 | 国配影迷社区 | [国配影迷社区.har](https://github.com/wjf0214/qd-templates/blob/master/国配影迷社区.har) | Web | 登录后首页cookie<br><https://club.ccmnn.com/> |
 | 爱好论坛-每日打卡 | [爱好论坛-每日打卡.har](https://github.com/wjf0214/qd-templates/blob/master/爱好论坛-每日打卡.har) | Web | Cookies:登录后首页cookie<br>num为数字，对应值及意思为：<br>1.早上8-9点之间打卡。<br>2.下午13-14点直接打卡<br>3.晚上18-19点直接打卡<br>4.每月全勤大于60次打卡<br>建议前3个设置为每天对应的时间执行，每月的可以设置为cron方式执行，如【0 9 28-31 * *】<br><https://www.aihao.cc/> |

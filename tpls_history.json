@@ -85,18 +85,6 @@
       "version": "20220311",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/9"
     },
-    "卡饭": {
-      "name": "卡饭",
-      "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/卡饭.har",
-      "update": false,
-      "comments": "username:账号<br>password:密码<br>https://bbs.kafan.cn/",
-      "filename": "卡饭.har",
-      "content": "",
-      "date": "2022-03-11 17:40:00",
-      "version": "20220311",
-      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/10"
-    },
     "卡饭(Cookie版)": {
       "name": "卡饭(Cookie版)",
       "author": "wjf0214",
@@ -1021,18 +1009,6 @@
       "version": "20220106",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/88"
     },
-    "Goldroom黄金屋": {
-      "name": "Goldroom黄金屋",
-      "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/Goldroom黄金屋.har",
-      "update": false,
-      "comments": "登录后首页cookie<br>http://goldroom.top/",
-      "filename": "Goldroom黄金屋.har",
-      "content": "",
-      "date": "2022-01-11 17:10:00",
-      "version": "20220111",
-      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/89"
-    },
     "河洛网": {
       "name": "河洛网",
       "author": "wjf0214",
@@ -1117,18 +1093,6 @@
       "version": "20220217",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/96"
     },
-    "好书友": {
-      "name": "好书友",
-      "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/好书友.har",
-      "update": false,
-      "comments": "username:账号<br>password:密码<br>https://www.58shuyou.com/",
-      "filename": "好书友.har",
-      "content": "",
-      "date": "2022-03-11 17:40:00",
-      "version": "20220311",
-      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/97"
-    },
     "腾龙工作室": {
       "name": "腾龙工作室",
       "author": "wjf0214",
@@ -1200,18 +1164,6 @@
       "date": "2022-02-22 10:40:00",
       "version": "20220222",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/103"
-    },
-    "Gogo次元": {
-      "name": "Gogo次元",
-      "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/Gogo次元.har",
-      "update": false,
-      "comments": "username:账号<br>password:密码<br>https://gogoacg.ws/",
-      "filename": "Gogo次元.har",
-      "content": "",
-      "date": "2022-03-11 17:40:00",
-      "version": "20220311",
-      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/104"
     },
     "blue高清公馆": {
       "name": "blue高清公馆",
