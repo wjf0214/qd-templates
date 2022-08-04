@@ -1440,6 +1440,18 @@
       "date": "2022-06-30 16:20:00",
       "version": "20220630",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/128"
+    },
+    "布谷TV": {
+      "name": "布谷TV",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/布谷TV.har",
+      "update": false,
+      "comments": "username:邮箱<br>password:密码<br>https://www.bugutv.net/",
+      "filename": "布谷TV.har",
+      "content": "",
+      "date": "2022-08-04 14:30:00",
+      "version": "20220804",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/129"
     }
   }
 }
