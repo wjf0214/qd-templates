@@ -1451,7 +1451,19 @@
       "content": "",
       "date": "2022-08-04 14:30:00",
       "version": "20220804",
-      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/129"
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/130"
+    },
+    "4K视界": {
+      "name": "4K视界",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/4K视界.har",
+      "update": false,
+      "comments": "username:邮箱<br>password:密码<br>https://www.4ksj.com/",
+      "filename": "4K视界.har",
+      "content": "",
+      "date": "2022-08-04 15:30:00",
+      "version": "20220804",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/131"
     }
   }
 }

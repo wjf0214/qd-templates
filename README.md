@@ -163,6 +163,7 @@
 | 攻城狮论坛 | [攻城狮论坛.har](https://github.com/wjf0214/qd-templates/blob/master/攻城狮论坛.har) | Web | Cookies:登录后首页cookie<br><http://bbs.vlan5.com/> |
 | 4k时光 | [4k时光.har](https://github.com/wjf0214/qd-templates/blob/master/4k时光.har) | Web | Cookies:登录后首页cookie<br><https://www.4ksg.com/> |
 | 布谷TV | [布谷TV.har](https://github.com/wjf0214/qd-templates/blob/master/布谷TV.har) | Web | username:邮箱<br>password:密码<br><https://www.bugutv.net/> |
+| 4K视界 | [4K视界.har](https://github.com/wjf0214/qd-templates/blob/master/4K视界.har) | Web | username:邮箱<br>password:密码<br><https://www.4ksj.com/> |
 
 ## 项目相关
 
