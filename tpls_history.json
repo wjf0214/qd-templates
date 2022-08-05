@@ -1464,6 +1464,18 @@
       "date": "2022-08-04 15:30:00",
       "version": "20220804",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/131"
+    },
+    "威锋网": {
+      "name": "威锋网",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/威锋网.har",
+      "update": false,
+      "comments": "accessToken:登录后header里的x-access-token<br>https://www.feng.com/",
+      "filename": "威锋网.har",
+      "content": "",
+      "date": "2022-08-05 09:35:00",
+      "version": "20220805",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/132"
     }
   }
 }
