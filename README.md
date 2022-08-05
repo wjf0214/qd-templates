@@ -166,6 +166,7 @@
 | 布谷TV | [布谷TV.har](https://github.com/wjf0214/qd-templates/blob/master/布谷TV.har) | Web | username:邮箱<br>password:密码<br><https://www.bugutv.net/> |
 | 4K视界 | [4K视界.har](https://github.com/wjf0214/qd-templates/blob/master/4K视界.har) | Web | username:邮箱<br>password:密码<br><https://www.4ksj.com/> |
 | 威锋网 | [威锋网.har](https://github.com/wjf0214/qd-templates/blob/master/威锋网.har) | Web | accessToken:登录后header里的x-access-token<br><https://www.feng.com/> |
+| 酷家乐 | [酷家乐.har](https://github.com/wjf0214/qd-templates/blob/master/酷家乐.har) | Web | Cookies:登录后首页cookie<br><https://www.kujiale.com/> |
 
 ## 项目相关
 
