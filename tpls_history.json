@@ -1038,11 +1038,11 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/小云社区.har",
       "update": false,
-      "comments": "username:账号<br>password:密码<br>https://www.xiaoyunbbs.cn/",
+      "comments": "domain:域名<br>username:账号<br>password:密码<br>https://www.moke08.com/",
       "filename": "小云社区.har",
       "content": "",
-      "date": "2022-03-11 17:40:00",
-      "version": "20220311",
+      "date": "2022-08-14 11:30:00",
+      "version": "20220814",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/92"
     },
     "我爱迅雷": {
