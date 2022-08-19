@@ -801,8 +801,8 @@
       "comments": "username:账号<br>password:密码<br>baseinfo:APP抓包 api.club.lenovo.cn 域名下的任意请求，header里面去找。可以为空，有默认值。但推荐抓取。<br>只限最新版框架使用，20220803版本后。",
       "filename": "联想智选.har",
       "content": "",
-      "date": "2022-08-03 19:30:00",
-      "version": "20220803",
+      "date": "2022-08-19 13:50:00",
+      "version": "20220819",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/69"
     },
     "小米运动": {
