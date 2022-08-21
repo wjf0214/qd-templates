@@ -798,11 +798,11 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/联想智选.har",
       "update": false,
-      "comments": "username:账号<br>password:密码<br>baseinfo:APP抓包 api.club.lenovo.cn 域名下的任意请求，header里面去找。可以为空，有默认值。但推荐抓取。<br>只限最新版框架使用，20220820版本后。",
+      "comments": "username:账号<br>password:密码<br>baseinfo:APP抓包 api.club.lenovo.cn 域名下的任意请求，header里面去找。可以为空，有默认值。<br>只限最新版框架使用，20220820版本后。",
       "filename": "联想智选.har",
       "content": "",
-      "date": "2022-08-20 00:20:00",
-      "version": "20220820",
+      "date": "2022-08-22 00:00:00",
+      "version": "20220822",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/69"
     },
     "小米运动": {

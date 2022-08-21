@@ -108,7 +108,7 @@
 | 爱玩网络 | [爱玩网络.har](https://github.com/wjf0214/qd-templates/blob/master/爱玩网络.har) | Web | username:账号<br>password:密码<br><https://wngamebox.cn/> |
 | switch520 | [switch520.har](https://github.com/wjf0214/qd-templates/blob/master/switch520.har) | Web | username:账号<br>password:密码<br><https://switch520.com> |
 | 远景论坛(账号版) | [远景论坛(账号版).har](https://github.com/wjf0214/qd-templates/blob/master/远景论坛(账号版).har) | Web | username:账号<br>password:密码<br><https://bbs.pcbeta.com/> |
-| 联想智选 | [联想智选.har](https://github.com/wjf0214/qd-templates/blob/master/联想智选.har) | App | username:账号<br>password:密码<br>baseinfo:APP抓包 api.club.lenovo.cn 域名下的任意请求，header里面去找。可以为空，有默认值。但推荐抓取。<br>只限最新版框架使用，20220820版本后。 |
+| 联想智选 | [联想智选.har](https://github.com/wjf0214/qd-templates/blob/master/联想智选.har) | App | username:账号<br>password:密码<br>baseinfo:APP抓包 api.club.lenovo.cn 域名下的任意请求，header里面去找。可以为空，有默认值。<br>只限最新版框架使用，20220820版本后。 |
 | 小米运动 | [小米运动.har](https://github.com/wjf0214/qd-templates/blob/master/小米运动.har) | App | username:账号<br>password:密码<br>min_step:最小步数<br>max_step:最大步数<br>步数在最大最小值之间取值，不填默认为1w到2w之间随机 |
 | 阡陌居 | [阡陌居.har](https://github.com/wjf0214/qd-templates/blob/master/阡陌居.har) | Web | 登录后首页cookie<br><http://www.1000qm.vip/> |
 | 魔兽大数据 | [魔兽大数据.har](https://github.com/wjf0214/qd-templates/blob/master/魔兽大数据.har) | Web | 登录后首页cookie<br>content：世界频道发言的内容<br><http://bj.wowdata.top/> |
