@@ -729,8 +729,8 @@
       "comments": "username:账号<br>password:密码<br>questionId对应值：<br>-1.自定义问题<br>1.我爸爸的出生地<br>2.我妈妈的出生地<br>3.我的小学校名<br>4.我的中学校名<br>5.我最喜欢的运动<br>6.我最喜欢的歌曲<br>7.我最喜欢的电影<br>8.我最喜欢的颜色<br>customquest：自定义问题<br>answer:问题答案<br>没有密保安全问题，questionId,customquest,answer不填为空。<br>http://h.shanse8.com/",
       "filename": "中国汉化论坛.har",
       "content": "",
-      "date": "2022-03-11 17:40:00",
-      "version": "20220311",
+      "date": "2022-09-02 11:00:00",
+      "version": "20220902",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/63"
     },
     "吾爱汇编": {
