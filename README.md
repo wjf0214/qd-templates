@@ -88,7 +88,7 @@
 | 189天翼云(账号密码版) | [189天翼云(账号密码版).har](https://github.com/wjf0214/qd-templates/blob/master/189天翼云(账号密码版).har) | Web | username:账号<br>password:密码<br><https://cloud.189.cn/> |
 | 绅士领域 | [绅士领域.har](https://github.com/wjf0214/qd-templates/blob/master/绅士领域.har) | App | uid:个人uid可APP抓签到包看到 |
 | 手电大家谈 | [手电大家谈.har](https://github.com/wjf0214/qd-templates/blob/master/手电大家谈.har) | Web | username:账号<br>password:密码<br><https://www.shoudian.org/> |
-| 次元狗 | [次元狗.har](https://github.com/wjf0214/qd-templates/blob/master/次元狗.har) | Web | 登录后首页cookie<br><https://www.acgndog.com/> |
+| 次元狗 | [次元狗.har](https://github.com/wjf0214/qd-templates/blob/master/次元狗.har) | Web | username:账号<br>password:密码<br><https://www.acgndog.com/> |
 | 阅次元论坛 | [阅次元论坛.har](https://github.com/wjf0214/qd-templates/blob/master/阅次元论坛.har) | Web | 登录后首页cookie<br><https://www.abooky.com/> |
 | 科技玩家 | [科技玩家.har](https://github.com/wjf0214/qd-templates/blob/master/科技玩家.har) | Web | username:账号<br>password:密码<br><https://www.kejiwanjia.com/> |
 | QooApp | [QooApp.har](https://github.com/wjf0214/qd-templates/blob/master/QooApp.har) | App | token:下载App抓包cookie,找到请求头部 x-user-token 的值 |

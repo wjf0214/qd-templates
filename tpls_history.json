@@ -558,11 +558,11 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/次元狗.har",
       "update": false,
-      "comments": "登录后首页cookie<br>https://www.acgndog.com/",
+      "comments": "username:账号<br>password:密码<br>https://www.acgndog.com/",
       "filename": "次元狗.har",
       "content": "",
-      "date": "2021-11-09 00:00:00",
-      "version":"20211109",
+      "date": "2022-09-24 15:20:00",
+      "version":"20220924",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/49"
     },
     "阅次元论坛": {
