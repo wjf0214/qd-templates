@@ -1500,6 +1500,18 @@
       "date": "2022-08-05 12:20:00",
       "version": "20220805",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/133"
+    },
+    "天使动漫-签到": {
+      "name": "天使动漫-签到",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/天使动漫-签到.har",
+      "update": false,
+      "comments": "Cookies:登录后首页cookie<br>https://www.tsdm39.net/forum.php",
+      "filename": "天使动漫-签到.har",
+      "content": "",
+      "date": "2022-09-27 00:00:00",
+      "version": "20220927",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/135"
     }
   }
 }
