@@ -1548,6 +1548,18 @@
       "date": "2022-09-27 14:40:00",
       "version": "20220927",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/137"
+    },
+    "梦璃": {
+      "name": "梦璃",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/梦璃.har",
+      "update": false,
+      "comments": "username:邮箱<br>password:密码<br>https://moeli-desu.com/",
+      "filename": "梦璃.har",
+      "content": "",
+      "date": "2022-09-27 15:00:00",
+      "version": "20220927",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/138"
     }
   }
 }
