@@ -774,11 +774,11 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/switch520.har",
       "update": false,
-      "comments": "username:账号<br>password:密码<br>https://switch520.com/",
+      "comments": "domain:域名,如【https://xxx.com】,后面不带'/'<br>username:账号<br>password:密码<br>https://xxxxx520.com/",
       "filename": "switch520.har",
       "content": "",
-      "date": "2022-03-11 17:40:00",
-      "version": "20220311",
+      "date": "2022-09-27 13:40:00",
+      "version": "20220927",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/67"
     },
     "远景论坛(账号版)": {

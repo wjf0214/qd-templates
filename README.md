@@ -106,7 +106,7 @@
 | 吾爱汇编 | [吾爱汇编.har](https://github.com/wjf0214/qd-templates/blob/master/吾爱汇编.har) | Web | 登录后首页cookie<br><https://www.52hb.com/> |
 | 吾爱汇编(FlareSolverr版本) | [吾爱汇编(FlareSolverr版本).har](https://github.com/wjf0214/qd-templates/blob/master/吾爱汇编(FlareSolverr版本).har) | Web | flaresolverrUrl：搭建 flaresolverr/flaresolverr 容器后的请求地址<br>m1bN_2132_auth：cookie里m1bN_2132_auth的值<br>m1bN_2132_saltkey：cookie里m1bN_2132_saltkey的值<br><https://www.52hb.com/> |
 | 爱玩网络 | [爱玩网络.har](https://github.com/wjf0214/qd-templates/blob/master/爱玩网络.har) | Web | username:账号<br>password:密码<br><https://wngamebox.cn/> |
-| switch520 | [switch520.har](https://github.com/wjf0214/qd-templates/blob/master/switch520.har) | Web | username:账号<br>password:密码<br><https://switch520.com> |
+| switch520 | [switch520.har](https://github.com/wjf0214/qd-templates/blob/master/switch520.har) | Web | domain:域名,如【https://xxx.com】,后面不带'/'<br>username:账号<br>password:密码<br><https://xxxxx520.com/> |
 | 远景论坛(账号版) | [远景论坛(账号版).har](https://github.com/wjf0214/qd-templates/blob/master/远景论坛(账号版).har) | Web | username:账号<br>password:密码<br><https://bbs.pcbeta.com/> |
 | 联想智选 | [联想智选.har](https://github.com/wjf0214/qd-templates/blob/master/联想智选.har) | App | username:账号<br>password:密码<br>baseinfo:APP抓包 api.club.lenovo.cn 域名下的任意请求，header里面去找。可以为空，有默认值。<br>只限最新版框架使用，20220820版本后。 |
 | 小米运动 | [小米运动.har](https://github.com/wjf0214/qd-templates/blob/master/小米运动.har) | App | username:账号<br>password:密码<br>min_step:最小步数<br>max_step:最大步数<br>步数在最大最小值之间取值，不填默认为1w到2w之间随机 |
