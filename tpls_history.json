@@ -1560,6 +1560,18 @@
       "date": "2022-09-27 15:00:00",
       "version": "20220927",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/138"
+    },
+    "柚坛社区": {
+      "name": "柚坛社区",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/柚坛社区.har",
+      "update": false,
+      "comments": "Cookies:登录后首页cookie<br>https://www.uotan.cn/",
+      "filename": "柚坛社区.har",
+      "content": "",
+      "date": "2022-10-07 15:50:00",
+      "version": "20221007",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/139"
     }
   }
 }

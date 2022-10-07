@@ -172,6 +172,7 @@
 | 爱桌游 | [爱桌游.har](https://github.com/wjf0214/qd-templates/blob/master/爱桌游.har) | Web | Cookies:登录后首页cookie<br><https://www.lovezhuoyou.com/> |
 | 华印社区 | [华印社区.har](https://github.com/wjf0214/qd-templates/blob/master/华印社区.har) | Web | Cookies:登录后首页cookie<br><https://www.52cnp.com/> |
 | 梦璃 | [梦璃.har](https://github.com/wjf0214/qd-templates/blob/master/梦璃.har) | Web | username:邮箱<br>password:密码<br><https://moeli-desu.com/> |
+| 柚坛社区 | [柚坛社区.har](https://github.com/wjf0214/qd-templates/blob/master/柚坛社区.har) | Web | Cookies:登录后首页cookie<br><https://www.uotan.cn/> |
 
 ## 项目相关
 
