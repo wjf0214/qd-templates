@@ -147,7 +147,7 @@
 | zodgame | [zodgame.har](https://github.com/wjf0214/qd-templates/blob/master/zodgame.har) | Web | Cookies:登录后首页cookie<br>ua：user-agent对应的值<br>网站开启了cf五秒盾，对ck和ua有要求，需要抓框架对应ip的ck和ua。<br><https://zodgame.xyz/> |
 | 书法江湖 | [书法江湖.har](https://github.com/wjf0214/qd-templates/blob/master/书法江湖.har) | Web | username:账号<br>password:密码<br><https://www.shufajianghu.com/> |
 | 3DMGAME论坛 | [3DMGAME论坛.har](https://github.com/wjf0214/qd-templates/blob/master/3DMGAME论坛.har) | Web | Cookies:登录后首页cookie<br>content:每日签到回帖的内容<br>taskID:任务页论坛等级对应的任务ID<br>高级玩家, 超级玩家, 游戏狂人填70<br>游戏达人, 游戏精英, 资深玩家填71<br>骨灰玩家, 游戏天王, 游戏圣者填72<br>游戏之神, 游戏终结者, 游戏vip联动部填73<br>3DM大善人填74<br><https://bbs.3dmgame.com/> |
-| 爱上ASMR | [爱上ASMR.har](https://github.com/wjf0214/qd-templates/blob/master/爱上ASMR.har) | Web | username:账号<br>password:密码<br><https://www.aisasmr.com/> |
+| 爱上ASMR | [爱上ASMR.har](https://github.com/wjf0214/qd-templates/blob/master/爱上ASMR.har) | Web | domain：网站域名【<https://www.asmras.com/>】<br>username:账号<br>password:密码<br><https://www.asmras.com/> |
 | GLaDOS | [GLaDOS.har](https://github.com/wjf0214/qd-templates/blob/master/GLaDOS.har) | Web | Cookies:登录后首页cookie<br><https://glados.rocks/> |
 | 数码之家 | [数码之家.har](https://github.com/wjf0214/qd-templates/blob/master/数码之家.har) | Web | username:账号<br>password:密码<br><https://www.mydigit.cn/> |
 | 鱼塘热榜 | [鱼塘热榜.har](https://github.com/wjf0214/qd-templates/blob/master/鱼塘热榜.har) | Web | username:邮箱<br>password:密码<br><https://mo.fish/> |

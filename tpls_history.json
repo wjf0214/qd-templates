@@ -1266,11 +1266,11 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/爱上ASMR.har",
       "update": false,
-      "comments": "username:账号<br>password:密码<br>https://www.aisasmr.com/",
+      "comments": "domain：网站域名【https://www.asmras.com/】<br>username:账号<br>password:密码<br>https://www.asmras.com/",
       "filename": "爱上ASMR.har",
       "content": "",
-      "date": "2022-03-01 00:20:00",
-      "version": "20220301",
+      "date": "2022-10-20 10:30:00",
+      "version": "20221020",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/113"
     },
     "GLaDOS": {
