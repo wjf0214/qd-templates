@@ -169,7 +169,6 @@
 | 酷家乐 | [酷家乐.har](https://github.com/wjf0214/qd-templates/blob/master/酷家乐.har) | Web | Cookies:登录后首页cookie<br><https://www.kujiale.com/> |
 | 天使动漫-签到 | [天使动漫-签到.har](https://github.com/wjf0214/qd-templates/blob/master/天使动漫-签到.har) | Web | Cookies:登录后首页cookie<br><https://www.tsdm39.net/forum.php> |
 | 天使动漫-打工 | [天使动漫-打工.har](https://github.com/wjf0214/qd-templates/blob/master/天使动漫-打工.har) | Web | Cookies:登录后首页cookie<br>打工6小时一次，cron可以设置为【0 */8 * * *】<br><https://www.tsdm39.net/forum.php> |
-| 爱桌游 | [爱桌游.har](https://github.com/wjf0214/qd-templates/blob/master/爱桌游.har) | Web | username:邮箱<br>password:密码<br><https://www.lovezhuoyou.com/> |
 | 华印社区 | [华印社区.har](https://github.com/wjf0214/qd-templates/blob/master/华印社区.har) | Web | Cookies:登录后首页cookie<br><https://www.52cnp.com/> |
 | 梦璃 | [梦璃.har](https://github.com/wjf0214/qd-templates/blob/master/梦璃.har) | Web | username:邮箱<br>password:密码<br><https://moeli-desu.com/> |
 | 柚坛社区 | [柚坛社区.har](https://github.com/wjf0214/qd-templates/blob/master/柚坛社区.har) | Web | Cookies:登录后首页cookie<br><https://www.uotan.cn/> |
