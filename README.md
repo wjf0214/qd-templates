@@ -46,6 +46,7 @@
 | element3ds | [element3ds.har](https://github.com/wjf0214/qd-templates/blob/master/element3ds.har) | Web | 登录后首页cookie<br><https://www.element3ds.com/> |
 | 人人字幕组 | [人人字幕组.har](https://github.com/wjf0214/qd-templates/blob/master/人人字幕组.har) | Web | username:账号<br>password:密码<br>DOMAIN：网站域名【<https://www.yysub.net/>】 |
 | 迅维网 | [迅维网.har](https://github.com/wjf0214/qd-templates/blob/master/迅维网.har) | Web | username:账号<br>password:密码<br><https://www.chinafix.com> |
+| 迅维网(cookie版) | [迅维网(cookie版).har](https://github.com/wjf0214/qd-templates/blob/master/迅维网(cookie版).har) | Web | 登录后首页cookie<br><https://www.chinafix.com> |
 | 科学刀论坛 | [科学刀论坛.har](https://github.com/wjf0214/qd-templates/blob/master/科学刀论坛.har) | Web | domain:为网站域名，如【<https://www.kxdao.net/>】,https和后面的'/'都要有<br>Cookie:登录后首页cookie<br><https://www.kxdao.net/> |
 | 科学刀在线时间 | [科学刀在线时间.har](https://github.com/wjf0214/qd-templates/blob/master/科学刀在线时间.har) | Web | domain:为网站域名，如【<https://www.kxdao.net/>】,https和后面的'/'都要有<br>Cookie:登录后首页cookie<br><https://www.kxdao.net/> |
 | chiphell | [chiphell.har](https://github.com/wjf0214/qd-templates/blob/master/chiphell.har) | Web | 登录后首页cookie<br><https://www.chiphell.com> |

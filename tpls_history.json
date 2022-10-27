@@ -49,6 +49,18 @@
       "version":"20220302",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/6"
     },
+    "迅维网(cookie版)": {
+      "name": "迅维网(cookie版)",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/迅维网(cookie版).har",
+      "update": false,
+      "comments": "登录后首页cookie<br>https://www.chinafix.com",
+      "filename": "迅维网(cookie版).har",
+      "content": "",
+      "date": "2022-10-27 20:45:00",
+      "version":"20221027",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/6"
+    },
     "科学刀论坛": {
       "name": "科学刀论坛",
       "author": "wjf0214",
