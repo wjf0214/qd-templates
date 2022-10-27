@@ -56,7 +56,7 @@
 | 几鸡 | [几鸡.har](https://github.com/wjf0214/qd-templates/blob/master/几鸡.har) | Web | username:账号<br>password:密码<br>domain：网站域名 |
 | 猫耳FM-每日鱼干 | [猫耳FM-每日鱼干.har](https://github.com/wjf0214/qd-templates/blob/master/猫耳FM-每日鱼干.har) | Web | 登录后首页cookie<br><https://www.missevan.com> |
 | 什么值得买7合一 | [什么值得买7合一.har](https://github.com/wjf0214/qd-templates/blob/master/什么值得买7合一.har) | Web | 登录后首页cookie<br><https://smzdm.com> |
-| 龙的天空 | [龙的天空.har](https://github.com/wjf0214/qd-templates/blob/master/龙的天空.har) | Web | 登录后首页cookie<br><https://www.lkong.com/> |
+| 龙的天空 | [龙的天空.har](https://github.com/wjf0214/qd-templates/blob/master/龙的天空.har) | Web | username:账号<br>password:密码<br><https://www.lkong.com/> |
 | 网易云游戏 | [网易云游戏.har](https://github.com/wjf0214/qd-templates/blob/master/网易云游戏.har) | Web | 登录后首页cookie<br><https://cg.163.com/> |
 | E次元 | [E次元.har](https://github.com/wjf0214/qd-templates/blob/master/E次元.har) | Web | domain:为网站域名，如【<https://www.acge.me/>】,https和后面的'/'都要有<br/>homeaction和cks 打开首页即可获取 <https://www.acge.me/wp-admin/admin-ajax.php?action=><br><https://www.acge.me/> |
 | 致美化 | [致美化.har](https://github.com/wjf0214/qd-templates/blob/master/致美化.har) | Web | user:账号<br>pass:密码<br><https://zhutix.com> |
