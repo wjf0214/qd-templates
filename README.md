@@ -75,7 +75,7 @@
 | 精易论坛 | [精易论坛.har](https://github.com/wjf0214/qd-templates/blob/master/精易论坛.har) | Web | 登录后首页cookie<br><https://bbs.125.la/> |
 | 晋江小说 | [晋江小说.har](https://github.com/wjf0214/qd-templates/blob/master/晋江小说.har) | Web | 登录后首页cookie<br><https://m.jjwxc.net/> |
 | 看雪安全论坛 | [看雪安全论坛.har](https://github.com/wjf0214/qd-templates/blob/master/看雪安全论坛.har) | Web | 登录后首页cookie<br><https://bbs.pediy.com/> |
-| 粤梦缘 | [粤梦缘.har](https://github.com/wjf0214/qd-templates/blob/master/粤梦缘.har) | Web | username:账号<br>password:密码<br><https://www.dranime.net/> |
+| 粤梦缘 | [粤梦缘.har](https://github.com/wjf0214/qd-templates/blob/master/粤梦缘.har) | Web | username:邮箱<br>password:密码<br><https://www.dranime.net/> |
 | 人人素材 | [人人素材.har](https://github.com/wjf0214/qd-templates/blob/master/人人素材.har) | Web | username:账号,手机号<br>password:密码<br><https://www.rrcg.cn/> |
 | 幕后Muhou | [幕后Muhou.har](https://github.com/wjf0214/qd-templates/blob/master/幕后Muhou.har) | Web | username:账号<br>password:密码<br><https://muhou.net/> |
 | 飞客茶馆 | [飞客茶馆.har](https://github.com/wjf0214/qd-templates/blob/master/飞客茶馆.har) | Web | username:账号,手机号<br>password:密码<br><https://www.flyert.com/><br>由于网站登录授权特殊,授权次数不固定。请求暂定3次，超过3次。可能登录不成功。多试几次便可 |
