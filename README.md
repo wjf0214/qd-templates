@@ -51,7 +51,7 @@
 | 科学刀在线时间 | [科学刀在线时间.har](https://github.com/wjf0214/qd-templates/blob/master/科学刀在线时间.har) | Web | domain:为网站域名，如【<https://www.kxdao.net/>】,https和后面的'/'都要有<br>Cookie:登录后首页cookie<br><https://www.kxdao.net/> |
 | chiphell | [chiphell.har](https://github.com/wjf0214/qd-templates/blob/master/chiphell.har) | Web | 登录后首页cookie<br><https://www.chiphell.com> |
 | 卡饭(Cookie版) | [卡饭(Cookie版).har](https://github.com/wjf0214/qd-templates/blob/master/卡饭(Cookie版).har) | Web | 登录后首页cookie<br><https://bbs.kafan.cn/> |
-| 魅族社区 | [魅族社区.har](https://github.com/wjf0214/qd-templates/blob/master/魅族社区.har) | Web | 登录后首页cookie<br><https://bbs.meizu.cn/> |
+| 魅族社区 | [魅族社区.har](https://github.com/wjf0214/qd-templates/blob/master/魅族社区.har) | App | 手机抓包APP登录后的cookie<br><https://bbs.meizu.cn/> |
 | 杉果 | [杉果.har](https://github.com/wjf0214/qd-templates/blob/master/杉果.har) | Web | username:账号<br>password:密码<br><https://sonkwo.com/> |
 | hao4k | [hao4k.har](https://github.com/wjf0214/qd-templates/blob/master/hao4k.har) | Web | 登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br><https://www.hao4k.cn/> |
 | 几鸡 | [几鸡.har](https://github.com/wjf0214/qd-templates/blob/master/几鸡.har) | Web | username:账号<br>password:密码<br>domain：网站域名 |
