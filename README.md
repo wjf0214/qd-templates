@@ -174,6 +174,7 @@
 | 梦璃 | [梦璃.har](https://github.com/wjf0214/qd-templates/blob/master/梦璃.har) | Web | username:邮箱<br>password:密码<br><https://moeli-desu.com/> |
 | 柚坛社区 | [柚坛社区.har](https://github.com/wjf0214/qd-templates/blob/master/柚坛社区.har) | Web | Cookies:登录后首页cookie<br><https://www.uotan.cn/> |
 | 青模网 | [青模网.har](https://github.com/wjf0214/qd-templates/blob/master/青模网.har) | Web | Cookies:登录后首页cookie<br><https://www.qingmo.com/> |
+| 瀚思彼岸 | [瀚思彼岸.har](https://github.com/wjf0214/qd-templates/blob/master/瀚思彼岸.har) | Web | Cookies:登录后首页cookie<br><https://bbs.hassbian.com/> |
 
 ## 项目相关
 
