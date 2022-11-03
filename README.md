@@ -96,6 +96,7 @@
 | KDays论坛 | [KDays论坛.har](https://github.com/wjf0214/qd-templates/blob/master/KDays论坛.har) | Web | username:账号<br>password:密码<br><https://uc.kdays.net/> |
 | HiFiNi | [HiFiNi.har](https://github.com/wjf0214/qd-templates/blob/master/HiFiNi.har) | Web | 登录后首页cookie<br><https://www.hifini.com/> |
 | 一加社区 | [一加社区.har](https://github.com/wjf0214/qd-templates/blob/master/一加社区.har) | Web | 登录后首页cookie<br><https://www.oneplusbbs.com/> |
+| 一加社区抽奖 | [一加社区抽奖.har](https://github.com/wjf0214/qd-templates/blob/master/一加社区抽奖.har) | Web | n:当天抽奖次数，一天最多10次。抽奖一次消耗10加油,根据自身情况填写。<br>Cookies:登录后首页cookie<br><https://www.oneplusbbs.com/> |
 | 吾爱破解 | [吾爱破解.har](https://github.com/wjf0214/qd-templates/blob/master/吾爱破解.har) | Web | 登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br><https://www.52pojie.cn/> |
 | MZFastCloud | [MZFastCloud.har](https://github.com/wjf0214/qd-templates/blob/master/MZFastCloud.har) | Web | username:账号<br>password:密码<br><https://www.mzfast.xyz/> |
 | Fa米家 | [Fa米家.har](https://github.com/wjf0214/qd-templates/blob/master/Fa米家.har) | App | 抓包 APP 的请求中的 headers 信息,提取 token、deviceId、blackBox 即可,fmVersion,os,User-Agent等参数可以根据自身情况自行更改模板。<br>应用单点登录限制，换设备登录后，之前登录状态参数失效 |
@@ -152,7 +153,6 @@
 | GLaDOS | [GLaDOS.har](https://github.com/wjf0214/qd-templates/blob/master/GLaDOS.har) | Web | Cookies:登录后首页cookie<br><https://glados.rocks/> |
 | 数码之家 | [数码之家.har](https://github.com/wjf0214/qd-templates/blob/master/数码之家.har) | Web | username:账号<br>password:密码<br><https://www.mydigit.cn/> |
 | 鱼塘热榜 | [鱼塘热榜.har](https://github.com/wjf0214/qd-templates/blob/master/鱼塘热榜.har) | Web | username:邮箱<br>password:密码<br><https://mo.fish/> |
-| 一加社区抽奖 | [一加社区抽奖.har](https://github.com/wjf0214/qd-templates/blob/master/一加社区抽奖.har) | Web | n:当天抽奖次数，一天最多10次。抽奖一次消耗10加油,根据自身情况填写。<br>Cookies:登录后首页cookie<br><https://www.oneplusbbs.com/> |
 | Pico社区 | [Pico社区.har](https://github.com/wjf0214/qd-templates/blob/master/Pico社区.har) | Web | Cookies:登录后首页cookie<br><https://bbs.picovr.com/> |
 | 苹果团 | [苹果团.har](https://github.com/wjf0214/qd-templates/blob/master/苹果团.har) | Web | Cookies:登录后首页cookie<br><https://appletuan.com/> |
 | 游戏大桶 | [游戏大桶.har](https://github.com/wjf0214/qd-templates/blob/master/游戏大桶.har) | Web | username:邮箱<br>password:密码<br><https://gamekegs.com/> |
@@ -173,6 +173,7 @@
 | 华印社区 | [华印社区.har](https://github.com/wjf0214/qd-templates/blob/master/华印社区.har) | Web | Cookies:登录后首页cookie<br><https://www.52cnp.com/> |
 | 梦璃 | [梦璃.har](https://github.com/wjf0214/qd-templates/blob/master/梦璃.har) | Web | username:邮箱<br>password:密码<br><https://moeli-desu.com/> |
 | 柚坛社区 | [柚坛社区.har](https://github.com/wjf0214/qd-templates/blob/master/柚坛社区.har) | Web | Cookies:登录后首页cookie<br><https://www.uotan.cn/> |
+| 青模网 | [青模网.har](https://github.com/wjf0214/qd-templates/blob/master/青模网.har) | Web | Cookies:登录后首页cookie<br><https://www.qingmo.com/> |
 
 ## 项目相关
 
