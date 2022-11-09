@@ -1608,6 +1608,18 @@
       "date": "2022-11-08 10:25:00",
       "version": "20221108",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/142"
+    },
+    "网盘分享吧": {
+      "name": "网盘分享吧",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/网盘分享吧.har",
+      "update": false,
+      "comments": "Cookies:登录后首页cookie<br>https://www.99wody.com/",
+      "filename": "网盘分享吧.har",
+      "content": "",
+      "date": "2022-11-09 13:30:00",
+      "version": "20221109",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/143"
     }
   }
 }
