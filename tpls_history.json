@@ -1620,6 +1620,18 @@
       "date": "2022-11-09 13:30:00",
       "version": "20221109",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/143"
+    },
+    "1OVE论坛": {
+      "name": "1OVE论坛",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/1OVE论坛.har",
+      "update": false,
+      "comments": "Cookies:登录后首页cookie<br>https://bbs.1ove.club/",
+      "filename": "1OVE论坛.har",
+      "content": "",
+      "date": "2022-11-15 23:00:00",
+      "version": "20221115",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/144"
     }
   }
 }
