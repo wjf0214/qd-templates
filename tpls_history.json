@@ -114,7 +114,7 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/魅族社区.har",
       "update": false,
-      "comments": "手机抓包APP登录后的cookie<br>https://bbs.meizu.cn/",
+      "comments": "app_version_name:Header里ANDROID-APP-VERSION_NAME对应的值<br>app_version_code：Header里ANDROID-APP-VERSION-CODE对应的值<br>Cookie:手机抓包APP登录后的cookie<br>https://bbs.meizu.cn/",
       "filename": "魅族社区.har",
       "content": "",
       "date": "2022-11-03 11:20:00",
