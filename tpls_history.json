@@ -930,11 +930,11 @@
       "author": "wjf0214",
       "url": "https://github.com/wjf0214/qd-templates/blob/master/98堂.har",
       "update": false,
-      "comments": "username:账号<br>password:密码<br>https://wetytrytuyu.net/",
+      "comments": "domain:域名,如【https://xxx.com/】,后面带'/'<br>username:账号<br>password:密码",
       "filename": "98堂.har",
       "content": "",
-      "date": "2021-12-31 15:00:00",
-      "version": "20211231",
+      "date": "2022-11-18 23:00:00",
+      "version": "20221118",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/78"
     },
     "学犀牛中文网": {
