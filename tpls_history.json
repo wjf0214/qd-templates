@@ -1,10 +1,10 @@
 {
-  "version":"20210916",
+  "version":"20221121",
   "har": {
     "不移之火": {
       "name": "不移之火",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/不移之火.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/不移之火.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://www.byzhihuo.com/",
       "filename": "不移之火.har",
@@ -16,7 +16,7 @@
     "element3ds": {
       "name": "element3ds",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/element3ds.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/element3ds.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://www.element3ds.com/",
       "filename": "element3ds.har",
@@ -28,7 +28,7 @@
     "人人字幕组": {
       "name": "人人字幕组",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/人人字幕组.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/人人字幕组.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>DOMAIN：网站域名【https://www.yysub.net/】",
       "filename": "人人字幕组.har",
@@ -40,7 +40,7 @@
     "迅维网": {
       "name": "迅维网",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/迅维网.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/迅维网.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.chinafix.com",
       "filename": "迅维网.har",
@@ -52,7 +52,7 @@
     "迅维网(cookie版)": {
       "name": "迅维网(cookie版)",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/迅维网(cookie版).har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/迅维网(cookie版).har",
       "update": false,
       "comments": "登录后首页cookie<br>https://www.chinafix.com",
       "filename": "迅维网(cookie版).har",
@@ -64,7 +64,7 @@
     "科学刀论坛": {
       "name": "科学刀论坛",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/科学刀论坛.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/科学刀论坛.har",
       "update": false,
       "comments": "domain:为网站域名，如【https://www.kxdao.net/】,https和后面的'/'都要有<br>Cookie:登录后首页cookie<br>https://www.kxdao.net/",
       "filename": "科学刀论坛.har",
@@ -76,7 +76,7 @@
     "科学刀在线时间": {
       "name": "科学刀在线时间",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/科学刀在线时间.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/科学刀在线时间.har",
       "update": false,
       "comments": "domain:为网站域名，如【https://www.kxdao.net/】,https和后面的'/'都要有<br>Cookie:登录后首页cookie<br>https://www.kxdao.net/",
       "filename": "科学刀在线时间.har",
@@ -88,7 +88,7 @@
     "chiphell": {
       "name": "chiphell",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/chiphell.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/chiphell.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://www.chiphell.com",
       "filename": "chiphell.har",
@@ -100,7 +100,7 @@
     "卡饭(Cookie版)": {
       "name": "卡饭(Cookie版)",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/卡饭(Cookie版).har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/卡饭(Cookie版).har",
       "update": false,
       "comments": "登录后首页cookie<br>https://bbs.kafan.cn/",
       "filename": "卡饭(Cookie版).har",
@@ -112,7 +112,7 @@
     "魅族社区": {
       "name": "魅族社区",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/魅族社区.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/魅族社区.har",
       "update": false,
       "comments": "app_version_name:Header里ANDROID-APP-VERSION_NAME对应的值<br>app_version_code：Header里ANDROID-APP-VERSION-CODE对应的值<br>Cookie:手机抓包APP登录后的cookie<br>https://bbs.meizu.cn/",
       "filename": "魅族社区.har",
@@ -124,7 +124,7 @@
     "杉果": {
       "name": "杉果",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/杉果.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/杉果.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://sonkwo.com/",
       "filename": "杉果.har",
@@ -136,7 +136,7 @@
     "hao4k": {
       "name": "hao4k",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/hao4k.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/hao4k.har",
       "update": false,
       "comments": "登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br>https://www.hao4k.cn/",
       "filename": "hao4k.har",
@@ -148,7 +148,7 @@
     "几鸡": {
       "name": "几鸡",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/几鸡.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/几鸡.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>domain：网站域名",
       "filename": "几鸡.har",
@@ -160,7 +160,7 @@
     "猫耳FM-每日鱼干": {
       "name": "猫耳FM-每日鱼干",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/猫耳FM-每日鱼干.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/猫耳FM-每日鱼干.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://www.missevan.com",
       "filename": "猫耳FM-每日鱼干.har",
@@ -172,7 +172,7 @@
     "什么值得买7合一": {
       "name": "什么值得买7合一",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/什么值得买7合一.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/什么值得买7合一.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://smzdm.com",
       "filename": "什么值得买7合一.har",
@@ -184,7 +184,7 @@
     "龙的天空": {
       "name": "龙的天空",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/龙的天空.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/龙的天空.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.lkong.com/",
       "filename": "龙的天空.har",
@@ -196,7 +196,7 @@
     "网易云游戏": {
       "name": "网易云游戏",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/网易云游戏.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/网易云游戏.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://cg.163.com/",
       "filename": "网易云游戏.har",
@@ -208,7 +208,7 @@
     "E次元": {
       "name": "E次元",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/E次元.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/E次元.har",
       "update": false,
       "comments": "domain:为网站域名，如【https://www.acge.me/】,https和后面的'/'都要有<br/>homeaction和cks 打开首页即可获取 https://www.acge.me/wp-admin/admin-ajax.php?action=<br>https://www.acge.me/",
       "filename": "E次元.har",
@@ -220,7 +220,7 @@
     "致美化": {
       "name": "致美化",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/致美化.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/致美化.har",
       "update": false,
       "comments": "user:账号<br>pass:密码<br>https://zhutix.com",
       "filename": "致美化.har",
@@ -232,7 +232,7 @@
     "时光相册": {
       "name": "时光相册",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/时光相册.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/时光相册.har",
       "update": false,
       "comments": "phone:账号<br>password:密码<br>手机号密码 请抓登陆包查看 手机号里包括区号 86啥的 密码为加密后的密码<br>https://www.everphoto.cn/",
       "filename": "时光相册.har",
@@ -244,7 +244,7 @@
     "书香门第": {
       "name": "书香门第",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/书香门第.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/书香门第.har",
       "update": false,
       "comments": "account:账号<br>password:密码<br>登陆账号密码(只支持字母+数字组合账号)<br>http://www.txtnovel.top",
       "filename": "书香门第.har",
@@ -256,7 +256,7 @@
     "漫画补档(账号密码版)": {
       "name": "漫画补档(账号密码版)",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/漫画补档(账号密码版).har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/漫画补档(账号密码版).har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.manhuabudang.com",
       "filename": "漫画补档(账号密码版).har",
@@ -268,7 +268,7 @@
     "bigfun": {
       "name": "bigfun",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/bigfun.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/bigfun.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://www.bigfun.cn",
       "filename": "bigfun.har",
@@ -280,7 +280,7 @@
     "hostloc主机论坛": {
       "name": "hostloc主机论坛",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/hostloc主机论坛.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/hostloc主机论坛.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://hostloc.com",
       "filename": "hostloc主机论坛.har",
@@ -292,7 +292,7 @@
     "south-plus": {
       "name": "south-plus",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/south-plus.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/south-plus.har",
       "update": false,
       "comments": "登录后首页cookie和UA<br>domain:为网站域名，如【https://www.south-plus.net/】,https和后面的'/'都要有<br>https://www.south-plus.net",
       "filename": "south-plus.har",
@@ -304,7 +304,7 @@
     "VCB-Studio分享论坛": {
       "name": "VCB-Studio分享论坛",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/VCB-Studio分享论坛.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/VCB-Studio分享论坛.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://bbs.acgrip.com",
       "filename": "VCB-Studio分享论坛.har",
@@ -316,7 +316,7 @@
     "一酷C4D": {
       "name": "一酷C4D",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/一酷C4D.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/一酷C4D.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://c4dco.com",
       "filename": "一酷C4D.har",
@@ -328,7 +328,7 @@
     "SolidWorks机械工程师网": {
       "name": "SolidWorks机械工程师网",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/SolidWorks机械工程师网.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/SolidWorks机械工程师网.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.swbbsc.com/",
       "filename": "SolidWorks机械工程师网.har",
@@ -340,7 +340,7 @@
     "HDarea高清视界": {
       "name": "HDarea高清视界",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/HDarea高清视界.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/HDarea高清视界.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://www.hdarea.co/",
       "filename": "HDarea高清视界.har",
@@ -352,7 +352,7 @@
     "经管之家": {
       "name": "经管之家",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/经管之家.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/经管之家.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://bbs.pinggu.org/",
       "filename": "经管之家.har",
@@ -364,7 +364,7 @@
     "香网小说": {
       "name": "香网小说",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/香网小说.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/香网小说.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://m.xiang5.com/",
       "filename": "香网小说.har",
@@ -376,7 +376,7 @@
     "精易论坛": {
       "name": "精易论坛",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/精易论坛.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/精易论坛.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://bbs.125.la/",
       "filename": "精易论坛.har",
@@ -388,7 +388,7 @@
     "晋江小说": {
       "name": "晋江小说",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/晋江小说.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/晋江小说.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://m.jjwxc.net/",
       "filename": "晋江小说.har",
@@ -400,7 +400,7 @@
     "看雪安全论坛": {
       "name": "看雪安全论坛",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/看雪安全论坛.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/看雪安全论坛.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://bbs.pediy.com/",
       "filename": "看雪安全论坛.har",
@@ -412,7 +412,7 @@
     "粤梦缘": {
       "name": "粤梦缘",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/粤梦缘.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/粤梦缘.har",
       "update": false,
       "comments": "username:邮箱<br>password:密码<br>https://www.dranime.net/",
       "filename": "粤梦缘.har",
@@ -424,7 +424,7 @@
     "人人素材": {
       "name": "人人素材",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/人人素材.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/人人素材.har",
       "update": false,
       "comments": "username:账号,手机号<br>password:密码<br>https://www.rrcg.cn/",
       "filename": "人人素材.har",
@@ -436,7 +436,7 @@
     "幕后Muhou": {
       "name": "幕后Muhou",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/幕后Muhou.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/幕后Muhou.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://muhou.net/",
       "filename": "幕后Muhou.har",
@@ -448,7 +448,7 @@
     "飞客茶馆": {
       "name": "飞客茶馆",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/飞客茶馆.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/飞客茶馆.har",
       "update": false,
       "comments": "username:账号,手机号<br>password:密码<br>https://www.flyert.com/<br>由于网站登录授权特殊,授权次数不固定。请求暂定3次，超过3次。可能登录不成功。多试几次便可",
       "filename": "飞客茶馆.har",
@@ -460,7 +460,7 @@
     "萌幻之乡": {
       "name": "萌幻之乡",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/萌幻之乡.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/萌幻之乡.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.hmoe11.net/",
       "filename": "萌幻之乡.har",
@@ -472,7 +472,7 @@
     "v2ex": {
       "name": "v2ex",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/v2ex.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/v2ex.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://www.v2ex.com/",
       "filename": "v2ex.har",
@@ -484,7 +484,7 @@
     "好家伙机场": {
       "name": "好家伙机场",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/好家伙机场.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/好家伙机场.har",
       "update": false,
       "comments": "email:邮箱<br>passwd:密码<br>https://haojiahuo.live/",
       "filename": "好家伙机场.har",
@@ -496,7 +496,7 @@
     "后期菌资源村": {
       "name": "后期菌资源村",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/后期菌资源村.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/后期菌资源村.har",
       "update": false,
       "comments": "username:手机号<br>password:密码<br>http://www.houqijun.vip/",
       "filename": "后期菌资源村.har",
@@ -508,7 +508,7 @@
     "中国原创音乐基地5SING": {
       "name": "中国原创音乐基地5SING",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/中国原创音乐基地5SING.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/中国原创音乐基地5SING.har",
       "update": false,
       "comments": "登录后首页cookie,ck有效期一周<br>http://5sing.kugou.com/",
       "filename": "中国原创音乐基地5SING.har",
@@ -520,7 +520,7 @@
     "91tvg主机玩家的营地": {
       "name": "91tvg主机玩家的营地",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/91tvg主机玩家的营地.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/91tvg主机玩家的营地.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://www.91tvg.com/",
       "filename": "91tvg主机玩家的营地.har",
@@ -532,7 +532,7 @@
     "189天翼云(账号密码版)": {
       "name": "189天翼云(账号密码版)",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/189天翼云(账号密码版).har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/189天翼云(账号密码版).har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://cloud.189.cn/",
       "filename": "189天翼云(账号密码版).har",
@@ -544,7 +544,7 @@
     "绅士领域": {
       "name": "绅士领域",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/绅士领域.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/绅士领域.har",
       "update": false,
       "comments": "uid:个人uid可APP抓签到包看到",
       "filename": "绅士领域.har",
@@ -556,7 +556,7 @@
     "手电大家谈": {
       "name": "手电大家谈",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/手电大家谈.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/手电大家谈.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.shoudian.org/",
       "filename": "手电大家谈.har",
@@ -568,7 +568,7 @@
     "次元狗": {
       "name": "次元狗",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/次元狗.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/次元狗.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.acgndog.com/",
       "filename": "次元狗.har",
@@ -580,7 +580,7 @@
     "阅次元论坛": {
       "name": "阅次元论坛",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/阅次元论坛.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/阅次元论坛.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://www.abooky.com/",
       "filename": "阅次元论坛.har",
@@ -592,7 +592,7 @@
     "科技玩家": {
       "name": "科技玩家",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/科技玩家.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/科技玩家.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.kejiwanjia.com/",
       "filename": "科技玩家.har",
@@ -604,7 +604,7 @@
     "QooApp": {
       "name": "科技玩家",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/QooApp.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/QooApp.har",
       "update": false,
       "comments": "token:下载App抓包cookie,找到请求头部 x-user-token 的值",
       "filename": "QooApp.har",
@@ -616,7 +616,7 @@
     "KDays论坛": {
       "name": "KDays论坛",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/KDays论坛.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/KDays论坛.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://uc.kdays.net/",
       "filename": "KDays论坛.har",
@@ -628,7 +628,7 @@
     "HiFiNi": {
       "name": "HiFiNi",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/HiFiNi.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/HiFiNi.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://www.hifini.com/",
       "filename": "HiFiNi.har",
@@ -640,7 +640,7 @@
     "一加社区": {
       "name": "一加社区",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/一加社区.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/一加社区.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://www.oneplusbbs.com/",
       "filename": "一加社区.har",
@@ -652,7 +652,7 @@
     "一加社区抽奖": {
       "name": "一加社区抽奖",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/一加社区抽奖.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/一加社区抽奖.har",
       "update": false,
       "comments": "n:当天抽奖次数，一天最多10次。抽奖一次消耗10加油,根据自身情况填写。<br>Cookies:登录后首页cookie<br>https://www.oneplusbbs.com/",
       "filename": "一加社区抽奖.har",
@@ -664,7 +664,7 @@
     "吾爱破解": {
       "name": "吾爱破解",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/吾爱破解.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/吾爱破解.har",
       "update": false,
       "comments": "登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br>https://www.52pojie.cn/",
       "filename": "吾爱破解.har",
@@ -676,7 +676,7 @@
     "MZFastCloud": {
       "name": "MZFastCloud",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/MZFastCloud.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/MZFastCloud.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.mzfast.xyz/",
       "filename": "MZFastCloud.har",
@@ -688,7 +688,7 @@
     "Fa米家": {
       "name": "Fa米家",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/Fa米家.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/Fa米家.har",
       "update": false,
       "comments": "抓包 APP 的请求中的 headers 信息,提取 token、deviceId、blackBox 即可,fmVersion,os,User-Agent等参数可以根据自身情况自行更改模板。<br>应用单点登录限制，换设备登录后，之前登录状态参数失效",
       "filename": "Fa米家.har",
@@ -700,7 +700,7 @@
     "王者营地": {
       "name": "王者营地",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/王者营地.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/王者营地.har",
       "update": false,
       "comments": "仅限QQ登录<br>抓包 APP 中 ssl.kohsocialapp.qq.com/user/login 请求内容的“accessToken”和“openId”<br>抓包 APP 中 kohcamp.qq.com/operation/action/signin 请求内容的“sig”、“timestamp”、“msdkEncodeParam”和“msdkToken”<br>t：抓包的timestamp参数<br>APP自行商店下载",
       "filename": "王者营地.har",
@@ -712,7 +712,7 @@
     "ZNDS智能电视网": {
       "name": "ZNDS智能电视网",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/ZNDS智能电视网.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/ZNDS智能电视网.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.znds.com/",
       "filename": "ZNDS智能电视网.har",
@@ -724,7 +724,7 @@
     "花火学园": {
       "name": "花火学园",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/花火学园.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/花火学园.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.sayhuahuo.com/",
       "filename": "花火学园.har",
@@ -736,7 +736,7 @@
     "轻之文库": {
       "name": "轻之文库",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/轻之文库.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/轻之文库.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.linovel.net/",
       "filename": "轻之文库.har",
@@ -748,7 +748,7 @@
     "中国汉化论坛": {
       "name": "中国汉化论坛",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/中国汉化论坛.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/中国汉化论坛.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>questionId对应值：<br>-1.自定义问题<br>1.我爸爸的出生地<br>2.我妈妈的出生地<br>3.我的小学校名<br>4.我的中学校名<br>5.我最喜欢的运动<br>6.我最喜欢的歌曲<br>7.我最喜欢的电影<br>8.我最喜欢的颜色<br>customquest：自定义问题<br>answer:问题答案<br>没有密保安全问题，questionId,customquest,answer不填为空。<br>http://h.shanse8.com/",
       "filename": "中国汉化论坛.har",
@@ -760,7 +760,7 @@
     "吾爱汇编": {
       "name": "吾爱汇编",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/吾爱汇编.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/吾爱汇编.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://www.52hb.com/",
       "filename": "吾爱汇编.har",
@@ -772,7 +772,7 @@
     "吾爱汇编(FlareSolverr版本)": {
       "name": "吾爱汇编(FlareSolverr版本)",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/吾爱汇编(FlareSolverr版本).har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/吾爱汇编(FlareSolverr版本).har",
       "update": false,
       "comments": "flaresolverrUrl：搭建 flaresolverr/flaresolverr 容器后的请求地址<br>m1bN_2132_auth：cookie里m1bN_2132_auth的值<br>m1bN_2132_saltkey：cookie里m1bN_2132_saltkey的值<br>https://www.52hb.com/",
       "filename": "吾爱汇编(FlareSolverr版本).har",
@@ -784,7 +784,7 @@
     "爱玩网络": {
       "name": "爱玩网络",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/爱玩网络.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/爱玩网络.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://wngamebox.cn/",
       "filename": "爱玩网络.har",
@@ -796,7 +796,7 @@
     "switch520": {
       "name": "switch520",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/switch520.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/switch520.har",
       "update": false,
       "comments": "domain:域名,如【https://xxx.com】,后面不带'/'<br>username:账号<br>password:密码<br>https://xxxxx520.com/",
       "filename": "switch520.har",
@@ -808,7 +808,7 @@
     "远景论坛(账号版)": {
       "name": "远景论坛(账号版)",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/远景论坛(账号版).har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/远景论坛(账号版).har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://bbs.pcbeta.com/",
       "filename": "远景论坛(账号版).har",
@@ -820,7 +820,7 @@
     "联想智选": {
       "name": "联想智选",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/联想智选.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/联想智选.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>baseinfo:APP抓包 api.club.lenovo.cn 域名下的任意请求，header里面去找。可以为空，有默认值。<br>只限最新版框架使用，20220820版本后。",
       "filename": "联想智选.har",
@@ -832,7 +832,7 @@
     "小米运动": {
       "name": "小米运动",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/小米运动.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/小米运动.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>min_step:最小步数<br>max_step:最大步数<br>步数在最大最小值之间取值，不填默认为1w到2w之间随机",
       "filename": "小米运动.har",
@@ -844,7 +844,7 @@
     "阡陌居": {
       "name": "阡陌居",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/阡陌居.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/阡陌居.har",
       "update": false,
       "comments": "登录后首页cookie<br>http://www.1000qm.vip/",
       "filename": "阡陌居.har",
@@ -856,7 +856,7 @@
     "魔兽大数据": {
       "name": "魔兽大数据",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/魔兽大数据.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/魔兽大数据.har",
       "update": false,
       "comments": "登录后首页cookie<br>content：世界频道发言的内容<br>http://bj.wowdata.top/",
       "filename": "魔兽大数据.har",
@@ -868,7 +868,7 @@
     "万由论坛": {
       "name": "万由论坛",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/万由论坛.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/万由论坛.har",
       "update": false,
       "comments": "username:手机号<br>password:密码<br>https://www.u-share.cn/forum.php",
       "filename": "万由论坛.har",
@@ -880,7 +880,7 @@
     "龙de船人": {
       "name": "龙de船人",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/龙de船人.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/龙de船人.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://www.imarine.cn/",
       "filename": "龙de船人.har",
@@ -892,7 +892,7 @@
     "新赚吧": {
       "name": "新赚吧",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/新赚吧.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/新赚吧.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://v1.xianbao.net/",
       "filename": "新赚吧.har",
@@ -904,7 +904,7 @@
     "SSPANEL机场通用签到": {
       "name": "SSPANEL机场通用签到",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/SSPANEL机场通用签到.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/SSPANEL机场通用签到.har",
       "update": false,
       "comments": "domain:域名,如【https://xxx.com】,后面不带'/'<br>username:账号<br>password:密码",
       "filename": "SSPANEL机场通用签到.har",
@@ -916,7 +916,7 @@
     "萌盘总动员": {
       "name": "萌盘总动员",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/萌盘总动员.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/萌盘总动员.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>http://bdarea.net/",
       "filename": "萌盘总动员.har",
@@ -928,7 +928,7 @@
     "98堂": {
       "name": "98堂",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/98堂.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/98堂.har",
       "update": false,
       "comments": "domain:域名,如【https://xxx.com/】,后面带'/'<br>username:账号<br>password:密码",
       "filename": "98堂.har",
@@ -940,7 +940,7 @@
     "学犀牛中文网": {
       "name": "学犀牛中文网",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/学犀牛中文网.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/学犀牛中文网.har",
       "update": false,
       "comments": "登录后首页cookie，不要右键复制值，请选中后复制<br>https://www.xuexiniu.com/",
       "filename": "学犀牛中文网.har",
@@ -952,7 +952,7 @@
     "大碗岛漫画": {
       "name": "大碗岛漫画",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/大碗岛漫画.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/大碗岛漫画.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>http://www.dawandao.com/",
       "filename": "大碗岛漫画.har",
@@ -964,7 +964,7 @@
     "捌零发烧音乐网": {
       "name": "捌零发烧音乐网",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/捌零发烧音乐网.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/捌零发烧音乐网.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://hifi.juyincar.com/",
       "filename": "捌零发烧音乐网.har",
@@ -976,7 +976,7 @@
     "武聆音雄配乐网": {
       "name": "武聆音雄配乐网",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/武聆音雄配乐网.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/武聆音雄配乐网.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>message:签到回复帖子的语句，默认为'每日签到~'<br>https://www.wlyxmusic.net/",
       "filename": "武聆音雄配乐网.har",
@@ -988,7 +988,7 @@
     "56brand我来网": {
       "name": "56brand我来网",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/56brand我来网.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/56brand我来网.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>http://www.56brand.net/",
       "filename": "56brand我来网.har",
@@ -1000,7 +1000,7 @@
     "野火论坛": {
       "name": "野火论坛",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/野火论坛.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/野火论坛.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>http://www.proewildfire.cn/",
       "filename": "野火论坛.har",
@@ -1012,7 +1012,7 @@
     "3D溜溜网": {
       "name": "3D溜溜网",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/3D溜溜网.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/3D溜溜网.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://user.3d66.com/",
       "filename": "3D溜溜网.har",
@@ -1024,7 +1024,7 @@
     "宽带技术网": {
       "name": "宽带技术网",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/宽带技术网.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/宽带技术网.har",
       "update": false,
       "comments": "登录后首页cookie<br>http://www.chinadsl.net/",
       "filename": "宽带技术网.har",
@@ -1036,7 +1036,7 @@
     "摩登犀牛": {
       "name": "摩登犀牛",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/摩登犀牛.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/摩登犀牛.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>http://bbs.rhino3d.us/",
       "filename": "摩登犀牛.har",
@@ -1048,7 +1048,7 @@
     "河洛网": {
       "name": "河洛网",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/河洛网.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/河洛网.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.horou.com/",
       "filename": "河洛网.har",
@@ -1060,7 +1060,7 @@
     "小云社区": {
       "name": "小云社区",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/小云社区.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/小云社区.har",
       "update": false,
       "comments": "domain:域名<br>username:账号<br>password:密码<br>https://www.moke08.com/",
       "filename": "小云社区.har",
@@ -1072,7 +1072,7 @@
     "我爱迅雷": {
       "name": "我爱迅雷",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/我爱迅雷.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/我爱迅雷.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.96yuedu.com/",
       "filename": "我爱迅雷.har",
@@ -1084,7 +1084,7 @@
     "geekhub": {
       "name": "geekhub",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/geekhub.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/geekhub.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.geekhub.com/",
       "filename": "geekhub.har",
@@ -1096,7 +1096,7 @@
     "52asus": {
       "name": "52asus",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/52asus.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/52asus.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.52asus.com/",
       "filename": "52asus.har",
@@ -1108,7 +1108,7 @@
     "eatASMR": {
       "name": "eatASMR",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/eatASMR.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/eatASMR.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://eatasmr.com/",
       "filename": "eatASMR.har",
@@ -1120,7 +1120,7 @@
     "腾龙工作室": {
       "name": "腾龙工作室",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/腾龙工作室.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/腾龙工作室.har",
       "update": false,
       "comments": "username:邮箱<br>password:密码<br>https://www.tenlonstudio.com/",
       "filename": "腾龙工作室.har",
@@ -1132,7 +1132,7 @@
     "keyshot产品渲染俱乐部": {
       "name": "keyshot产品渲染俱乐部",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/keyshot产品渲染俱乐部.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/keyshot产品渲染俱乐部.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://keyshot.pro/",
       "filename": "keyshot产品渲染俱乐部.har",
@@ -1144,7 +1144,7 @@
     "蓝光演唱会": {
       "name": "蓝光演唱会",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/蓝光演唱会.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/蓝光演唱会.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.lgych.com/",
       "filename": "蓝光演唱会.har",
@@ -1156,7 +1156,7 @@
     "原盘天堂": {
       "name": "原盘天堂",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/原盘天堂.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/原盘天堂.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://4k3dyptt.com/",
       "filename": "原盘天堂.har",
@@ -1168,7 +1168,7 @@
     "tool.lu在线工具": {
       "name": "tool.lu在线工具",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/tool.lu在线工具.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/tool.lu在线工具.har",
       "update": false,
       "comments": "登录后[https://id.tool.lu/profile]页面cookie<br>https://tool.lu/",
       "filename": "tool.lu在线工具.har",
@@ -1180,7 +1180,7 @@
     "WhereMyLife": {
       "name": "WhereMyLife",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/WhereMyLife.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/WhereMyLife.har",
       "update": false,
       "comments": "username:邮箱<br>password:密码<br>https://wheremylife.cn/",
       "filename": "WhereMyLife.har",
@@ -1192,7 +1192,7 @@
     "blue高清公馆": {
       "name": "blue高清公馆",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/blue高清公馆.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/blue高清公馆.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.bluegq.com/",
       "filename": "blue高清公馆.har",
@@ -1204,7 +1204,7 @@
     "国配影迷社区": {
       "name": "国配影迷社区",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/国配影迷社区.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/国配影迷社区.har",
       "update": false,
       "comments": "登录后首页cookie<br>https://club.ccmnn.com/",
       "filename": "国配影迷社区.har",
@@ -1216,7 +1216,7 @@
     "爱好论坛-每日打卡": {
       "name": "爱好论坛-每日打卡",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/爱好论坛-每日打卡.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/爱好论坛-每日打卡.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>num为数字，对应值及意思为：<br>1.早上8-9点之间打卡。<br>2.下午13-14点直接打卡<br>3.晚上18-19点直接打卡<br>4.每月全勤大于60次打卡<br>建议前3个设置为每天对应的时间执行，每月的可以设置为cron方式执行，如【0 9 28-31 * *】<br>https://www.aihao.cc/",
       "filename": "爱好论坛-每日打卡.har",
@@ -1228,7 +1228,7 @@
     "33IQ": {
       "name": "33IQ",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/33IQ.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/33IQ.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.33iq.com/",
       "filename": "33IQ.har",
@@ -1240,7 +1240,7 @@
     "飘云阁": {
       "name": "飘云阁",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/飘云阁.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/飘云阁.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.chinapyg.com/",
       "filename": "飘云阁.har",
@@ -1252,7 +1252,7 @@
     "zodgame": {
       "name": "zodgame",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/zodgame.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/zodgame.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>ua：user-agent对应的值<br>网站开启了cf五秒盾，对ck和ua有要求，需要抓框架对应ip的ck和ua。<br>https://zodgame.xyz/",
       "filename": "zodgame.har",
@@ -1264,7 +1264,7 @@
     "书法江湖": {
       "name": "书法江湖",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/书法江湖.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/书法江湖.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.shufajianghu.com/",
       "filename": "书法江湖.har",
@@ -1276,7 +1276,7 @@
     "3DMGAME论坛": {
       "name": "3DMGAME论坛",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/3DMGAME论坛.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/3DMGAME论坛.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>content:每日签到回帖的内容<br>taskID:任务页论坛等级对应的任务ID<br>高级玩家, 超级玩家, 游戏狂人填70<br>游戏达人, 游戏精英, 资深玩家填71<br>骨灰玩家, 游戏天王, 游戏圣者填72<br>游戏之神, 游戏终结者, 游戏vip联动部填73<br>3DM大善人填74<br>https://bbs.3dmgame.com/",
       "filename": "3DMGAME论坛.har",
@@ -1288,7 +1288,7 @@
     "爱上ASMR": {
       "name": "爱上ASMR",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/爱上ASMR.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/爱上ASMR.har",
       "update": false,
       "comments": "domain：网站域名【https://www.asmras.com/】<br>username:账号<br>password:密码<br>https://www.asmras.com/",
       "filename": "爱上ASMR.har",
@@ -1300,7 +1300,7 @@
     "GLaDOS": {
       "name": "GLaDOS",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/GLaDOS.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/GLaDOS.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>https://glados.rocks/",
       "filename": "GLaDOS.har",
@@ -1312,7 +1312,7 @@
     "数码之家": {
       "name": "数码之家",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/数码之家.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/数码之家.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.mydigit.cn/",
       "filename": "数码之家.har",
@@ -1324,7 +1324,7 @@
     "鱼塘热榜": {
       "name": "鱼塘热榜",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/鱼塘热榜.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/鱼塘热榜.har",
       "update": false,
       "comments": "username:邮箱<br>password:密码<br>https://mo.fish/",
       "filename": "鱼塘热榜.har",
@@ -1336,7 +1336,7 @@
     "Pico社区": {
       "name": "Pico社区",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/Pico社区.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/Pico社区.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>https://bbs.picovr.com/",
       "filename": "Pico社区.har",
@@ -1348,7 +1348,7 @@
     "苹果团": {
       "name": "苹果团",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/苹果团.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/苹果团.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>https://appletuan.com/",
       "filename": "苹果团.har",
@@ -1360,7 +1360,7 @@
     "游戏大桶": {
       "name": "游戏大桶",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/游戏大桶.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/游戏大桶.har",
       "update": false,
       "comments": "username:邮箱<br>password:密码<br>https://gamekegs.com/",
       "filename": "游戏大桶.har",
@@ -1372,7 +1372,7 @@
     "紫猫学院社区": {
       "name": "紫猫学院社区",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/紫猫学院社区.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/紫猫学院社区.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>https://zimaoxy.com/b/",
       "filename": "紫猫学院社区.har",
@@ -1384,7 +1384,7 @@
     "修图匠人": {
       "name": "修图匠人",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/修图匠人.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/修图匠人.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.tsliuyu.com/",
       "filename": "修图匠人.har",
@@ -1396,7 +1396,7 @@
     "糖果VR资源网": {
       "name": "糖果VR资源网",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/糖果VR资源网.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/糖果VR资源网.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://www.tangguo2.com/forum.php",
       "filename": "糖果VR资源网.har",
@@ -1408,7 +1408,7 @@
     "MC百科": {
       "name": "MC百科",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/MC百科.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/MC百科.har",
       "update": false,
       "comments": "username:账号<br>password:密码<br>https://center.mcmod.cn/",
       "filename": "MC百科.har",
@@ -1420,7 +1420,7 @@
     "全球VPS交流社区": {
       "name": "全球VPS交流社区",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/全球VPS交流社区.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/全球VPS交流社区.har",
       "update": false,
       "comments": "domain:为网站域名，如【https://www.xiaoji.la/】,https和后面的'/'都要有<br>Cookies:登录后首页cookie<br>https://www.xiaoji.la/",
       "filename": "全球VPS交流社区.har",
@@ -1432,7 +1432,7 @@
     "鸿鹄论坛": {
       "name": "鸿鹄论坛",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/鸿鹄论坛.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/鸿鹄论坛.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>https://bbs.hh010.com/",
       "filename": "鸿鹄论坛.har",
@@ -1444,7 +1444,7 @@
     "攻城狮论坛": {
       "name": "攻城狮论坛",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/攻城狮论坛.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/攻城狮论坛.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>http://bbs.vlan5.com/",
       "filename": "攻城狮论坛.har",
@@ -1456,7 +1456,7 @@
     "4k时光": {
       "name": "4k时光",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/4k时光.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/4k时光.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>https://www.4ksg.com/",
       "filename": "4k时光.har",
@@ -1468,7 +1468,7 @@
     "布谷TV": {
       "name": "布谷TV",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/布谷TV.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/布谷TV.har",
       "update": false,
       "comments": "username:邮箱<br>password:密码<br>https://www.bugutv.net/",
       "filename": "布谷TV.har",
@@ -1480,7 +1480,7 @@
     "4K视界": {
       "name": "4K视界",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/4K视界.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/4K视界.har",
       "update": false,
       "comments": "username:邮箱<br>password:密码<br>https://www.4ksj.com/",
       "filename": "4K视界.har",
@@ -1492,7 +1492,7 @@
     "威锋网": {
       "name": "威锋网",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/威锋网.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/威锋网.har",
       "update": false,
       "comments": "accessToken:登录后header里的x-access-token<br>https://www.feng.com/",
       "filename": "威锋网.har",
@@ -1504,7 +1504,7 @@
     "酷家乐": {
       "name": "酷家乐",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/酷家乐.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/酷家乐.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>https://www.kujiale.com/",
       "filename": "酷家乐.har",
@@ -1516,7 +1516,7 @@
     "天使动漫-签到": {
       "name": "天使动漫-签到",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/天使动漫-签到.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/天使动漫-签到.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>https://www.tsdm39.net/forum.php",
       "filename": "天使动漫-签到.har",
@@ -1528,7 +1528,7 @@
     "天使动漫-打工": {
       "name": "天使动漫-打工",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/天使动漫-打工.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/天使动漫-打工.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>打工6小时一次，cron可以设置为【0 */8 * * *】<br>https://www.tsdm39.net/forum.php",
       "filename": "天使动漫-打工.har",
@@ -1540,7 +1540,7 @@
     "华印社区": {
       "name": "华印社区",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/华印社区.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/华印社区.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>https://www.52cnp.com/",
       "filename": "华印社区.har",
@@ -1552,7 +1552,7 @@
     "梦璃": {
       "name": "梦璃",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/梦璃.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/梦璃.har",
       "update": false,
       "comments": "username:邮箱<br>password:密码<br>https://moeli-desu.com/",
       "filename": "梦璃.har",
@@ -1564,7 +1564,7 @@
     "柚坛社区": {
       "name": "柚坛社区",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/柚坛社区.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/柚坛社区.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>https://www.uotan.cn/",
       "filename": "柚坛社区.har",
@@ -1576,7 +1576,7 @@
     "青模网": {
       "name": "青模网",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/青模网.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/青模网.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>https://www.qingmo.com/",
       "filename": "青模网.har",
@@ -1588,7 +1588,7 @@
     "瀚思彼岸": {
       "name": "瀚思彼岸",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/瀚思彼岸.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/瀚思彼岸.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>https://bbs.hassbian.com/",
       "filename": "瀚思彼岸.har",
@@ -1600,7 +1600,7 @@
     "哥特动漫王国": {
       "name": "哥特动漫王国",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/哥特动漫王国.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/哥特动漫王国.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>https://www.gtloli.gay/forum.php",
       "filename": "哥特动漫王国.har",
@@ -1612,7 +1612,7 @@
     "网盘分享吧": {
       "name": "网盘分享吧",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/网盘分享吧.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/网盘分享吧.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>https://www.99wody.com/",
       "filename": "网盘分享吧.har",
@@ -1624,7 +1624,7 @@
     "1OVE论坛": {
       "name": "1OVE论坛",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/1OVE论坛.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/1OVE论坛.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>https://bbs.1ove.club/",
       "filename": "1OVE论坛.har",
@@ -1636,7 +1636,7 @@
     "萌出血动漫论坛": {
       "name": "萌出血动漫论坛",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/萌出血动漫论坛.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/萌出血动漫论坛.har",
       "update": false,
       "comments": "Cookies:登录后首页cookie<br>https://www.bbshh.top/",
       "filename": "萌出血动漫论坛.har",
