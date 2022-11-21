@@ -1117,6 +1117,18 @@
       "version": "20220217",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/96"
     },
+    "好书友": {
+      "name": "好书友",
+      "author": "wjf0214",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/好书友.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>https://www.ppl520.com/",
+      "filename": "好书友.har",
+      "content": "",
+      "date": "2022-11-21 16:45:00",
+      "version": "20221121",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/97"
+    },
     "腾龙工作室": {
       "name": "腾龙工作室",
       "author": "wjf0214",
