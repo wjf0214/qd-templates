@@ -21,6 +21,10 @@
 
 > 极个别模板不兼容 [旧版本](ttps://github.com/binux/qiandao) 框架, 如有不兼容请使用 [最新版](https://github.com/qiandao-today/qiandao) 。 具体使用方式请自行学习。
 
+##  ⚠注意事项
+
+> 如果要单独下载某个模板文件，不要在主页右键直接下载。请使用 `https://raw.githubusercontent.com` 域名的下载地址，不要使用 `https://github.com/` 域名的下载地址。否则上传模板将会<mark>上传失败</mark>。
+
 ## 👤游客访问
 
 <p align="center"> 
