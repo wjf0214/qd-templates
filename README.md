@@ -66,7 +66,7 @@
 | E次元 | [E次元.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/E次元.har) | Web | domain:为网站域名，如【<https://www.acge.me/>】,https和后面的'/'都要有<br/>homeaction和cks 打开首页即可获取 <https://www.acge.me/wp-admin/admin-ajax.php?action=><br><https://www.acge.me/> |
 | 致美化 | [致美化.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/致美化.har) | Web | user:账号<br>pass:密码<br><https://zhutix.com> |
 | 时光相册 | [时光相册.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/时光相册.har) | Web | phone:账号<br>password:密码<br>手机号密码 请抓登陆包查看 手机号里包括区号 86啥的 密码为加密后的密码<br><https://www.everphoto.cn/> |
-| 书香门第 | [书香门第.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/书香门第.har) | Web | account:账号<br>password:密码<br>登陆账号密码(只支持字母+数字组合账号)<br><http://www.txtnovel.top> |
+| 书香门第 | [书香门第.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/书香门第.har) | Web | username:账号<br>password:密码<br>登陆账号密码(只支持字母+数字组合账号)<br><http://www.txtnovel.pro/> |
 | 漫画补档(账号密码版) | [漫画补档(账号密码版).har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/漫画补档(账号密码版).har) | Web | username:账号<br>password:密码<br><https://www.manhuabudang.com> |
 | bigfun | [bigfun.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/bigfun.har) | Web | 登录后首页cookie<br><https://www.bigfun.cn> |
 | hostloc主机论坛 | [hostloc主机论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/hostloc主机论坛.har) | Web | 登录后首页cookie<br><https://hostloc.com> |

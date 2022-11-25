@@ -246,11 +246,11 @@
       "author": "wjf0214",
       "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/书香门第.har",
       "update": false,
-      "comments": "account:账号<br>password:密码<br>登陆账号密码(只支持字母+数字组合账号)<br>http://www.txtnovel.top",
+      "comments": "username:账号<br>password:密码<br>登陆账号密码(只支持字母+数字组合账号)<br>http://www.txtnovel.pro/",
       "filename": "书香门第.har",
       "content": "",
-      "date": "2021-09-19 10:00:00",
-      "version":"20210919",
+      "date": "2022-11-25 10:30:00",
+      "version":"20221125",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/22"
     },
     "漫画补档(账号密码版)": {
