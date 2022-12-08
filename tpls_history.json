@@ -1350,11 +1350,11 @@
       "author": "wjf0214",
       "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/Pico社区.har",
       "update": false,
-      "comments": "Cookies:登录后首页cookie<br>https://bbs.picovr.com/",
+      "comments": "Cookies:登录后首页cookie<br>https://bbs.picoxr.com/",
       "filename": "Pico社区.har",
       "content": "",
-      "date": "2022-07-11 22:00:00",
-      "version": "20220711",
+      "date": "2022-12-08 15:30:00",
+      "version": "20221208",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/117"
     },
     "苹果团": {
