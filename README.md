@@ -185,6 +185,7 @@
 | 1OVE论坛 | [1OVE论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/1OVE论坛.har) | Web | Cookies:登录后首页cookie<br><https://bbs.1ove.club/> |
 | 萌出血动漫论坛 | [萌出血动漫论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/萌出血动漫论坛.har) | Web | Cookies:登录后首页cookie<br><https://www.bbshh.top/> |
 | SketchUp吧 | [SketchUp吧.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/SketchUp吧.har) | Web | Cookies:登录后首页cookie<br><https://www.sketchupbar.com/> |
+| 知末 | [知末.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/知末.har) | Web | Cookies:登录后 api.znzmo.com 域名的cookie<br><https://www.znzmo.com/> |
 
 ## 项目相关
 
