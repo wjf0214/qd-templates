@@ -186,6 +186,7 @@
 | 萌出血动漫论坛 | [萌出血动漫论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/萌出血动漫论坛.har) | Web | Cookies:登录后首页cookie<br><https://www.bbshh.top/> |
 | SketchUp吧 | [SketchUp吧.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/SketchUp吧.har) | Web | Cookies:登录后首页cookie<br><https://www.sketchupbar.com/> |
 | 知末 | [知末.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/知末.har) | Web | Cookies:登录后 api.znzmo.com 域名的cookie<br><https://www.znzmo.com/> |
+| 嘉立创EDA | [嘉立创EDA.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/嘉立创EDA.har) | Web | username:手机号<br>password:密码<br><https://oshwhub.com/> |
 
 ## 项目相关
 
