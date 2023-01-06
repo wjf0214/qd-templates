@@ -79,7 +79,7 @@
 | 香网小说 | [香网小说.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/香网小说.har) | Web | 登录后首页cookie<br><https://m.xiang5.com/> |
 | 精易论坛 | [精易论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/精易论坛.har) | Web | 登录后首页cookie<br><https://bbs.125.la/> |
 | 晋江小说 | [晋江小说.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/晋江小说.har) | Web | 登录后首页cookie<br><https://m.jjwxc.net/> |
-| 看雪安全论坛 | [看雪安全论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/看雪安全论坛.har) | Web | 登录后首页cookie<br><https://bbs.pediy.com/> |
+| 看雪安全论坛 | [看雪安全论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/看雪安全论坛.har) | Web | 登录后首页cookie<br><https://bbs.kanxue.com/> |
 | 粤梦缘 | [粤梦缘.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/粤梦缘.har) | Web | username:邮箱<br>password:密码<br><https://www.dranime.net/> |
 | 人人素材 | [人人素材.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/人人素材.har) | Web | username:账号,手机号<br>password:密码<br><https://www.rrcg.cn/> |
 | 幕后Muhou | [幕后Muhou.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/幕后Muhou.har) | Web | username:账号<br>password:密码<br><https://muhou.net/> |
