@@ -961,18 +961,6 @@
       "version": "20220311",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/80"
     },
-    "捌零发烧音乐网": {
-      "name": "捌零发烧音乐网",
-      "author": "wjf0214",
-      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/捌零发烧音乐网.har",
-      "update": false,
-      "comments": "登录后首页cookie<br>https://hifi.juyincar.com/",
-      "filename": "捌零发烧音乐网.har",
-      "content": "",
-      "date": "2022-01-03 10:00:00",
-      "version": "20220103",
-      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/81"
-    },
     "武聆音雄配乐网": {
       "name": "武聆音雄配乐网",
       "author": "wjf0214",
