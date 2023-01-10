@@ -109,7 +109,6 @@
 | 轻之文库 | [轻之文库.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/轻之文库.har) | Web | username:账号<br>password:密码<br><https://www.linovel.net/> |
 | 中国汉化论坛 | [中国汉化论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/中国汉化论坛.har) | Web | username:账号<br>password:密码<br>questionId对应值：<br>-1.自定义问题<br>1.我爸爸的出生地<br>2.我妈妈的出生地<br>3.我的小学校名<br>4.我的中学校名<br>5.我最喜欢的运动<br>6.我最喜欢的歌曲<br>7.我最喜欢的电影<br>8.我最喜欢的颜色<br>customquest：自定义问题<br>answer:问题答案<br>没有密保安全问题，questionId,customquest,answer不填为空。<br><http://h.shanse8.com/> |
 | 吾爱汇编 | [吾爱汇编.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/吾爱汇编.har) | Web | 登录后首页cookie<br><https://www.52hb.com/> |
-| 吾爱汇编(FlareSolverr版本) | [吾爱汇编(FlareSolverr版本).har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/吾爱汇编(FlareSolverr版本).har) | Web | flaresolverrUrl：搭建 flaresolverr/flaresolverr 容器后的请求地址<br>m1bN_2132_auth：cookie里m1bN_2132_auth的值<br>m1bN_2132_saltkey：cookie里m1bN_2132_saltkey的值<br><https://www.52hb.com/> |
 | 爱玩网络 | [爱玩网络.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/爱玩网络.har) | Web | username:账号<br>password:密码<br><https://wngamebox.cn/> |
 | switch520 | [switch520.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/switch520.har) | Web | domain:域名,如【https://xxx.com】,后面不带'/'<br>username:账号<br>password:密码<br><https://xxxxx520.com/> |
 | 远景论坛(账号版) | [远景论坛(账号版).har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/远景论坛(账号版).har) | Web | username:账号<br>password:密码<br><https://bbs.pcbeta.com/> |
