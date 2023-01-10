@@ -157,7 +157,7 @@
 | 鱼塘热榜 | [鱼塘热榜.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/鱼塘热榜.har) | Web | username:邮箱<br>password:密码<br><https://mo.fish/> |
 | Pico社区 | [Pico社区.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/Pico社区.har) | Web | Cookies:登录后首页cookie<br><https://bbs.picoxr.com/> |
 | 苹果团 | [苹果团.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/苹果团.har) | Web | Cookies:登录后首页cookie<br><https://appletuan.com/> |
-| 游戏大桶 | [游戏大桶.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/游戏大桶.har) | Web | username:邮箱<br>password:密码<br><https://gamekegs.com/> |
+| 游戏大桶 | [游戏大桶.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/游戏大桶.har) | Web | username:邮箱<br>password:密码<br><https://gkinto.com/> |
 | 紫猫学院社区 | [紫猫学院社区.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/紫猫学院社区.har) | Web | Cookies:登录后首页cookie<br><https://zimaoxy.com/b/> |
 | 修图匠人 | [修图匠人.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/修图匠人.har) | Web | Cookies:登录后首页cookie<br><https://www.tsliuyu.com/> |
 | 糖果VR资源网 | [糖果VR资源网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/糖果VR资源网.har) | Web | username:账号<br>password:密码<br><https://www.tangguo2.com/forum.php> |
