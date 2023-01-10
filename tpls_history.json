@@ -282,11 +282,11 @@
       "author": "wjf0214",
       "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/hostloc主机论坛.har",
       "update": false,
-      "comments": "登录后首页cookie<br>https://hostloc.com",
+      "comments": "n:访问空间次数<br>登录后首页cookie<br>https://hostloc.com",
       "filename": "hostloc主机论坛.har",
       "content": "",
-      "date": "2022-08-02 10:15:00",
-      "version": "20220802",
+      "date": "2023-01-10 14:15:00",
+      "version": "20230110",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/25"
     },
     "south-plus": {
