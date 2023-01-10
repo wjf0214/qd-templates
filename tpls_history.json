@@ -1656,6 +1656,18 @@
       "date": "2022-12-20 15:50:00",
       "version": "20221220",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/148"
+    },
+    "海底捞小程序": {
+      "name": "海底捞小程序",
+      "author": "wjf0214",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/海底捞小程序.har",
+      "update": false,
+      "comments": "抓包访问小程序<br>openId:thirdCommLogin 请求中的 openid<br>uid:thirdCommLogin 请求中的 uid<br>微信小程序",
+      "filename": "海底捞小程序.har",
+      "content": "",
+      "date": "2023-01-10 20:30:00",
+      "version": "20230110",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/149"
     }
   }
 }

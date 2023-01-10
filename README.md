@@ -184,6 +184,7 @@
 | SketchUp吧 | [SketchUp吧.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/SketchUp吧.har) | Web | Cookies:登录后首页cookie<br><https://www.sketchupbar.com/> |
 | 知末 | [知末.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/知末.har) | Web | Cookies:登录后 api.znzmo.com 域名的cookie<br><https://www.znzmo.com/> |
 | 嘉立创EDA | [嘉立创EDA.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/嘉立创EDA.har) | Web | username:手机号<br>password:密码<br><https://oshwhub.com/> |
+| 海底捞小程序 | [海底捞小程序.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/海底捞小程序.har) | 微信小程序 | 抓包访问小程序<br>openId:thirdCommLogin 请求中的 openid<br>uid:thirdCommLogin 请求中的 uid<br>微信小程序 |
 
 ## 项目相关
 
