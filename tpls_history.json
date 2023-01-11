@@ -1674,10 +1674,10 @@
       "author": "wjf0214",
       "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/漫画补档-冰室.har",
       "update": false,
-      "comments": "Cookies:登录后首页cookie<br>https://www.manhuabudangbbs.com/",
+      "comments": "Cookies:登录后首页cookie<br>UA：user-agent对应的值<br>https://www.manhuabudangbbs.com/",
       "filename": "漫画补档-冰室.har",
       "content": "",
-      "date": "2023-01-11 20:20:00",
+      "date": "2023-01-11 22:50:00",
       "version": "20230111",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/150"
     }
