@@ -1716,6 +1716,18 @@
       "date": "2023-01-29 16:40:00",
       "version": "20230129",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/157"
+    },
+    "幼教库": {
+      "name": "幼教库",
+      "author": "wjf0214",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/幼教库.har",
+      "update": false,
+      "comments": "username:手机号<br>password:密码<br>https://www.youjiaoku.com/",
+      "filename": "幼教库.har",
+      "content": "",
+      "date": "2023-01-29 18:00:00",
+      "version": "20230129",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/158"
     }
   }
 }
