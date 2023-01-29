@@ -1680,6 +1680,18 @@
       "date": "2023-01-11 22:50:00",
       "version": "20230111",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/150"
+    },
+    "搜集网": {
+      "name": "搜集网",
+      "author": "wjf0214",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/搜集网.har",
+      "update": false,
+      "comments": "Cookies:登录后首页cookie<br>https://www.simpsearch.com/",
+      "filename": "搜集网.har",
+      "content": "",
+      "date": "2023-01-29 15:30:00",
+      "version": "20230129",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/155"
     }
   }
 }
