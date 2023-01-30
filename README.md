@@ -192,6 +192,7 @@
 | 幼教库 | [幼教库.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/幼教库.har) | Web | username:手机号<br>password:密码<br><https://www.youjiaoku.com/> |
 | 安全论坛 | [安全论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/安全论坛.har) | Web | Cookies:登录后首页cookie<br><http://bbs.anquan.com.cn/> |
 | NodeSeek | [NodeSeek.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/NodeSeek.har) | Web | username:用户名<br>password:密码<br>isRandom:是否随机，不填为5个鸡腿签到，填写任意值为试试手气签到<br><https://www.nodeseek.com/> |
+| 捷配 | [捷配.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/捷配.har) | Web | Cookies:登录后首页cookie<br><https://www.jiepei.com/> |
 
 ## 项目相关
 
