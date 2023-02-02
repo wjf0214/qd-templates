@@ -86,7 +86,7 @@
 | 萌幻之乡 | [萌幻之乡.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/萌幻之乡.har) | Web | username:账号<br>password:密码<br><https://www.hmoe11.net/> |
 | v2ex | [v2ex.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/v2ex.har) | Web | 登录后首页cookie<br><https://www.v2ex.com/> |
 | 好家伙机场 | [好家伙机场.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/好家伙机场.har) | Web | email:邮箱<br>passwd:密码<br><https://haojiahuo.live/> |
-| 后期菌资源村 | [后期菌资源村.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/后期菌资源村.har) | Web | username:手机号<br>password:密码<br><http://www.houqijun.vip/> |
+| 后期菌资源村 | [后期菌资源村.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/后期菌资源村.har) | Web | username:手机号<br>password:密码<br><https://www.houqijun.vip/> |
 | 中国原创音乐基地5SING | [中国原创音乐基地5SING.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/中国原创音乐基地5SING.har) | Web | 登录后首页cookie,ck有效期一周<br><http://5sing.kugou.com/> |
 | 品枝 | [品枝.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/品枝.har) | Web | flaresolverrUrl:flaresolverr 服务的地址。<br>XnMp_2132_auth:cookie中对应的值<br>XnMp_2132_saltkey:cookie中对应的值<br>n:空间访问次数<br><https://www.tekqart.com/> |
 | 189天翼云(账号密码版) | [189天翼云(账号密码版).har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/189天翼云(账号密码版).har) | Web | username:账号<br>password:密码<br><https://cloud.189.cn/> |
