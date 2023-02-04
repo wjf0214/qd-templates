@@ -83,7 +83,7 @@
 | 人人素材 | [人人素材.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/人人素材.har) | Web | username:账号,手机号<br>password:密码<br><https://www.rrcg.cn/> |
 | 幕后Muhou | [幕后Muhou.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/幕后Muhou.har) | Web | username:账号<br>password:密码<br><https://muhou.net/> |
 | 飞客茶馆 | [飞客茶馆.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/飞客茶馆.har) | Web | username:账号,手机号<br>password:密码<br><https://www.flyert.com/><br>由于网站登录授权特殊,授权次数不固定。请求暂定3次，超过3次。可能登录不成功。多试几次便可 |
-| 萌幻之乡 | [萌幻之乡.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/萌幻之乡.har) | Web | username:账号<br>password:密码<br><https://www.hmoe11.net/> |
+| 萌幻之乡 | [萌幻之乡.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/萌幻之乡.har) | Web | domain:为网站域名，如【<https://www.hmoe12.com/>】,https和后面的'/'都要有<br>username:账号<br>password:密码<br><https://www.hmoe12.com/> |
 | v2ex | [v2ex.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/v2ex.har) | Web | 登录后首页cookie<br><https://www.v2ex.com/> |
 | 好家伙机场 | [好家伙机场.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/好家伙机场.har) | Web | email:邮箱<br>passwd:密码<br><https://haojiahuo.live/> |
 | 后期菌资源村 | [后期菌资源村.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/后期菌资源村.har) | Web | username:手机号<br>password:密码<br><https://www.houqijun.vip/> |

@@ -450,11 +450,11 @@
       "author": "wjf0214",
       "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/萌幻之乡.har",
       "update": false,
-      "comments": "username:账号<br>password:密码<br>https://www.hmoe11.net/",
+      "comments": "domain:为网站域名，如【<https://www.hmoe12.com/>】,https和后面的'/'都要有<br>username:账号<br>password:密码<br>https://www.hmoe12.com/",
       "filename": "萌幻之乡.har",
       "content": "",
-      "date": "2022-06-13 13:40:00",
-      "version": "20220613",
+      "date": "2023-02-04 16:40:00",
+      "version": "20230204",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/40"
     },
     "v2ex": {
