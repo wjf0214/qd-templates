@@ -194,6 +194,7 @@
 | NodeSeek | [NodeSeek.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/NodeSeek.har) | Web | username:用户名<br>password:密码<br>isRandom:是否随机，不填为5个鸡腿签到，填写任意值为试试手气签到<br><https://www.nodeseek.com/> |
 | 捷配 | [捷配.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/捷配.har) | Web | Cookies:登录后首页cookie<br><https://www.jiepei.com/> |
 | UG爱好者 | [UG爱好者.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/UG爱好者.har) | Web | Cookies:登录后首页cookie<br><https://www.ugsnx.com/forum.php> |
+| 海角社区 | [海角社区.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/海角社区.har) | Web | domain：网站域名【<https://www.xxx.com/>】<br>username:用户名<br>password:密码<br>ua:user-agent的值 |
 
 ## 项目相关
 

@@ -1776,6 +1776,18 @@
       "date": "2023-01-31 10:40:00",
       "version": "20230131",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/161"
+    },
+    "海角社区": {
+      "name": "海角社区",
+      "author": "wjf0214",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/海角社区.har",
+      "update": false,
+      "comments": "domain：网站域名【https://www.xxx.com/】<br>username:用户名<br>password:密码<br>ua:user-agent的值",
+      "filename": "海角社区.har",
+      "content": "",
+      "date": "2023-02-06 15:20:00",
+      "version": "20230206",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/162"
     }
   }
 }
