@@ -805,16 +805,28 @@
       "version": "20220822",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/69"
     },
-    "小米运动": {
-      "name": "小米运动",
+    "小米运动(手机号版)": {
+      "name": "小米运动(手机号版)",
       "author": "wjf0214",
-      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/小米运动.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/小米运动(手机号版).har",
       "update": false,
-      "comments": "username:账号<br>password:密码<br>min_step:最小步数<br>max_step:最大步数<br>步数在最大最小值之间取值，不填默认为1w到2w之间随机",
-      "filename": "小米运动.har",
+      "comments": "username:手机号<br>password:密码<br>min_step:最小步数<br>max_step:最大步数<br>步数在最大最小值之间取值，不填默认为1w到2w之间随机",
+      "filename": "小米运动(手机号版).har",
       "content": "",
-      "date": "2022-03-11 17:40:00",
-      "version": "20220311",
+      "date": "2023-02-06 15:30:00",
+      "version": "20230206",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/70"
+    },
+    "小米运动(邮箱版)": {
+      "name": "小米运动(邮箱版)",
+      "author": "wjf0214",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/小米运动(邮箱版).har",
+      "update": false,
+      "comments": "username:邮箱<br>password:密码<br>min_step:最小步数<br>max_step:最大步数<br>步数在最大最小值之间取值，不填默认为1w到2w之间随机",
+      "filename": "小米运动(邮箱版).har",
+      "content": "",
+      "date": "2023-02-06 15:30:00",
+      "version": "20230206",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/70"
     },
     "阡陌居": {

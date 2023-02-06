@@ -113,7 +113,8 @@
 | switch520 | [switch520.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/switch520.har) | Web | domain:域名,如【https://xxx.com】,后面不带'/'<br>username:账号<br>password:密码<br><https://xxxxx520.com/> |
 | 远景论坛(账号版) | [远景论坛(账号版).har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/远景论坛(账号版).har) | Web | username:账号<br>password:密码<br><https://bbs.pcbeta.com/> |
 | 联想智选 | [联想智选.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/联想智选.har) | App | username:账号<br>password:密码<br>baseinfo:APP抓包 api.club.lenovo.cn 域名下的任意请求，header里面去找。可以为空，有默认值。<br>只限最新版框架使用，20220820版本后。 |
-| 小米运动 | [小米运动.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/小米运动.har) | App | username:账号<br>password:密码<br>min_step:最小步数<br>max_step:最大步数<br>步数在最大最小值之间取值，不填默认为1w到2w之间随机 |
+| 小米运动(手机号版) | [小米运动(手机号版).har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/小米运动(手机号版).har) | App | username:手机号<br>password:密码<br>min_step:最小步数<br>max_step:最大步数<br>步数在最大最小值之间取值，不填默认为1w到2w之间随机 |
+| 小米运动(邮箱版) | [小米运动(邮箱版).har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/小米运动(邮箱版).har) | App | username:邮箱<br>password:密码<br>min_step:最小步数<br>max_step:最大步数<br>步数在最大最小值之间取值，不填默认为1w到2w之间随机 |
 | 阡陌居 | [阡陌居.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/阡陌居.har) | Web | 登录后首页cookie<br><http://www.1000qm.vip/> |
 | 魔兽大数据 | [魔兽大数据.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/魔兽大数据.har) | Web | 登录后首页cookie<br>content：世界频道发言的内容<br><http://bj.wowdata.top/> |
 | 万由论坛 | [万由论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/万由论坛.har) | Web | username:手机号<br>password:密码<br><https://www.u-share.cn/forum.php> |
