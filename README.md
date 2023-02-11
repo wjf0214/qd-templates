@@ -129,7 +129,7 @@
 | 56brand我来网 | [56brand我来网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/56brand我来网.har) | Web | username:账号<br>password:密码<br><http://www.56brand.net/> |
 | 野火论坛 | [野火论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/野火论坛.har) | Web | username:账号<br>password:密码<br><http://www.proewildfire.cn/> |
 | 3D溜溜网 | [3D溜溜网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/3D溜溜网.har) | Web | 登录后首页cookie<br><https://user.3d66.com/> |
-| 宽带技术网 | [宽带技术网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/宽带技术网.har) | Web | 登录后首页cookie<br><http://www.chinadsl.net/> |
+| 宽带技术网 | [宽带技术网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/宽带技术网.har) | Web | 登录后首页cookie<br><https://www.chinadsl.net/> |
 | 摩登犀牛 | [摩登犀牛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/摩登犀牛.har) | Web | username:账号<br>password:密码<br><http://bbs.rhino3d.us/> |
 | 河洛网 | [河洛网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/河洛网.har) | Web | username:账号<br>password:密码<br><https://www.horou.com/> |
 | 小云社区 | [小云社区.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/小云社区.har) | Web | domain:域名<br>username:账号<br>password:密码<br><https://www.moke08.com/> |

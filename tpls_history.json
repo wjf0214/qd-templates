@@ -1002,11 +1002,11 @@
       "author": "wjf0214",
       "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/宽带技术网.har",
       "update": false,
-      "comments": "登录后首页cookie<br>http://www.chinadsl.net/",
+      "comments": "登录后首页cookie<br>https://www.chinadsl.net/",
       "filename": "宽带技术网.har",
       "content": "",
-      "date": "2022-01-07 10:00:00",
-      "version": "20220107",
+      "date": "2023-02-11 12:00:00",
+      "version": "20230211",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/87"
     },
     "摩登犀牛": {
