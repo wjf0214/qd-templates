@@ -441,8 +441,8 @@
       "comments": "username:账号,手机号<br>password:密码<br>https://www.flyert.com/<br>由于网站登录授权特殊,授权次数不固定。请求暂定3次，超过3次。可能登录不成功。多试几次便可",
       "filename": "飞客茶馆.har",
       "content": "",
-      "date": "2022-03-11 17:40:00",
-      "version": "20220311",
+      "date": "2023-02-16 11:00:00",
+      "version": "20230216",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/39"
     },
     "萌幻之乡": {
