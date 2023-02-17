@@ -1806,12 +1806,24 @@
       "author": "wjf0214",
       "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/阿里云盘.har",
       "update": false,
-      "comments": "qd_email：框架的登录账号<br>qd_pwd:框架的登录密码<br>ua:user-agent的值<br>id_notepad:记事本的ID<br>初次使用需要在 工具箱->记事本 功能里创建一个记事本，记住记事本id,里面填写：【阿里云盘的refresh_token值：xxxxxxxxxxxxxxxxxxxxxxxx】这样的信息，信息不包含【】，refresh_token的值抓取 'v2/account/token' 请求里的对应值。 ",
+      "comments": "qd_email：签到框架的登录账号<br>qd_pwd:签到框架的登录密码<br>ua:user-agent的值<br>id_notepad:记事本的ID<br>初次使用需要在 工具箱->记事本 功能里创建一个记事本，记住记事本id,里面填写：【阿里云盘的refresh_token值：xxxxxxxxxxxxxxxxxxxxxxxx】这样的信息，信息不包含【】符号，且'阿里云盘的refresh_token值：'这段必须要有，refresh_token的值抓取 'v2/account/token' 请求里的对应值。 ",
       "filename": "阿里云盘.har",
       "content": "",
       "date": "2023-02-08 14:50:00",
       "version": "20230208",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/164"
+    },
+    "微妙网": {
+      "name": "微妙网",
+      "author": "wjf0214",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/微妙网.har",
+      "update": false,
+      "comments": "Cookies:登录后首页cookie<br>https://www.wmiao.com/",
+      "filename": "微妙网.har",
+      "content": "",
+      "date": "2023-02-17 11:00:00",
+      "version": "20230217",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/167"
     }
   }
 }
