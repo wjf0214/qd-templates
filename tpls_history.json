@@ -253,18 +253,6 @@
       "version":"20221125",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/22"
     },
-    "bigfun": {
-      "name": "bigfun",
-      "author": "wjf0214",
-      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/bigfun.har",
-      "update": false,
-      "comments": "登录后首页cookie<br>https://www.bigfun.cn",
-      "filename": "bigfun.har",
-      "content": "",
-      "date": "2021-09-19 10:00:00",
-      "version":"20210919",
-      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/24"
-    },
     "hostloc主机论坛": {
       "name": "hostloc主机论坛",
       "author": "wjf0214",
