@@ -613,30 +613,6 @@
       "version":"20211112",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/54"
     },
-    "一加社区": {
-      "name": "一加社区",
-      "author": "wjf0214",
-      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/一加社区.har",
-      "update": false,
-      "comments": "登录后首页cookie<br>https://www.oneplusbbs.com/",
-      "filename": "一加社区.har",
-      "content": "",
-      "date": "2022-03-11 17:40:00",
-      "version": "20220311",
-      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/55"
-    },
-    "一加社区抽奖": {
-      "name": "一加社区抽奖",
-      "author": "wjf0214",
-      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/一加社区抽奖.har",
-      "update": false,
-      "comments": "n:当天抽奖次数，一天最多10次。抽奖一次消耗10加油,根据自身情况填写。<br>Cookies:登录后首页cookie<br>https://www.oneplusbbs.com/",
-      "filename": "一加社区抽奖.har",
-      "content": "",
-      "date": "2022-11-04 11:10:00",
-      "version": "20221104",
-      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/55"
-    },
     "吾爱破解": {
       "name": "吾爱破解",
       "author": "wjf0214",
