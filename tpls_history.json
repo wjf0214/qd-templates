@@ -976,7 +976,7 @@
     "Goldroom黄金屋": {
       "name": "Goldroom黄金屋",
       "author": "wjf0214",
-      "url": "https://github.com/wjf0214/qd-templates/blob/master/Goldroom黄金屋.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/Goldroom黄金屋.har",
       "update": false,
       "comments": "domain：网站域名【https://www.xxx.com/】<br>Cookies:登录后首页cookie",
       "filename": "Goldroom黄金屋.har",
