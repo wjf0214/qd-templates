@@ -973,6 +973,18 @@
       "version": "20220106",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/88"
     },
+    "Goldroom黄金屋": {
+      "name": "Goldroom黄金屋",
+      "author": "wjf0214",
+      "url": "https://github.com/wjf0214/qd-templates/blob/master/Goldroom黄金屋.har",
+      "update": false,
+      "comments": "domain：网站域名【https://www.xxx.com/】<br>Cookies:登录后首页cookie",
+      "filename": "Goldroom黄金屋.har",
+      "content": "",
+      "date": "2023-03-14 16:50:00",
+      "version": "20230314",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/89"
+    },
     "河洛网": {
       "name": "河洛网",
       "author": "wjf0214",
