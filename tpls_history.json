@@ -498,11 +498,11 @@
       "author": "wjf0214",
       "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/品枝.har",
       "update": false,
-      "comments": "flaresolverrUrl:flaresolverr 服务的地址。<br>XnMp_2132_auth:cookie中对应的值<br>XnMp_2132_saltkey:cookie中对应的值<br>n:空间访问次数<br>https://www.tekqart.com/",
+      "comments": "flaresolverrUrl:flaresolverr 服务的地址。<br>Cookies:登录后首页cookie<br>n:空间访问次数<br>https://www.tekqart.com/",
       "filename": "品枝.har",
       "content": "",
-      "date": "2023-01-30 18:45:00",
-      "version": "20230130",
+      "date": "2023-03-18 14:00:00",
+      "version": "20230318",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/45"
     },
     "189天翼云(账号密码版)": {
