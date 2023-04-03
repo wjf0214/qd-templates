@@ -1213,18 +1213,6 @@
       "version": "20220226",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/110"
     },
-    "书法江湖": {
-      "name": "书法江湖",
-      "author": "wjf0214",
-      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/书法江湖.har",
-      "update": false,
-      "comments": "username:账号<br>password:密码<br>https://www.shufajianghu.com/",
-      "filename": "书法江湖.har",
-      "content": "",
-      "date": "2022-02-27 00:00:00",
-      "version": "20220227",
-      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/111"
-    },
     "3DMGAME论坛": {
       "name": "3DMGAME论坛",
       "author": "wjf0214",
