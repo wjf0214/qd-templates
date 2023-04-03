@@ -1153,18 +1153,6 @@
       "version": "20220222",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/105"
     },
-    "国配影迷社区": {
-      "name": "国配影迷社区",
-      "author": "wjf0214",
-      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/国配影迷社区.har",
-      "update": false,
-      "comments": "登录后首页cookie<br>https://club.ccmnn.com/",
-      "filename": "国配影迷社区.har",
-      "content": "",
-      "date": "2022-02-23 12:00:00",
-      "version": "20220223",
-      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/106"
-    },
     "爱好论坛-每日打卡": {
       "name": "爱好论坛-每日打卡",
       "author": "wjf0214",
