@@ -1698,11 +1698,11 @@
       "author": "wjf0214",
       "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/NodeSeek.har",
       "update": false,
-      "comments": "username:用户名<br>password:密码<br>isRandom:是否随机，不填为5个鸡腿签到，填写任意值为试试手气签到<br>https://www.nodeseek.com/",
+      "comments": "Cookies:登录后首页cookie<br>isRandom:是否随机，不填为5个鸡腿签到，填写任意值为试试手气签到<br>https://www.nodeseek.com/",
       "filename": "NodeSeek.har",
       "content": "",
-      "date": "2023-01-30 15:45:00",
-      "version": "20230130",
+      "date": "2023-04-18 11:10:00",
+      "version": "20230418",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/159"
     },
     "捷配": {
