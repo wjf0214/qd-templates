@@ -70,7 +70,6 @@
 | hostloc主机论坛 | [hostloc主机论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/hostloc主机论坛.har) | Web | n:访问空间次数<br>登录后首页cookie<br><https://hostloc.com> |
 | south-plus | [south-plus.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/south-plus.har) | Web | 登录后首页cookie和UA<br>domain:为网站域名，如【<https://www.south-plus.net/>】,https和后面的'/'都要有<br><https://www.south-plus.net> |
 | VCB-Studio分享论坛 | [VCB-Studio分享论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/VCB-Studio分享论坛.har) | Web | 登录后首页cookie<br><https://bbs.acgrip.com> |
-| 一酷C4D | [一酷C4D.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/一酷C4D.har) | Web | 登录后首页cookie<br><https://c4dco.com> |
 | SolidWorks机械工程师网 | [SolidWorks机械工程师网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/SolidWorks机械工程师网.har) | Web | username:账号<br>password:密码<br><https://www.swbbsc.com/> |
 | HDarea高清视界 | [HDarea高清视界.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/HDarea高清视界.har) | Web | 登录后首页cookie<br><https://www.hdarea.co/> |
 | 经管之家 | [经管之家.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/经管之家.har) | Web | 登录后首页cookie<br><https://bbs.pinggu.org/> |
