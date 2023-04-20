@@ -1033,18 +1033,6 @@
       "version": "20220217",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/96"
     },
-    "书满楼": {
-      "name": "书满楼",
-      "author": "wjf0214",
-      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/书满楼.har",
-      "update": false,
-      "comments": "domain:为网站域名，如【https://www.manlou99.com/】,https和后面的'/'都要有<br>username:账号<br>password:密码<br>https://www.manlou99.com/",
-      "filename": "书满楼.har",
-      "content": "",
-      "date": "2023-02-13 00:05:00",
-      "version": "20230213",
-      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/97"
-    },
     "腾龙工作室": {
       "name": "腾龙工作室",
       "author": "wjf0214",
