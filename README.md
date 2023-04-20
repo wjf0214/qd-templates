@@ -6,7 +6,6 @@
 ![Fork数量](https://img.shields.io/github/forks/wjf0214/qd-templates.svg?style=flat&&logo=stackshare)
 ![贡献者](https://img.shields.io/github/contributors/wjf0214/qd-templates)
 ![文件大小](https://img.shields.io/github/repo-size/wjf0214/qd-templates?style=flat&label=files&color=cf8ef4&labelColor=373e4dl)
-[![访问次数](https://visitor-badge.vercel.app/p/qd-templates)](https://github.com/wjf0214/qd-templates)
 ![最后提交时间](https://img.shields.io/github/last-commit/wjf0214/qd-templates.svg?style=float)
 
 ## 🏠简介
