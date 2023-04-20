@@ -1350,11 +1350,11 @@
       "author": "wjf0214",
       "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/鸿鹄论坛.har",
       "update": false,
-      "comments": "Cookies:登录后首页cookie<br>https://bbs.hh010.com/",
+      "comments": "Cookies:登录后首页cookie<br>UA：user-agent对应的值<br>https://bbs.hh010.com/",
       "filename": "鸿鹄论坛.har",
       "content": "",
-      "date": "2022-06-30 15:15:00",
-      "version": "20220630",
+      "date": "2023-04-20 16:45:00",
+      "version": "20230420",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/126"
     },
     "攻城狮论坛": {

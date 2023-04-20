@@ -158,7 +158,7 @@
 | 糖果VR资源网 | [糖果VR资源网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/糖果VR资源网.har) | Web | username:账号<br>password:密码<br><https://www.tangguo2.com/forum.php> |
 | MC百科 | [MC百科.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/MC百科.har) | Web | username:账号<br>password:密码<br><https://center.mcmod.cn/> |
 | 全球VPS交流社区 | [全球VPS交流社区.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/全球VPS交流社区.har) | Web | domain:为网站域名，如【<https://www.xiaoji.la/>】,https和后面的'/'都要有<br>Cookies:登录后首页cookie<br><https://www.xiaoji.la/> |
-| 鸿鹄论坛 | [鸿鹄论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/鸿鹄论坛.har) | Web | Cookies:登录后首页cookie<br><https://bbs.hh010.com/> |
+| 鸿鹄论坛 | [鸿鹄论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/鸿鹄论坛.har) | Web | Cookies:登录后首页cookie<br>UA：user-agent对应的值<br><https://bbs.hh010.com/> |
 | 攻城狮论坛 | [攻城狮论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/攻城狮论坛.har) | Web | Cookies:登录后首页cookie<br><http://bbs.vlan5.com/> |
 | 4k时光 | [4k时光.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/4k时光.har) | Web | Cookies:登录后首页cookie<br><https://www.4ksg.com/> |
 | 布谷TV | [布谷TV.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/布谷TV.har) | Web | username:邮箱<br>password:密码<br><https://www.bugutv.net/> |
