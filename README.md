@@ -193,6 +193,7 @@
 | 海角社区 | [海角社区.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/海角社区.har) | Web | domain：网站域名【<https://www.xxx.com/>】<br>username:用户名<br>password:密码<br>ua:user-agent的值 |
 | 阿里云盘 | [阿里云盘.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/阿里云盘.har) | App | qd_email：签到框架的登录账号<br>qd_pwd:签到框架的登录密码<br>ua:user-agent的值<br>id_notepad:记事本的ID<br>初次使用需要在 `工具箱->记事本` 功能里创建一个记事本，记住记事本id,里面填写：【`阿里云盘的refresh_token值：xxxxxxxxxxxxxxxxxxxxxxxx`】这样的信息，信息不包含【】符号，且'`阿里云盘的refresh_token值：`'这段必须要有，refresh_token的值抓取 `v2/account/token` 请求里的对应值。  |
 | 微妙网 | [微妙网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/微妙网.har) | Web | Cookies:登录后首页cookie<br><https://www.wmiao.com/> |
+| 心动日剧 | [心动日剧.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/心动日剧.har) | Web | username:账号<br>password:密码<br><http://www.doki8.net/> |
 
 ## 项目相关
 

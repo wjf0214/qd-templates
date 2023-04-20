@@ -1764,6 +1764,18 @@
       "date": "2023-03-07 10:50:00",
       "version": "20230307",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/167"
+    },
+    "心动日剧": {
+      "name": "心动日剧",
+      "author": "wjf0214",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/心动日剧.har",
+      "update": false,
+      "comments": "username:账号<br>password:密码<br>http://www.doki8.net/",
+      "filename": "心动日剧.har",
+      "content": "",
+      "date": "2023-04-20 16:30:00",
+      "version": "20230420",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/173"
     }
   }
 }
