@@ -162,8 +162,8 @@
 | 4K视界 | [4K视界.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/4K视界.har) | Web | username:邮箱<br>password:密码<br><https://www.4ksj.com/> |
 | 威锋网 | [威锋网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/威锋网.har) | Web | accessToken:登录后header里的x-access-token<br><https://www.feng.com/> |
 | 酷家乐 | [酷家乐.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/酷家乐.har) | Web | Cookies:登录后首页cookie<br><https://www.kujiale.com/> |
-| 天使动漫-签到 | [天使动漫-签到.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/天使动漫-签到.har) | Web | Cookies:登录后首页cookie<br><https://www.tsdm39.net/forum.php> |
-| 天使动漫-打工 | [天使动漫-打工.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/天使动漫-打工.har) | Web | Cookies:登录后首页cookie<br>打工6小时一次，cron可以设置为【0 */8 * * *】<br><https://www.tsdm39.net/forum.php> |
+| 天使动漫-签到 | [天使动漫-签到.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/天使动漫-签到.har) | Web | Cookies:登录后首页cookie<br><https://www.tsdm39.com/forum.php> |
+| 天使动漫-打工 | [天使动漫-打工.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/天使动漫-打工.har) | Web | Cookies:登录后首页cookie<br>打工6小时一次，cron可以设置为【0 */8 * * *】<br><https://www.tsdm39.com/forum.php> |
 | 华印社区 | [华印社区.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/华印社区.har) | Web | Cookies:登录后首页cookie<br><https://www.52cnp.com/> |
 | 梦璃 | [梦璃.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/梦璃.har) | Web | username:邮箱<br>password:密码<br><https://moeli-desu.com/> |
 | 柚坛社区 | [柚坛社区.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/柚坛社区.har) | Web | Cookies:登录后首页cookie<br><https://www.uotan.cn/> |
