@@ -481,13 +481,13 @@
       "version":"20211006",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/44"
     },
-    "品枝": {
-      "name": "品枝",
+    "品技": {
+      "name": "品技",
       "author": "wjf0214",
-      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/品枝.har",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/品技.har",
       "update": false,
       "comments": "flaresolverrUrl:flaresolverr 服务的地址。<br>Cookies:登录后首页cookie<br>n:空间访问次数<br>https://www.tekqart.com/",
-      "filename": "品枝.har",
+      "filename": "品技.har",
       "content": "",
       "date": "2023-03-18 14:00:00",
       "version": "20230318",

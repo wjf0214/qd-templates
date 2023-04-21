@@ -85,7 +85,7 @@
 | 好家伙机场 | [好家伙机场.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/好家伙机场.har) | Web | email:邮箱<br>passwd:密码<br><https://haojiahuo.live/> |
 | 后期菌资源村 | [后期菌资源村.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/后期菌资源村.har) | Web | username:手机号<br>password:密码<br><https://www.houqijun.vip/> |
 | 中国原创音乐基地5SING | [中国原创音乐基地5SING.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/中国原创音乐基地5SING.har) | Web | 登录后首页cookie,ck有效期一周<br><http://5sing.kugou.com/> |
-| 品枝 | [品枝.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/品枝.har) | Web | flaresolverrUrl:flaresolverr 服务的地址。<br>Cookies:登录后首页cookie<br>n:空间访问次数<br><https://www.tekqart.com/> |
+| 品技 | [品技.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/品技.har) | Web | flaresolverrUrl:flaresolverr 服务的地址。<br>Cookies:登录后首页cookie<br>n:空间访问次数<br><https://www.tekqart.com/> |
 | 189天翼云(账号密码版) | [189天翼云(账号密码版).har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/189天翼云(账号密码版).har) | Web | username:账号<br>password:密码<br><https://cloud.189.cn/> |
 | 绅士领域 | [绅士领域.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/绅士领域.har) | App | uid:个人uid可APP抓签到包看到 |
 | 手电大家谈 | [手电大家谈.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/手电大家谈.har) | Web | username:账号<br>password:密码<br><https://www.shoudian.org/> |
