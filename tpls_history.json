@@ -1206,11 +1206,11 @@
       "author": "wjf0214",
       "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/数码之家.har",
       "update": false,
-      "comments": "username:账号<br>password:密码<br>https://www.mydigit.cn/",
+      "comments": "Cookies:登录后首页cookie<br>https://www.mydigit.cn/",
       "filename": "数码之家.har",
       "content": "",
-      "date": "2022-03-02 22:00:00",
-      "version": "20220302",
+      "date": "2023-04-23 15:45:00",
+      "version": "20220423",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/115"
     },
     "鱼塘热榜": {
