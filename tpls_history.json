@@ -1740,6 +1740,18 @@
       "date": "2023-04-20 16:30:00",
       "version": "20230420",
       "commenturl":"https://github.com/wjf0214/qd-templates/discussions/173"
+    },
+    "4KHDR": {
+      "name": "4KHDR",
+      "author": "wjf0214",
+      "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/4KHDR.har",
+      "update": false,
+      "comments": "Cookies:登录后首页cookie<br>https://4khdr.cn/",
+      "filename": "4KHDR.har",
+      "content": "",
+      "date": "2023-05-11 20:00:00",
+      "version": "20230511",
+      "commenturl":"https://github.com/wjf0214/qd-templates/discussions/178"
     }
   }
 }
