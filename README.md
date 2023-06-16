@@ -128,7 +128,7 @@
 | 河洛网 | [河洛网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/河洛网.har) | Web | username:账号<br>password:密码<br><https://www.horou.com/> |
 | geekhub | [geekhub.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/geekhub.har) | Web | username:账号<br>password:密码<br><https://www.geekhub.com/> |
 | 52asus | [52asus.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/52asus.har) | Web | username:账号<br>password:密码<br><https://www.52asus.com/> |
-| eatASMR | [eatASMR.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/eatASMR.har) | Web | username:账号<br>password:密码<br><https://eatasmr.com/> |
+| eatASMR | [eatASMR.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/eatASMR.har) | Web | Cookies:登录后首页cookie<br><https://eatasmr.com/> |
 | 腾龙工作室 | [腾龙工作室.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/腾龙工作室.har) | Web | username:邮箱<br>password:密码<br><https://www.tenlonstudio.com/> |
 | keyshot产品渲染俱乐部 | [keyshot产品渲染俱乐部.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/keyshot产品渲染俱乐部.har) | Web | 登录后首页cookie<br><https://keyshot.pro/> |
 | 蓝光演唱会 | [蓝光演唱会.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/蓝光演唱会.har) | Web | username:账号<br>password:密码<br><https://www.lgych.com/> |
