@@ -191,6 +191,7 @@
 | 微妙网 | [微妙网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/微妙网.har) | Web | Cookies:登录后首页cookie<br><https://www.wmiao.com/> |
 | 心动日剧 | [心动日剧.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/心动日剧.har) | Web | username:账号<br>password:密码<br><http://www.doki8.net/> |
 | 4KHDR | [4KHDR.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/4KHDR.har) | Web | Cookies:登录后首页cookie<br><https://4khdr.cn/> |
+| DQ点单小程序 | [DQ点单小程序.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/DQ点单小程序.har) | 微信小程序 | phone:手机号<br>DQ点单微信小程序 |
 
 ## 项目相关
 

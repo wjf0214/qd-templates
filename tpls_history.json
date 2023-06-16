@@ -1752,6 +1752,18 @@
             "date": "2023-05-11 20:00:00",
             "version": "20230511",
             "commenturl": "https://github.com/wjf0214/qd-templates/discussions/178"
+        },
+        "DQ点单小程序": {
+          "name": "DQ点单小程序",
+          "author": "wjf0214",
+          "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/DQ点单小程序.har",
+          "update": false,
+          "comments": "phone:手机号<br>DQ点单微信小程序",
+          "filename": "DQ点单小程序.har",
+          "content": "",
+          "date": "2023-06-16 10:10:00",
+          "version": "20230616",
+          "commenturl": "https://github.com/wjf0214/qd-templates/discussions/182"
         }
     }
 }
