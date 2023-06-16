@@ -126,7 +126,6 @@
 | 摩登犀牛 | [摩登犀牛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/摩登犀牛.har) | Web | username:账号<br>password:密码<br><http://bbs.rhino3d.us/> |
 | Goldroom黄金屋 | [Goldroom黄金屋.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/Goldroom黄金屋.har) | Web | domain：网站域名【<https://www.xxx.com/>】<br>Cookies:登录后首页cookie |
 | 河洛网 | [河洛网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/河洛网.har) | Web | username:账号<br>password:密码<br><https://www.horou.com/> |
-| 小云社区 | [小云社区.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/小云社区.har) | Web | domain:域名<br>username:账号<br>password:密码<br><https://www.moke08.com/> |
 | 我爱迅雷 | [我爱迅雷.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/我爱迅雷.har) | Web | Cookies:登录后首页cookie<br><https://www.96yuedu.com/> |
 | geekhub | [geekhub.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/geekhub.har) | Web | username:账号<br>password:密码<br><https://www.geekhub.com/> |
 | 52asus | [52asus.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/52asus.har) | Web | username:账号<br>password:密码<br><https://www.52asus.com/> |
