@@ -1728,6 +1728,18 @@
             "date": "2023-06-16 10:10:00",
             "version": "20230616",
             "commenturl": "https://github.com/wjf0214/qd-templates/discussions/182"
-        }
+        },
+      "恩山无线论坛": {
+        "name": "恩山无线论坛",
+        "author": "wjf0214",
+        "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/恩山无线论坛.har",
+        "update": false,
+        "comments": "Cookies:登录后首页cookie<br>https://www.right.com.cn/forum/forum.php",
+        "filename": "恩山无线论坛.har",
+        "content": "",
+        "date": "2023-06-26 10:00:00",
+        "version": "20230626",
+        "commenturl": "https://github.com/wjf0214/qd-templates/discussions/183"
+      }
     }
 }
