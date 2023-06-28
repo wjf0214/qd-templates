@@ -1405,6 +1405,18 @@
             "version": "20230421",
             "commenturl": "https://github.com/wjf0214/qd-templates/discussions/135"
         },
+        "爱桌游": {
+          "name": "爱桌游",
+          "author": "wjf0214",
+          "url": "https://github.com/wjf0214/qd-templates/blob/master/爱桌游.har",
+          "update": false,
+          "comments": "domain:为网站域名，如【<https://www.zhuoyoux.com/>】,https和后面的'/'都要有<br>username:邮箱<br>password:密码<br>https://www.zhuoyoux.com/",
+          "filename": "爱桌游.har",
+          "content": "",
+          "date": "2023-06-28 13:55:00",
+          "version": "20230628",
+          "commenturl":"https://github.com/wjf0214/qd-templates/discussions/136"
+        },
         "华印社区": {
             "name": "华印社区",
             "author": "wjf0214",
