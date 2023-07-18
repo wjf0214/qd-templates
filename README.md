@@ -192,6 +192,7 @@
 | 4KHDR | [4KHDR.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/4KHDR.har) | Web | Cookies:登录后首页cookie<br><https://4khdr.cn/> |
 | DQ点单小程序 | [DQ点单小程序.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/DQ点单小程序.har) | 微信小程序 | phone:手机号<br>DQ点单微信小程序 |
 | 恩山无线论坛 | [恩山无线论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/恩山无线论坛.har) | Web | Cookies:登录后首页cookie<br><https://www.right.com.cn/forum/forum.php> |
+| IT天空 | [IT天空.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/IT天空.har) | Web | Cookies:登录后首页cookie<br><https://www.itsk.com/> |
 
 ## 项目相关
 
