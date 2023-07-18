@@ -87,7 +87,7 @@
 | 中国原创音乐基地5SING | [中国原创音乐基地5SING.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/中国原创音乐基地5SING.har) | Web | 登录后首页cookie,ck有效期一周<br><http://5sing.kugou.com/> |
 | 品技 | [品技.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/品技.har) | Web | flaresolverrUrl:flaresolverr 服务的地址。<br>Cookies:登录后首页cookie<br>n:空间访问次数<br><https://www.tekqart.com/> |
 | 189天翼云(账号密码版) | [189天翼云(账号密码版).har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/189天翼云(账号密码版).har) | Web | username:账号<br>password:密码<br><https://cloud.189.cn/> |
-| 绅士领域 | [绅士领域.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/绅士领域.har) | App | uid:个人uid可APP抓签到包看到 |
+| 绅士领域 | [绅士领域.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/绅士领域.har) | App | domain:域名,如【<https://xxx.com/>】,后面带'/'<br>uid:个人uid可APP抓签到包看到 |
 | 手电大家谈 | [手电大家谈.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/手电大家谈.har) | Web | username:账号<br>password:密码<br><https://www.shoudian.org/> |
 | 次元狗 | [次元狗.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/次元狗.har) | Web | username:账号<br>password:密码<br><https://www.acgndog.com/> |
 | 科技玩家 | [科技玩家.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/科技玩家.har) | Web | username:账号<br>password:密码<br><https://www.kejiwanjia.com/> |
