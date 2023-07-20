@@ -1776,6 +1776,18 @@
             "date": "2023-07-18 16:30:00",
             "version": "20230718",
             "commenturl": "https://github.com/wjf0214/qd-templates/discussions/184"
+        },
+        "罗技粉丝俱乐部": {
+            "name": "罗技粉丝俱乐部",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/罗技粉丝俱乐部.har",
+            "update": false,
+            "comments": "token：抓包api.wincheers.net包里的Authorization<br>罗技粉丝俱乐部微信小程序",
+            "filename": "罗技粉丝俱乐部.har",
+            "content": "",
+            "date": "2023-07-20 14:40:00",
+            "version": "20230720",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/185"
         }
     }
 }

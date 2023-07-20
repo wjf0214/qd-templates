@@ -193,6 +193,7 @@
 | DQ点单小程序 | [DQ点单小程序.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/DQ点单小程序.har) | 微信小程序 | phone:手机号<br>DQ点单微信小程序 |
 | 恩山无线论坛 | [恩山无线论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/恩山无线论坛.har) | Web | Cookies:登录后首页cookie<br><https://www.right.com.cn/forum/forum.php> |
 | IT天空 | [IT天空.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/IT天空.har) | Web | Cookies:登录后首页cookie<br><https://www.itsk.com/> |
+| 罗技粉丝俱乐部 | [罗技粉丝俱乐部.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/罗技粉丝俱乐部.har) | 微信小程序 | token：抓包api.wincheers.net包里的Authorization<br>罗技粉丝俱乐部微信小程序 |
 
 ## 项目相关
 
