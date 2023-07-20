@@ -1788,6 +1788,18 @@
             "date": "2023-07-20 14:40:00",
             "version": "20230720",
             "commenturl": "https://github.com/wjf0214/qd-templates/discussions/185"
+        },
+        "虎课网": {
+            "name": "虎课网",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/虎课网.har",
+            "update": false,
+            "comments": "Cookies:登录后首页cookie<br>https://huke88.com/",
+            "filename": "虎课网.har",
+            "content": "",
+            "date": "2023-07-20 15:50:00",
+            "version": "20230720",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/186"
         }
     }
 }
