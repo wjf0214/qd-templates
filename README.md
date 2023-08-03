@@ -169,7 +169,7 @@
 | 瀚思彼岸 | [瀚思彼岸.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/瀚思彼岸.har) | Web | Cookies:登录后首页cookie<br><https://bbs.hassbian.com/> |
 | 哥特动漫王国 | [哥特动漫王国.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/哥特动漫王国.har) | Web | Cookies:登录后首页cookie<br><https://www.gtloli.gay/forum.php> |
 | 网盘分享吧 | [网盘分享吧.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/网盘分享吧.har) | Web | Cookies:登录后首页cookie<br><https://www.99wody.com/> |
-| 1OVE论坛 | [1OVE论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/1OVE论坛.har) | Web | Cookies:登录后首页cookie<br><https://bbs.1ove.club/> |
+| YiOVE论坛 | [YiOVE论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/YiOVE论坛.har) | Web | Cookies:登录后首页cookie<br><https://bbs.yiove.com/> |
 | 萌出血动漫论坛 | [萌出血动漫论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/萌出血动漫论坛.har) | Web | Cookies:登录后首页cookie<br><https://www.bbshh.top/> |
 | SketchUp吧 | [SketchUp吧.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/SketchUp吧.har) | Web | Cookies:登录后首页cookie<br><https://www.sketchupbar.com/> |
 | 知末 | [知末.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/知末.har) | 微信小程序 | Cookies:登录后 api.znzmo.com 域名的cookie<br><https://www.znzmo.com/> |
