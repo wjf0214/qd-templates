@@ -57,7 +57,6 @@
 | 魅族社区 | [魅族社区.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/魅族社区.har) | App | app_version_name:Header里ANDROID-APP-VERSION_NAME对应的值<br>app_version_code：Header里ANDROID-APP-VERSION-CODE对应的值<br>Cookie:手机抓包APP登录后的cookie<br><https://bbs.meizu.cn/> |
 | 杉果 | [杉果.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/杉果.har) | Web | username:账号<br>password:密码<br><https://sonkwo.com/> |
 | hao4k | [hao4k.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/hao4k.har) | Web | 登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br><https://www.hao4k.cn/> |
-| 几鸡 | [几鸡.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/几鸡.har) | Web | username:账号<br>password:密码<br>domain：网站域名 |
 | 猫耳FM-每日鱼干 | [猫耳FM-每日鱼干.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/猫耳FM-每日鱼干.har) | Web | 登录后首页cookie<br><https://www.missevan.com> |
 | 什么值得买7合一 | [什么值得买7合一.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/什么值得买7合一.har) | Web | 登录后首页cookie<br><https://smzdm.com> |
 | 龙的天空 | [龙的天空.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/龙的天空.har) | Web | username:账号<br>password:密码<br><https://www.lkong.com/> |
