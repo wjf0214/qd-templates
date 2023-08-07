@@ -94,7 +94,7 @@
 | QooApp | [QooApp.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/QooApp.har) | App | token:下载App抓包cookie,找到请求头部 x-user-token 的值 |
 | KDays论坛 | [KDays论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/KDays论坛.har) | Web | username:账号<br>password:密码<br><https://uc.kdays.net/> |
 | HiFiNi | [HiFiNi.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/HiFiNi.har) | Web | 登录后首页cookie<br><https://www.hifini.com/> |
-| 吾爱破解 | [吾爱破解.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/吾爱破解.har) | Web | 登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br><https://www.52pojie.cn/> |
+| 吾爱破解 | [吾爱破解.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/吾爱破解.har) | Web | 登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br>UA：user-agent对应的值<br><https://www.52pojie.cn/> |
 | MZFastCloud | [MZFastCloud.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/MZFastCloud.har) | Web | username:账号<br>password:密码<br><https://www.mzfast.xyz/> |
 | Fa米家 | [Fa米家.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/Fa米家.har) | App | 抓包 APP 的请求中的 headers 信息,提取 token、deviceId、blackBox 即可,fmVersion,os,User-Agent等参数可以根据自身情况自行更改模板。<br>应用单点登录限制，换设备登录后，之前登录状态参数失效 |
 | 王者营地 | [王者营地.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/王者营地.har) | App | 仅限QQ登录<br>抓包 APP 中 <https://ssl.kohsocialapp.qq.com/user/login> 请求内容的“accessToken”和“openId”<br>抓包 APP 中 <https://kohcamp.qq.com/operation/action/signin> 请求内容的“sig”、“timestamp”、“msdkEncodeParam”和“msdkToken”<br>t：抓包的timestamp参数<br>APP自行商店下载 |
