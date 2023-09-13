@@ -62,7 +62,7 @@
 | 网易云游戏 | [网易云游戏.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/网易云游戏.har) | Web | 登录后首页cookie<br><https://cg.163.com/> |
 | E次元 | [E次元.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/E次元.har) | Web | domain:为网站域名，如【<https://www.acge.me/>】,https和后面的'/'都要有<br/>homeaction和cks 打开首页即可获取 <https://www.acge.me/wp-admin/admin-ajax.php?action=><br><https://www.acge.me/> |
 | 致美化 | [致美化.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/致美化.har) | Web | user:账号<br>pass:密码<br><https://zhutix.com> |
-| 书香门第 | [书香门第.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/书香门第.har) | Web | username:账号<br>password:密码<br>登陆账号密码(只支持字母+数字组合账号)<br><http://www.txtnovel.pro/> |
+| 书香门第 | [书香门第.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/书香门第.har) | Web | username:账号<br>password:密码<br>登陆账号密码(只支持字母+数字组合账号)<br><http://www.txtnovel.vip/> |
 | hostloc主机论坛 | [hostloc主机论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/hostloc主机论坛.har) | Web | n:访问空间次数<br>登录后首页cookie<br><https://hostloc.com> |
 | south-plus | [south-plus.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/south-plus.har) | Web | 登录后首页cookie和UA<br>domain:为网站域名，如【<https://www.south-plus.net/>】,https和后面的'/'都要有<br><https://www.south-plus.net> |
 | VCB-Studio分享论坛 | [VCB-Studio分享论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/VCB-Studio分享论坛.har) | Web | 登录后首页cookie<br><https://bbs.acgrip.com> |
