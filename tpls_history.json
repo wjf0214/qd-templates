@@ -25,6 +25,18 @@
             "version": "20220311",
             "commenturl": "https://github.com/wjf0214/qd-templates/discussions/4"
         },
+        "人人字幕组": {
+            "name": "人人字幕组",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/人人字幕组.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>DOMAIN：网站域名【https://www.yysub.cc/】",
+            "filename": "人人字幕组.har",
+            "content": "",
+            "date": "2023-09-13 15:30:00",
+            "version": "20230913",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/5"
+        },
         "迅维网": {
             "name": "迅维网",
             "author": "wjf0214",
