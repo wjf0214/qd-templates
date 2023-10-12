@@ -173,7 +173,7 @@
 | 嘉立创EDA | [嘉立创EDA.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/嘉立创EDA.har) | Web | Cookies:登录后首页cookie<br><https://oshwhub.com/> |
 | 海底捞小程序 | [海底捞小程序.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/海底捞小程序.har) | 微信小程序 | 抓包访问小程序<br>openId:thirdCommLogin 请求中的 openid<br>uid:thirdCommLogin 请求中的 uid<br>微信小程序 |
 | 漫画补档-冰室 | [漫画补档-冰室.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/漫画补档-冰室.har) | Web | Cookies:登录后首页cookie<br>UA：user-agent对应的值<br><https://www.manhuabudangbbs.com/> |
-| 搜集网 | [搜集网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/搜集网.har) | Web | Cookies:登录后首页cookie<br><https://www.simpsearch.com/> |
+| 搜集网 | [搜集网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/搜集网.har) | Web | domain：网站域名【<https://www.suujee.com/>】<br>Cookies:登录后首页cookie<br><https://www.suujee.com/> |
 | iYa.App软件交流社区 | [iYa.App软件交流社区.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/iYa.App软件交流社区.har) | Web | Cookies:登录后首页cookie<br><https://www.iya.app/> |
 | STL下载网 | [STL下载网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/STL下载网.har) | Web | Cookies:登录后首页cookie<br><https://www.stlxz.com/> |
 | 幼教库 | [幼教库.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/幼教库.har) | Web | username:手机号<br>password:密码<br><https://www.youjiaoku.com/> |
