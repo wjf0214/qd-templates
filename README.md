@@ -79,7 +79,6 @@
 | 飞客茶馆 | [飞客茶馆.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/飞客茶馆.har) | Web | username:账号,手机号<br>password:密码<br><https://www.flyert.com/><br>由于网站登录授权特殊,授权次数不固定。请求暂定3次，超过3次。可能登录不成功。多试几次便可 |
 | 萌幻之乡 | [萌幻之乡.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/萌幻之乡.har) | Web | domain:为网站域名，如【<https://www.hmoeh.com/>】,https和后面的'/'都要有<br>Cookies:登录后首页cookie<br><https://www.hmoeh.com/> |
 | v2ex | [v2ex.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/v2ex.har) | Web | 登录后首页cookie<br><https://www.v2ex.com/> |
-| 好家伙机场 | [好家伙机场.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/好家伙机场.har) | Web | email:邮箱<br>passwd:密码<br><https://haojiahuo.live/> |
 | 后期菌资源村 | [后期菌资源村.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/后期菌资源村.har) | Web | username:手机号<br>password:密码<br><https://www.houqijun.vip/> |
 | 中国原创音乐基地5SING | [中国原创音乐基地5SING.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/中国原创音乐基地5SING.har) | Web | 登录后首页cookie,ck有效期一周<br><http://5sing.kugou.com/> |
 | 品技 | [品技.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/品技.har) | Web | flaresolverrUrl:flaresolverr 服务的地址。<br>Cookies:登录后首页cookie<br>n:空间访问次数<br><https://www.tekqart.com/> |
