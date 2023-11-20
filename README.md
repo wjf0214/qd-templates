@@ -108,7 +108,7 @@
 | 小米运动(手机号版) | [小米运动(手机号版).har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/小米运动(手机号版).har) | App | username:手机号<br>password:密码<br>min_step:最小步数<br>max_step:最大步数<br>步数在最大最小值之间取值，不填默认为1w到2w之间随机 |
 | 小米运动(邮箱版) | [小米运动(邮箱版).har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/小米运动(邮箱版).har) | App | username:邮箱<br>password:密码<br>min_step:最小步数<br>max_step:最大步数<br>步数在最大最小值之间取值，不填默认为1w到2w之间随机 |
 | 阡陌居 | [阡陌居.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/阡陌居.har) | Web | 登录后首页cookie<br><http://www.1000qm.vip/> |
-| 魔兽大数据 | [魔兽大数据.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/魔兽大数据.har) | Web | 登录后首页cookie<br>content：世界频道发言的内容<br><http://bj.wowdata.top/> |
+| 魔兽大数据 | [魔兽大数据.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/魔兽大数据.har) | Web | 登录后首页cookie<br>content：世界频道发言的内容<br><https://wowdata.top/> |
 | 万由论坛 | [万由论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/万由论坛.har) | Web | username:手机号<br>password:密码<br><https://www.u-share.cn/forum.php> |
 | 龙de船人 | [龙de船人.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/龙de船人.har) | Web | 登录后首页cookie<br><https://www.imarine.club/> |
 | 新赚吧 | [新赚吧.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/新赚吧.har) | Web | username:账号<br>password:密码<br><https://v1.xianbao.net/> |
