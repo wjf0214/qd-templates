@@ -58,7 +58,6 @@
 | 杉果 | [杉果.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/杉果.har) | Web | username:账号<br>password:密码<br><https://sonkwo.com/> |
 | hao4k | [hao4k.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/hao4k.har) | Web | 登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br><https://www.hao4k.cn/> |
 | 猫耳FM-每日鱼干 | [猫耳FM-每日鱼干.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/猫耳FM-每日鱼干.har) | Web | 登录后首页cookie<br><https://www.missevan.com> |
-| 什么值得买7合一 | [什么值得买7合一.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/什么值得买7合一.har) | Web | 登录后首页cookie<br><https://smzdm.com> |
 | 龙的天空 | [龙的天空.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/龙的天空.har) | Web | username:账号<br>password:密码<br><https://www.lkong.com/> |
 | 网易云游戏 | [网易云游戏.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/网易云游戏.har) | Web | 登录后首页cookie<br><https://cg.163.com/> |
 | E次元 | [E次元.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/E次元.har) | Web | domain:为网站域名，如【<https://www.acge.me/>】,https和后面的'/'都要有<br/>homeaction和cks 打开首页即可获取 <https://www.acge.me/wp-admin/admin-ajax.php?action=><br><https://www.acge.me/> |
