@@ -190,6 +190,7 @@
 | 虎课网 | [虎课网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/虎课网.har) | Web | Cookies:登录后首页cookie<br><https://huke88.com/> |
 | 51黑电子论坛 | [51黑电子论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/51黑电子论坛.har) | Web | Cookies:登录后首页cookie<br><http://www.51hei.com/bbs/> |
 | 科研通 | [科研通.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/科研通.har) | Web | username:用户名<br>password:密码<br><https://www.ablesci.com/> |
+| 飞天资源论坛 | [飞天资源论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/飞天资源论坛.har) | Web | Cookies:登录后首页cookie<br><https://feitianwu7.com/> |
 
 ## 项目相关
 
