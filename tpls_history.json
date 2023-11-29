@@ -1728,6 +1728,18 @@
             "date": "2023-07-20 19:40:00",
             "version": "20230720",
             "commenturl": "https://github.com/wjf0214/qd-templates/discussions/187"
+        },
+        "科研通": {
+            "name": "科研通",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/科研通.har",
+            "update": false,
+            "comments": "username:用户名<br>password:密码<br>https://www.ablesci.com/",
+            "filename": "科研通.har",
+            "content": "",
+            "date": "2023-11-29 15:55:00",
+            "version": "20231129",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/194"
         }
     }
 }
