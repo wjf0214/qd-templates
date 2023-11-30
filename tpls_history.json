@@ -1752,6 +1752,18 @@
             "date": "2023-11-29 16:50:00",
             "version": "20231129",
             "commenturl": "https://github.com/wjf0214/qd-templates/discussions/195"
+        },
+        "绯月ScarletMoon": {
+            "name": "绯月ScarletMoon",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/绯月ScarletMoon.har",
+            "update": false,
+            "comments": "username:用户名<br>password:密码<br>https://bbs.kfpromax.com/",
+            "filename": "绯月ScarletMoon.har",
+            "content": "",
+            "date": "2023-11-30 11:45:00",
+            "version": "20231130",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/196"
         }
     }
 }
