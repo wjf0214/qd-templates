@@ -30,9 +30,9 @@
    <img alingn="center" src="https://profile-counter.glitch.me/qd-templates/count.svg"  alt="qd-templates"/>
  </p>
 
-## 🖥️星图
+## 🖥️Star History
 
-[![Stargazers over time](https://starchart.cc/wjf0214/qd-templates.svg)](https://starchart.cc/wjf0214/qd-templates)
+[![Star History Chart](https://api.star-history.com/svg?repos=wjf0214/qd-templates&type=Date)](https://star-history.com/#wjf0214/qd-templates&Date)
 
 ## 📃免责声明
 
