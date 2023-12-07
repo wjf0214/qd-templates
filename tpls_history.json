@@ -1764,6 +1764,18 @@
             "date": "2023-12-01 00:30:00",
             "version": "20231201",
             "commenturl": "https://github.com/wjf0214/qd-templates/discussions/196"
+        },
+        "星空内网穿透": {
+            "name": "星空内网穿透",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/星空内网穿透.har",
+            "update": false,
+            "comments": "username:用户名<br>password:密码<br>https://frp.starryfrp.com/",
+            "filename": "星空内网穿透.har",
+            "content": "",
+            "date": "2023-12-07 16:40:00",
+            "version": "20231207",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/197"
         }
     }
 }
