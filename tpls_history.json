@@ -537,8 +537,8 @@
             "comments": "登录后首页cookie<br>https://www.hifini.com/",
             "filename": "HiFiNi.har",
             "content": "W3siY29tbWVudCI6IuetvuWIsCIsInJlcXVlc3QiOnsibWV0aG9kIjoiUE9TVCIsInVybCI6Imh0dHBzOi8vd3d3LmhpZmluaS5jb20vc2dfc2lnbi5odG0iLCJoZWFkZXJzIjpbeyJuYW1lIjoicHJhZ21hIiwidmFsdWUiOiJuby1jYWNoZSJ9LHsibmFtZSI6ImNhY2hlLWNvbnRyb2wiLCJ2YWx1ZSI6Im5vLWNhY2hlIn0seyJuYW1lIjoiYWNjZXB0IiwidmFsdWUiOiJ0ZXh0L3BsYWluLCAqLyo7IHE9MC4wMSJ9LHsibmFtZSI6IngtcmVxdWVzdGVkLXdpdGgiLCJ2YWx1ZSI6IlhNTEh0dHBSZXF1ZXN0In0seyJuYW1lIjoidXNlci1hZ2VudCIsInZhbHVlIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk0LjAuNDYwNi44MSBTYWZhcmkvNTM3LjM2In0seyJuYW1lIjoib3JpZ2luIiwidmFsdWUiOiJodHRwczovL3d3dy5oaWZpbmkuY29tIn0seyJuYW1lIjoicmVmZXJlciIsInZhbHVlIjoiaHR0cHM6Ly93d3cuaGlmaW5pLmNvbS8ifSx7Im5hbWUiOiJhY2NlcHQtZW5jb2RpbmciLCJ2YWx1ZSI6Imd6aXAsIGRlZmxhdGUsIGJyIn0seyJuYW1lIjoiYWNjZXB0LWxhbmd1YWdlIiwidmFsdWUiOiJ6aC1DTix6aDtxPTAuOSxlbjtxPTAuOCJ9LHsibmFtZSI6ImNvb2tpZSIsInZhbHVlIjoie3tjb29raWV9fSJ9XSwiY29va2llcyI6W119LCJydWxlIjp7InN1Y2Nlc3NfYXNzZXJ0cyI6W3sicmUiOiIyMDAiLCJmcm9tIjoic3RhdHVzIn1dLCJmYWlsZWRfYXNzZXJ0cyI6W10sImV4dHJhY3RfdmFyaWFibGVzIjpbeyJuYW1lIjoiX19sb2dfXyIsInJlIjoiXCJtZXNzYWdlXCI6IFwiKC4rPylcIiIsImZyb20iOiJjb250ZW50In1dfX1d",
-            "date": "2021-11-12 10:00:00",
-            "version": "20211112",
+            "date": "2023-12-20 10:05:00",
+            "version": "20231220",
             "commenturl": "https://github.com/wjf0214/qd-templates/discussions/54"
         },
         "吾爱破解": {
