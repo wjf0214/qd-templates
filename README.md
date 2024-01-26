@@ -139,7 +139,6 @@
 | 爱上ASMR | [爱上ASMR.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/爱上ASMR.har) | Web | domain：网站域名【<https://www.asmras.com/>】<br>username:账号<br>password:密码<br><https://www.asmras.com/> |
 | GLaDOS | [GLaDOS.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/GLaDOS.har) | Web | Cookies:登录后首页cookie<br><https://glados.rocks/> |
 | 数码之家 | [数码之家.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/数码之家.har) | Web | Cookies:登录后首页cookie<br><https://www.mydigit.cn/> |
-| 鱼塘热榜 | [鱼塘热榜.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/鱼塘热榜.har) | Web | username:邮箱<br>password:密码<br><https://mo.fish/> |
 | Pico社区 | [Pico社区.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/Pico社区.har) | Web | Cookies:登录后首页cookie<br><https://bbs.picoxr.com/> |
 | 苹果团 | [苹果团.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/苹果团.har) | Web | Cookies:登录后首页cookie<br><https://appletuan.com/> |
 | 游戏大桶 | [游戏大桶.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/游戏大桶.har) | Web | username:邮箱<br>password:密码<br><https://www.gkinto.com/> |
