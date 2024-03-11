@@ -150,7 +150,7 @@
 | 攻城狮论坛 | [攻城狮论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/攻城狮论坛.har) | Web | Cookies:登录后首页cookie<br><http://bbs.vlan5.com/> |
 | 4k时光 | [4k时光.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/4k时光.har) | Web | Cookies:登录后首页cookie<br><https://www.4ksg.com/> |
 | 布谷TV | [布谷TV.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/布谷TV.har) | Web | username:邮箱<br>password:密码<br><https://www.bugutv.org/> |
-| 4K视界 | [4K视界.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/4K视界.har) | Web | username:邮箱<br>password:密码<br><https://www.4ksj.com/> |
+| 4K世界 | [4K世界.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/4K世界.har) | Web | username:邮箱<br>password:密码<br><https://www.4ksj.com/> |
 | 威锋网 | [威锋网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/威锋网.har) | Web | Cookies:登录后首页cookie<br><https://www.feng.com/> |
 | 酷家乐 | [酷家乐.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/酷家乐.har) | Web | Cookies:登录后首页cookie<br><https://www.kujiale.com/> |
 | 天使动漫-签到 | [天使动漫-签到.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/天使动漫-签到.har) | Web | Cookies:登录后首页cookie<br><https://www.tsdm39.com/forum.php> |
