@@ -1764,6 +1764,18 @@
             "date": "2023-12-07 17:50:00",
             "version": "20231207",
             "commenturl": "https://github.com/wjf0214/qd-templates/discussions/197"
+        },
+        "截天帝论坛": {
+            "name": "截天帝论坛",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/wjf0214/qd-templates/master/截天帝论坛.har",
+            "update": false,
+            "comments": "Cookies:登录后首页cookie<br>https://jietiandi.net/",
+            "filename": "截天帝论坛.har",
+            "content": "",
+            "date": "2024-03-14 10:30:00",
+            "version": "20240314",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/206"
         }
     }
 }
