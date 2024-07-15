@@ -173,7 +173,7 @@
 | 搜集网 | [搜集网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/搜集网.har) | Web | domain：网站域名【<https://www.suujee.com/>】<br>Cookies:登录后首页cookie<br><https://www.suujee.com/> |
 | iYa.App软件交流社区 | [iYa.App软件交流社区.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/iYa.App软件交流社区.har) | Web | Cookies:登录后首页cookie<br><https://www.iya.app/> |
 | STL下载网 | [STL下载网.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/STL下载网.har) | Web | Cookies:登录后首页cookie<br><https://www.stlxz.com/> |
-| 幼教库 | [幼教库.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/幼教库.har) | Web | username:手机号<br>password:密码<br><https://www.youjiaoku.com/> |
+| 幼教库 | [幼教库.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/幼教库.har) | Web | Cookies:登录后首页cookie<br><https://www.youjiaoku.com/> |
 | 安全论坛 | [安全论坛.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/安全论坛.har) | Web | Cookies:登录后首页cookie<br><https://bbs.anquan.com.cn/> |
 | NodeSeek | [NodeSeek.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/NodeSeek.har) | Web | Cookies:登录后首页cookie<br>isRandom:是否随机，不填为5个鸡腿签到，填写任意值为试试手气签到<br><https://www.nodeseek.com/> |
 | 捷配 | [捷配.har](https://raw.githubusercontent.com/wjf0214/qd-templates/master/捷配.har) | Web | Cookies:登录后首页cookie<br><https://www.jiepei.com/> |
